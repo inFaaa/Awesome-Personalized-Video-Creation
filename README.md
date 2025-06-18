@@ -11,7 +11,7 @@ This repo is used for recording and tracking recent personalized video generatio
     - [👤 Subject Identity Learning](#-subject-identity-learning)
     - [📽️ Foundation Video Generation Models](#️-foundation-video-generation-models)
   - [🌐 Open-Domain S2V Models](#-open-domain-s2v-models)
-    - [🎨 Creation Models (Guided by subject and caption)](#-creation-models-guided-by-subject-and-caption)
+    - [🎨 Creation Models](#-creation-models-guided-by-subject-and-caption)
     - [✂️ Editing Models](#️-editing-models)
     - [🎥 Motion-Guided Models](#-motion-guided-models)
     - [🔄 All in one Models](#-all-in-one-models)
@@ -45,8 +45,7 @@ Markdown format:
 
 ## 🌐 Open-Domain S2V Models
 
-### 🎨 Creation Models (Guided by subject and caption)
-
+### 🎨 Creation Models
 | Title                                                        | Venue     | Date             | Links                                                        |
 | ------------------------------------------------------------ | --------- | ---------------- | ------------------------------------------------------------ |
 | **PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models** | CVPR 2024 | Dec 2023 (arXiv) | [Paper](https://arxiv.org/abs/2312.13964v3) – [Project](https://pi-animator.github.io/)  - [Code](https://github.com/open-mmlab/PIA) |
@@ -74,7 +73,7 @@ Markdown format:
 | **DIVE: Taming DINO for Subject-Driven Video Editing**       | arXiv     | Dec 4 2024   | [Paper](https://arxiv.org/abs/2412.03347) – [Project](https://dino-video-editing.github.io) – [Code](https://github.com/OpenDriveLab/DIVE) |
 
 
-### 🎥 Motion-Guided Models
+### 🎥 Motion / Structure / Pose Transfer
 | Title                                                        | Venue     | Date         | Links                                                        |
 | ------------------------------------------------------------ | --------- | ------------ | ------------------------------------------------------------ |
 | **VideoComposer: Compositional Video Synthesis with Motion Controllability** | NeurIPS 2023 | Jun 2023 (arXiv) | [Paper](https://arxiv.org/pdf/2306.02018) – [Project](https://videocomposer.github.io/) - [Code](https://github.com/ali-vilab/videocomposer) |
@@ -84,6 +83,9 @@ Markdown format:
 | **DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization** | arXiv     | Mar 4 2025       | [Paper](https://arxiv.org/abs/2505.02192) – [Project](https://wenc-k.github.io/dualreal/) |
 | **JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation** | arXiv     | Mar 31 2025      | [Paper](https://arxiv.org/abs/2503.23951) – [Project](https://fdchen24.github.io/JointTuner-Website/) |
 | **PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement** | arXiv     | Jun 9 2025      | [Paper](https://sjtuplayer.github.io/projects/PolyVivid/)                    |
+
+
+### 🎥 Motion / Structure / Pose Transfer
 
 ### 🔄 All in one Models 
 
@@ -117,6 +119,11 @@ Markdown format:
 | ------------------------------------------------------------ | ----- | ----------- | ------------------------------------------------------------ |
 | **IP-FaceDiff: Identity-Preserving Facial Video Editing with Diffusion** | arXiv | Jan 13 2025 | [Paper](https://arxiv.org/abs/2501.07530) – [Code](https://github.com/ThoAce/IP-FaceDiff) |
 
+### Video Animation
+
+#### Portrait Animation / Facial Animation
+
+#### Full-Body Animation
 
 ## 💼 Commercial S2V Models
 

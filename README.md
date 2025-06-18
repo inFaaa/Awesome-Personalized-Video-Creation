@@ -1,4 +1,16 @@
-# Awesome Personalized Video Generation
+<a name="top"></a>
+# 🌟 Awesome Personalized Video Generation
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
+
+## ⚡ Contributing
+
+If you want to add your work or model to this list, please do not hesitate to email jhuang90@ur.rochester.edu or [pull requests]([https://github.com/inFaaa/Awesome-Personalized-Video-Generation/pulls](https://github.com/inFaaa/Awesome-Personalized-Video-Generation/pulls)).
+Markdown format:
+
+```markdown
+* | [**Paper Title**] | Venue | Date | [[paper]](link) [[code]](link) |
+```
 
 ## Open-Domain S2V Models
 

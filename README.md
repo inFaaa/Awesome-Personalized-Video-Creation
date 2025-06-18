@@ -76,7 +76,7 @@ Markdown format:
 
 | Title                                           | Venue | Date     | Links                                                        |
 | ----------------------------------------------- | ----- | -------- | ------------------------------------------------------------ |
-| **VACE: All-in-One Video Creation and Editing** | Arxiv | Mar 2025 | [Code](https://github.com/ali-vilab/VACE) - [Project](https://ali-vilab.github.io/VACE-Page/) - [Paper](https://github.com/ali-vilab/VACE) |
+| **VACE: All-in-One Video Creation and Editing** | arxiv | Mar 2025 | [Code](https://github.com/ali-vilab/VACE) - [Project](https://ali-vilab.github.io/VACE-Page/) - [Paper](https://github.com/ali-vilab/VACE) |
 | **HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation** | arXiv     | May 8 2025       | [Paper](https://arxiv.org/pdf/2505.04512) – [Project](https://hunyuancustom.github.io/) – [Code](https://github.com/Tencent-Hunyuan/HunyuanCustom) |
 
 
@@ -110,8 +110,8 @@ Markdown format:
 | ------------------------------------------------------------ | --------------------- | ----------- | ------------------------------------------------------------ |
 | **ConsisID-Bench** – 150 identities & 90 prompts (human-domain) | CVPR 2025 (Highlight) | Nov 2024    | [Project](https://pku-yuangroup.github.io/ConsisID) – [Data](https://huggingface.co/datasets/PKU-YuanGroup/ConsisID-Bench) |
 | **MSRVTT-Personalization** (Alchemist-Bench) – Multi-subject personalization benchmark | CVPR 2025             | Jan 2025    | [Paper](https://arxiv.org/abs/2501.06187) – [Data/Code](https://github.com/snap-research/open-set-video-personalization) |
-| **VACE-Benchmark**  – VACE: All-in-One Video Creation and Editing | Arxiv 2025            | Mar 2025    | [Paper](https://arxiv.org/abs/2503.07598) – [Data/Code](https://huggingface.co/datasets/ali-vilab/VACE-Benchmark) |
-| **A2 Bench** – “Elements-to-Video” evaluation benchmark for arbitrary subjects | arXiv (SkyReels-A2)   | Apr 2025    | [Paper](https://arxiv.org/abs/2504.02436) – [Data/Code](https://github.com/SkyWorkAI/skyreels-a2) |
+| **VACE-Benchmark**  – VACE: All-in-One Video Creation and Editing | arXiv 2025            | Mar 2025    | [Paper](https://arxiv.org/abs/2503.07598) – [Data/Code](https://huggingface.co/datasets/ali-vilab/VACE-Benchmark) |
+| **A2 Bench** – “Elements-to-Video” evaluation benchmark for arbitrary subjects | arXiv  | Apr 2025    | [Paper](https://arxiv.org/abs/2504.02436) – [Data/Code](https://github.com/SkyWorkAI/skyreels-a2) |
 | **OpenS2V-Eval** – Fine-grained S2V benchmark (180 prompts, real & synthetic) | arXiv                 | May 28 2025 | [Paper](https://arxiv.org/abs/2505.20292) – [Project](https://pku-yuangroup.github.io/OpenS2V-Nexus) – [Code](https://huggingface.co/spaces/BestWishYsh/OpenS2V-Eval) |
 
 ## 📂 S2V Dataset

@@ -11,19 +11,23 @@ This repo is used for recording and tracking recent personalized video generatio
     - [👤 Subject Identity Learning](#-subject-identity-learning)
     - [📽️ Foundation Video Generation Models](#️-foundation-video-generation-models)
   - [🌐 Open-Domain S2V Models](#-open-domain-s2v-models)
-    - [🎨 Creation Models](#-creation-models-guided-by-subject-and-caption)
+    - [🎨 Creation Models](#-creation-models)
     - [✂️ Editing Models](#️-editing-models)
-    - [🎥 Motion-Guided Models](#-motion-guided-models)
+    - [🎥 Motion / Structure / Pose Transfer](#-motion--structure--pose-transfer)
     - [🔄 All in one Models](#-all-in-one-models)
   - [🧑 Human-Domain S2V Models](#-human-domain-s2v-models)
-    - [🎨 Creation Models](#-creation-models)
+    - [🎨 Creation Models](#-creation-models-1)
     - [✂️ Editing Models](#️-editing-models-1)
+    - [🫘 Video Animation](#-video-animation)
+      - [Portrait Animation / Facial Animation](#portrait-animation--facial-animation)
+      - [Full-Body Animation](#full-body-animation)
   - [💼 Commercial S2V Models](#-commercial-s2v-models)
   - [📈 Evaluation](#-evaluation)
     - [📊 S2V Benchmarks](#-s2v-benchmarks)
     - [📂 S2V Dataset](#-s2v-dataset)
     - [📏 Key Evaluation Metrics](#-key-evaluation-metrics)
   - [👍 Acknowledgement](#-acknowledgement)
+
 
 ## ⚡ Contributing
 
@@ -85,7 +89,6 @@ Markdown format:
 | **PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement** | arXiv     | Jun 9 2025      | [Paper](https://sjtuplayer.github.io/projects/PolyVivid/)                    |
 
 
-### 🎥 Motion / Structure / Pose Transfer
 
 ### 🔄 All in one Models 
 
@@ -119,7 +122,7 @@ Markdown format:
 | ------------------------------------------------------------ | ----- | ----------- | ------------------------------------------------------------ |
 | **IP-FaceDiff: Identity-Preserving Facial Video Editing with Diffusion** | arXiv | Jan 13 2025 | [Paper](https://arxiv.org/abs/2501.07530) – [Code](https://github.com/ThoAce/IP-FaceDiff) |
 
-### Video Animation
+### 🫘 Video Animation
 
 #### Portrait Animation / Facial Animation
 
@@ -130,7 +133,7 @@ Markdown format:
 - Pika 2.1
 - Keling 1.6
 - Veo 2
-- Vidu2.0
+- Vidu 2.0
 
 ## 📈 Evaluation
 

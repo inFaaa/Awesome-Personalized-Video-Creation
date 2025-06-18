@@ -31,8 +31,8 @@ Markdown format:
 ```
 
 ## 📚 Key Techniques & Foundational Models
-### Subject Identity Learning
-### Foundation Video Models
+### 👤 Subject Identity Learning
+### 📽️ Foundation Video Generation Models
 - Stable Video Diffusion
 - AnimateDiff
 - CogVideo-X

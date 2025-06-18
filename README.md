@@ -18,7 +18,6 @@
 | **SkyReels-A2: Compose Anything in Video Diffusion Transformers** | arXiv     | Apr 3 2025       | [Paper](https://arxiv.org/abs/2504.02436) – [Project](https://skyworkai.github.io/SkyReels-A2/) – [Code](https://github.com/SkyWorkAI/skyreels-a2) |
 | **Subject-driven Video Generation via Disentangled Identity and Motion** | arXiv     | Apr 23 2025      | [Paper](https://arxiv.org/abs/2504.17816) – [Code](https://github.com/carpedkm/disentangled-subject-to-vid) |
 | **DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization** | arXiv     | Mar 4 2025       | [Paper](https://arxiv.org/abs/2505.02192) – [Project](https://wenc-k.github.io/dualreal/) |
-| **HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation** | arXiv     | May 8 2025       | [Paper](https://arxiv.org/pdf/2505.04512) – [Project](https://hunyuancustom.github.io/) – [Code](https://github.com/Tencent-Hunyuan/HunyuanCustom) |
 | **BridgeIV: Bridging Customized Image and Video Generation through Test-Time Autoregressive Identity Propagation** | arXiv     | May 11 2025      | [Paper](https://arxiv.org/pdf/2505.06985)                    |
 
 ### Editing Models
@@ -38,6 +37,7 @@
 | Title                                           | Venue | Date     | Links                                                        |
 | ----------------------------------------------- | ----- | -------- | ------------------------------------------------------------ |
 | **VACE: All-in-One Video Creation and Editing** | Arxiv | Mar 2025 | [Code](https://github.com/ali-vilab/VACE) - [Project](https://ali-vilab.github.io/VACE-Page/) - [Paper](https://github.com/ali-vilab/VACE) |
+| **HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation** | arXiv     | May 8 2025       | [Paper](https://arxiv.org/pdf/2505.04512) – [Project](https://hunyuancustom.github.io/) – [Code](https://github.com/Tencent-Hunyuan/HunyuanCustom) |
 
 
 ## Human-Domain S2V Models

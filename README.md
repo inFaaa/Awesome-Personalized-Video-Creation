@@ -30,6 +30,15 @@ Markdown format:
 * | [**Paper Title**] | Venue | Date | [[paper]](link) [[code]](link) |
 ```
 
+## 📚 Key Techniques & Foundational Models
+### Subject Identity Learning
+### Foundation Video Models
+- Stable Video Diffusion
+- AnimateDiff
+- CogVideo-X
+- HunyuanVideo
+- Wan 2.1
+
 ## 🌐 Open-Domain S2V Models
 
 ### 🎨 Creation Models (Guided by subject and caption)

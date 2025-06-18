@@ -3,6 +3,24 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 
+This repo is used for recording and tracking recent personalized video generation. ￼ ￼
+
+- [🌟 Awesome Personalized Video Generation](#-awesome-personalized-video-generation)
+  - [⚡ Contributing](#-contributing)
+  - [🌐 Open-Domain S2V Models](#-open-domain-s2v-models)
+    - [🎨 Creation Models (Guided by subject and caption)](#-creation-models-guided-by-subject-and-caption)
+    - [✂️ Editing Models](#️-editing-models)
+    - [🎥 Motion-Guided Models](#-motion-guided-models)
+    - [🔄 All in one Models](#-all-in-one-models)
+  - [🧑 Human-Domain S2V Models](#-human-domain-s2v-models)
+    - [🎨 Creation Models](#-creation-models)
+    - [✂️ Editing Models](#️-editing-models-1)
+  - [📊 S2V Benchmarks](#-s2v-benchmarks)
+  - [📂 S2V Dataset](#-s2v-dataset)
+  - [💼 Commercial S2V Models](#-commercial-s2v-models)
+  - [👍 Acknowledgement](#-acknowledgement)
+
+
 ## ⚡ Contributing
 
 If you want to add your work to this list, please do not hesitate to email jhuang90@ur.rochester.edu or [pull requests]([https://github.com/inFaaa/Awesome-Personalized-Video-Generation/pulls](https://github.com/inFaaa/Awesome-Personalized-Video-Generation/pulls)).
@@ -12,9 +30,9 @@ Markdown format:
 * | [**Paper Title**] | Venue | Date | [[paper]](link) [[code]](link) |
 ```
 
-## Open-Domain S2V Models
+## 🌐 Open-Domain S2V Models
 
-### Creation Models
+### 🎨 Creation Models (Guided by subject and caption)
 
 | Title                                                        | Venue     | Date             | Links                                                        |
 | ------------------------------------------------------------ | --------- | ---------------- | ------------------------------------------------------------ |
@@ -31,7 +49,7 @@ Markdown format:
 | **MAGREF: Masked Guidance for Any-Reference Video Generation** | arXiv     | May 29 2025      | [Paper](https://arxiv.org/pdf/2505.23742) [Code](https://github.com/MAGREF-Video/MAGREF)                   |
 
 
-### Editing Models
+### ✂️ Editing Models
 
 | Title                                                        | Venue     | Date         | Links                                                        |
 | ------------------------------------------------------------ | --------- | ------------ | ------------------------------------------------------------ |
@@ -43,7 +61,7 @@ Markdown format:
 | **DIVE: Taming DINO for Subject-Driven Video Editing**       | arXiv     | Dec 4 2024   | [Paper](https://arxiv.org/abs/2412.03347) – [Project](https://dino-video-editing.github.io) – [Code](https://github.com/OpenDriveLab/DIVE) |
 
 
-### Motion-Guided Models
+### 🎥 Motion-Guided Models
 | Title                                                        | Venue     | Date         | Links                                                        |
 | ------------------------------------------------------------ | --------- | ------------ | ------------------------------------------------------------ |
 | **VideoComposer: Compositional Video Synthesis with Motion Controllability** | NeurIPS 2023 | Jun 2023 (arXiv) | [Paper](https://arxiv.org/pdf/2306.02018) – [Project](https://videocomposer.github.io/) - [Code](https://github.com/ali-vilab/videocomposer) |
@@ -54,7 +72,7 @@ Markdown format:
 | **JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation** | arXiv     | Mar 31 2025      | [Paper](https://arxiv.org/abs/2503.23951) – [Project](https://fdchen24.github.io/JointTuner-Website/) |
 | **PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement** | arXiv     | Jun 9 2025      | [Paper](https://sjtuplayer.github.io/projects/PolyVivid/)                    |
 
-### All in one Models 
+### 🔄 All in one Models 
 
 | Title                                           | Venue | Date     | Links                                                        |
 | ----------------------------------------------- | ----- | -------- | ------------------------------------------------------------ |
@@ -62,9 +80,9 @@ Markdown format:
 | **HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation** | arXiv     | May 8 2025       | [Paper](https://arxiv.org/pdf/2505.04512) – [Project](https://hunyuancustom.github.io/) – [Code](https://github.com/Tencent-Hunyuan/HunyuanCustom) |
 
 
-## Human-Domain S2V Models
+## 🧑 Human-Domain S2V Models
 
-### Creation Models
+### 🎨 Creation Models
 
 | Title                                                        | Venue     | Date        | Links                                                        |
 | ------------------------------------------------------------ | --------- | ----------- | ------------------------------------------------------------ |
@@ -80,13 +98,13 @@ Markdown format:
 | **Concat-ID: Towards Universal Identity-Preserving Video Synthesis** | arXiv     | Mar 18 2025 | [Paper](https://arxiv.org/abs/2503.14151) – [Code](https://github.com/ML-GSAI/Concat-ID) |
 | **InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions** | arXiv     | Jun 11 2025 | [Paper](https://arxiv.org/pdf/2506.09984) – [Project](https://zhenzhiwang.github.io/interacthuman/) |
 
-### Editing Models
+### ✂️ Editing Models
 
 | Title                                                        | Venue | Date        | Links                                                        |
 | ------------------------------------------------------------ | ----- | ----------- | ------------------------------------------------------------ |
 | **IP-FaceDiff: Identity-Preserving Facial Video Editing with Diffusion** | arXiv | Jan 13 2025 | [Paper](https://arxiv.org/abs/2501.07530) – [Code](https://github.com/ThoAce/IP-FaceDiff) |
 
-## S2V Benchmarks
+## 📊 S2V Benchmarks
 
 | Title / Benchmark                                            | Venue                 | Date        | Links                                                        |
 | ------------------------------------------------------------ | --------------------- | ----------- | ------------------------------------------------------------ |
@@ -96,13 +114,13 @@ Markdown format:
 | **A2 Bench** – “Elements-to-Video” evaluation benchmark for arbitrary subjects | arXiv (SkyReels-A2)   | Apr 2025    | [Paper](https://arxiv.org/abs/2504.02436) – [Data/Code](https://github.com/SkyWorkAI/skyreels-a2) |
 | **OpenS2V-Eval** – Fine-grained S2V benchmark (180 prompts, real & synthetic) | arXiv                 | May 28 2025 | [Paper](https://arxiv.org/abs/2505.20292) – [Project](https://pku-yuangroup.github.io/OpenS2V-Nexus) – [Code](https://huggingface.co/spaces/BestWishYsh/OpenS2V-Eval) |
 
-## S2V Dataset
+## 📂 S2V Dataset
 
 | Title / Dataset | Venue | Date        | Links                                                        |
 | --------------- | ----- | ----------- | ------------------------------------------------------------ |
 | **OpenS2V-5M**  | Arxiv | May 28 2025 | [Paper](https://arxiv.org/abs/2505.20292) – [Project](https://pku-yuangroup.github.io/OpenS2V-Nexus) – [Data](https://huggingface.co/datasets/BestWishYsh/OpenS2V-5M) |
 
-## Commercial S2V Models
+## 💼 Commercial S2V Models
 
 - Pika 2.1
 - Keling 1.6

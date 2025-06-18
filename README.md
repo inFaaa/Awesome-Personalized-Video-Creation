@@ -32,6 +32,7 @@
 ### Motion-Guided Models
 | Title                                                        | Venue     | Date         | Links                                                        |
 | ------------------------------------------------------------ | --------- | ------------ | ------------------------------------------------------------ |
+| **VideoComposer: Compositional Video Synthesis with Motion Controllability** | NeurIPS 2023 | Jun 2023 (arXiv) | [Paper](https://arxiv.org/pdf/2306.02018) – [Project](https://videocomposer.github.io/) - [Code](https://github.com/ali-vilab/videocomposer) |
 | **DreamVideo: Composing Your Dream Videos with Customized Subject and Motion** | CVPR 2024 | Dec 2023 (arXiv) | [Paper](https://arxiv.org/abs/2312.04433) – [Project](https://vchitect.github.io/VideoBooth-project/) - [Code](https://github.com/Vchitect/VideoBooth) |
 | **Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models** | ECCV2024  | Feb 2024     | — <br> [Paper](https://arxiv.org/abs/2402.14780) - [Project](https://ryx19th.github.io/customize-a-video/) - [Code](https://github.com/customize-a-video/customize-a-video) |
 | **Subject-driven Video Generation via Disentangled Identity and Motion** | arXiv     | Apr 23 2025      | [Paper](https://arxiv.org/abs/2504.17816) – [Code](https://github.com/carpedkm/disentangled-subject-to-vid) |

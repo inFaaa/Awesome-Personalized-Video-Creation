@@ -133,6 +133,7 @@ Markdown format:
 | **Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance** | TVCG 2024 | Jun 2023 | [Paper](https://arxiv.org/abs/2306.00943) – [Code](https://github.com/AILab-CVC/Make-Your-Video) |
 | **Cut-and-Paste: Subject-Driven Video Editing with Attention Control** | arXiv     | Nov 20 2023  | [Paper](https://arxiv.org/abs/2311.11697) – [Code](https://github.com/ZrrSkywalker/Cut-And-Paste) |
 | **AnyV2V: A Tuning-Free Framework For Any Video-to-Video Editing Tasks**       | TMLR 2024     | Mar 21 2024   | [Paper](https://arxiv.org/abs/2403.14468) – [Project](https://tiger-ai-lab.github.io/AnyV2V/) – [Code](https://github.com/TIGER-AI-Lab/AnyV2V) |
+| **ReVideo: Remake a Video with Motion and Content Control** | NeurIPS 2024   | May 22 2024         | — <br> [Paper](https://arxiv.org/abs/2405.13865) - [Project](https://mc-e.github.io/project/ReVideo/) - [Code](https://github.com/MC-E/ReVideo) |
 | **DIVE: Taming DINO for Subject-Driven Video Editing**       | arXiv     | Dec 4 2024   | [Paper](https://arxiv.org/abs/2412.03347) – [Project](https://dino-video-editing.github.io)  |
 | **DreamInsert: Zero-Shot Image-to-Video Object Insertion from A Single Image** | arXiv     | Mar 13 2025     | [Paper](https://arxiv.org/pdf/2503.10342)  |
 | **Get In Video: Add Anything You Want to the Video** | arXiv | May 2025 | [Project](https://dreamix-video-editing.github.io/) – [Paper](https://arxiv.org/abs/2503.06268) |

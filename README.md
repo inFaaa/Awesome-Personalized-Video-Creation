@@ -1,6 +1,6 @@
 <a name="top"></a>
 
-# 🌟 Awesome Personalized Video Generation and Editing
+# 🌟 Awesome Personalized Video Creation
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
@@ -17,20 +17,20 @@ PVG的目标是实现对视频生成过程的全方位定制，这不仅包括�
     - [🎛️ Multi-modal Control Extractor](#️-multi-modal-control-signal)
     - [📽️ Foundation Video Generation Models](#️-foundation-video-generation-models)
   - [🌐 Open-Domain Personalized Video Generation Models](#-open-domain-personalized-video-generation-models)
-    - [🎨 Subject-Driven Creation Models](#-subject-driven-creation-models)
+    - [🎨 Subject-Driven Generation Models](#-subject-driven-creation-models)
       - [Test-time Fine-tuning](#test-time-fine-tuning)
       - [Pretrained Adaptation](#pretrained-adaptation)
     - [✂️ Video-Driven Editing Models](#️-video-driven-editing-models)
-    - [🎥 Motion-Driven Generation](#-motion-driven-generation)
-    - [🔄 Multi-Modal-Driven Models](#-multi-modal-driven-models)
+    - [🎥 Motion-Driven Generation Models](#-motion-driven-generation)
+    - [🔄 Multi-Modal-Driven Generation Models](#-multi-modal-driven-models)
   - [🧑 Human-Domain Personalized Video Generation Models](#-human-domain-personalized-video-generation-models)
-    - [🎨 ID-Driven Creation Models](#-id-driven-creation-models)
+    - [🎨 ID-Driven Generation Models](#-id-driven-creation-models)
       - [Test-time Finetuning](#test-time-finetuning)
       - [Pretrained Adaptation](#pretrained-adaptation-1)
     - [✂️ Video-Driven Editing Models](#️-video-driven-editing-models-1)
     - [🎺 Audio-Driven Portrait Animation](#-audio-driven-portrait-animation)
     - [🕺 Pose-Driven Full-Body Animation](#-pose-driven-full-body-animation)
-    - [🔄 Multi-Modal-Driven Models](#-multi-modal-driven-models)
+    - [🔄 Multi-Modal-Driven Generation Models](#-multi-modal-driven-models)
   - [💼 Commercial Personalized Video Generation Models](#-commercial-personalized-video-generation-models)
   - [📈 Evaluation](#-evaluation)
     - [📊 Personalized Video Generation Benchmarks](#-personalized-video-generation-benchmarks)

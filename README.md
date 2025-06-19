@@ -56,14 +56,28 @@ Markdown format:
 
 ## 📚 Key Techniques & Foundational Models
 ### 🖼️ Personalized Image Generation
+- [DreamO](https://github.com/bytedance/DreamO)
+- [RealCustom](https://github.com/bytedance/RealCustom)
+- [UNO](https://github.com/bytedance/UNO)
+- [InfiniteYou](https://github.com/bytedance/InfiniteYou/tree/main)
+- [UniPortrait](https://github.com/junjiehe96/UniPortrait)
+- [PuLID](https://github.com/ToTheBeginning/PuLID)
+- [InstantID](https://github.com/instantX-research/InstantID)
+- [PhotoMaker](https://github.com/TencentARC/PhotoMaker)
+- [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter)
+
 ### 👤 Subject Identity Learning
 ### 🎛️ Multi-modal Control Signal
 ### 📽️ Foundation Video Generation Models
-- Stable Video Diffusion
-- AnimateDiff
-- CogVideo-X
-- HunyuanVideo
-- Wan 2.1
+- [Wan 2.1](https://github.com/Wan-Video/Wan2.1)
+- [Step-Video](https://github.com/stepfun-ai/Step-Video-T2V)
+- [HunyuanVideo](https://github.com/Tencent/HunyuanVideo)
+- [LTX-Video](https://github.com/Lightricks/LTX-Video)
+- [Mochi](https://github.com/genmoai/mochi)
+- [CogVideo-X](https://github.com/THUDM/CogVideo)
+- [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
+- [Open-Sora](https://github.com/hpcaitech/Open-Sora)
+- [Stable Video Diffusion](https://github.com/Stability-AI/generative-models)
 
 ## 🌐 Open-Domain Personalized Video Generation Models
 
@@ -87,14 +101,20 @@ Markdown format:
 | **SkyReels-A2: Compose Anything in Video Diffusion Transformers** | arXiv     | Apr 3 2025       | [Paper](https://arxiv.org/abs/2504.02436) – [Project](https://skyworkai.github.io/SkyReels-A2/) – [Code](https://github.com/SkyWorkAI/skyreels-a2) |
 | **BridgeIV: Bridging Customized Image and Video Generation through Test-Time Autoregressive Identity Propagation** | arXiv     | May 11 2025      | [Paper](https://arxiv.org/pdf/2505.06985)                    |
 | **MAGREF: Masked Guidance for Any-Reference Video Generation** | arXiv     | May 29 2025      | [Paper](https://arxiv.org/pdf/2505.23742) [Code](https://github.com/MAGREF-Video/MAGREF)                   |
-
-
+| **AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance** | arXiv     | Feb 2025      | [Paper](https://arxiv.org/abs/2502.08189) – [Code](https://github.com/AnyCharV/AnyCharV)                   |
+| **Movie Weaver: Tuning-Free Multi-Concept Video Personalization with Anchored Prompts** | arXiv     | Feb 2025      | [Paper](https://arxiv.org/abs/2502.07802)                  |
+| **ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning** | arXiv     | Jan 2025     | [Paper](https://arxiv.org/abs/2501.04698)                  |
+| **Customcrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities** | arXiv     | Feb 2025      | [Paper](https://arxiv.org/abs/2408.13239) – [Code](https://github.com/WuTao-CS/CustomCrafter)                   |
 
 ### ✂️ Editing Models
 
 #### Text-Guided Editing
 
 #### Subject Replacement/Addition
+
+| Title                                                        | Venue     | Date         | Links                                                        |
+| ------------------------------------------------------------ | --------- | ------------ | ------------------------------------------------------------ |
+| **Get In Video: Add Anything You Want to the Video** | arXiv | May 2025  | [Code](https://zhuangshaobin.github.io/GetInVideo-project/) – [Paper](https://arxiv.org/abs/2503.06268) |
 
 #### Video Stylization
 
@@ -170,10 +190,11 @@ Markdown format:
 
 ## 💼 Commercial Personalized Video Generation Models
 
-- Pika 2.1
-- Keling 1.6
-- Veo 2
-- Vidu 2.0
+- Pika
+- Keling
+- Veo
+- Vidu
+- Hailuo
 
 ## 📈 Evaluation
 

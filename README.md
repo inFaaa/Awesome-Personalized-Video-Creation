@@ -36,7 +36,7 @@ PVG的目标是实现对视频生成过程的全方位定制，这不仅包括�
     - [🕺 Video Animation](#-video-animation)
       - [Portrait Animation / Facial Animation](#portrait-animation--facial-animation)
       - [Full-Body Animation](#full-body-animation)
-  - [💼 Commercial S2V Models](#-commercial-s2v-models)
+  - [💼 Commercial Personalized Video Generation Models](#-commercial-s2v-models)
   - [📈 Evaluation](#-evaluation)
     - [📊 Personalized Video Generation Benchmarks](#-personalized-video-generation-benchmarks)
     - [📂 Personalized Video Generation Datasets](#-personalized-video-generation-datasets)
@@ -168,7 +168,7 @@ Markdown format:
 
 #### Full-Body Animation
 
-## 💼 Commercial S2V Models
+## 💼 Commercial Personalized Video Generation Models
 
 - Pika 2.1
 - Keling 1.6

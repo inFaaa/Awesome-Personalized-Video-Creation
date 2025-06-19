@@ -128,7 +128,6 @@ Markdown format:
 | Title                                                        | Venue     | Date         | Links                                                        |
 | ------------------------------------------------------------ | --------- | ------------ | ------------------------------------------------------------ |
 | **Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation** | ICCV 2023 | Dec 22 2022  | [Code](https://github.com/showlab/Tune-A-Video) <br> [Paper](https://arxiv.org/abs/2212.11565) |
-| **Structure and Content-Guided Video Synthesis with Diffusion Models** | ICCV 2023 | Feb 2023     | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Esser_Structure_and_Content-Guided_Video_Synthesis_with_Diffusion_Models_ICCV_2023_paper.pdf) |
 | **Dreamix: Video Diffusion Models are General Video Editors** | arXiv     | Feb 2023     | [Paper](https://arxiv.org/abs/2302.01329) – [Project](https://dreamix-video-editing.github.io/) |
 | **Make-A-Protagonist: Generic Video Editing with Visual and Textual Clues** | arXiv     | May 15  2023 | [Paper](https://arxiv.org/pdf/2305.08850) – [Code](https://github.com/HeliosZhao/Make-A-Protagonist) |
 | **Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance** | TVCG 2024 | Jun 2023 | [Paper](https://arxiv.org/abs/2306.00943) – [Code](https://github.com/AILab-CVC/Make-Your-Video) |
@@ -143,6 +142,7 @@ Markdown format:
 
 | Title                                                        | Venue        | Date             | Links                                                        |
 | ------------------------------------------------------------ | ------------ | ---------------- | ------------------------------------------------------------ |
+| **Structure and Content-Guided Video Synthesis with Diffusion Models** | ICCV 2023 | Feb 2023     | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Esser_Structure_and_Content-Guided_Video_Synthesis_with_Diffusion_Models_ICCV_2023_paper.pdf) |
 | **VideoComposer: Compositional Video Synthesis with Motion Controllability** | NeurIPS 2023 | Jun 2023 (arXiv) | [Paper](https://arxiv.org/pdf/2306.02018) – [Project](https://videocomposer.github.io/) - [Code](https://github.com/ali-vilab/videocomposer) |
 | **DreamVideo: Composing Your Dream Videos with Customized Subject and Motion** | CVPR 2024    | Dec 2023 (arXiv) | [Paper](https://arxiv.org/abs/2312.04433) – [Project](https://vchitect.github.io/VideoBooth-project/) - [Code](https://github.com/Vchitect/VideoBooth) |
 | **Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models** | ECCV2024     | Feb 2024         | — <br> [Paper](https://arxiv.org/abs/2402.14780) - [Project](https://ryx19th.github.io/customize-a-video/) - [Code](https://github.com/customize-a-video/customize-a-video) |

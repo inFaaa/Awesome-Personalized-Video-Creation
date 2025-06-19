@@ -15,6 +15,7 @@ PVG的目标是实现对视频生成过程的全方位定制，这不仅包括�
     - [🕳️ Controllable Video Generation](#️-controllable-video-generation)
     - [🖼️ Personalized Image Generation](#️-personalized-image-generation)
     - [👤 Subject Identity Learning](#-subject-identity-learning)
+    - [🎛️ Multi-modal Control Signal](#️-multi-modal-control-signal)
     - [📽️ Foundation Video Generation Models](#️-foundation-video-generation-models)
   - [🌐 Open-Domain Personalized Video Generation Models](#-open-domain-personalized-video-generation-models)
     - [🎨 Subject-Driven Creation Models](#-subject-driven-creation-models)
@@ -28,7 +29,7 @@ PVG的目标是实现对视频生成过程的全方位定制，这不仅包括�
       - [Test-time Finetuning](#test-time-finetuning)
       - [Pretrained Adaptation](#pretrained-adaptation-1)
     - [✂️ Video-Driven Editing Models](#️-video-driven-editing-models-1)
-    - [🎺 Audio-Driven Portrait Animation / Facial Animation](#-audio-driven-portrait-animation--facial-animation)
+    - [🎺 Audio-Driven Portrait Animation](#-audio-driven-portrait-animation)
     - [🕺 Pose-Driven Full-Body Animation](#-pose-driven-full-body-animation)
   - [💼 Commercial Personalized Video Generation Models](#-commercial-personalized-video-generation-models)
   - [📈 Evaluation](#-evaluation)
@@ -64,9 +65,16 @@ Markdown format:
 - [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter)
 
 ### 👤 Subject Identity Learning
-- CLIP
-- ArcFace
-- GroundedSAM
+- Subject Injection
+
+### 🎛️ Multi-modal Control Signal
+- [CLIP-Like](https://github.com/openai/CLIP)
+- [VAE](https://github.com/huggingface/diffusers/tree/main/src/diffusers/models/autoencoders)
+- [ArcFace-Like](https://github.com/deepinsight/insightface)
+- [ContorlNet-Like](https://github.com/lllyasviel/ControlNet)
+- [T2I-Adapter-Like](https://github.com/TencentARC/T2I-Adapter)
+- [SVD-Like](https://github.com/Stability-AI/generative-models)
+
 
 ### 📽️ Foundation Video Generation Models
 
@@ -184,7 +192,7 @@ Markdown format:
 
 
 
-### 🎺 Audio-Driven Portrait Animation / Facial Animation
+### 🎺 Audio-Driven Portrait Animation
 
 | Title                                                        | Venue     | Date        | Links                                                        |
 | ------------------------------------------------------------ | --------- | ----------- | ------------------------------------------------------------ |
@@ -202,11 +210,11 @@ Markdown format:
 
 ## 💼 Commercial Personalized Video Generation Models
 
-- Pika
-- Keling
-- Veo
-- Vidu
-- Hailuo
+- [Pika](https://pika.art/)
+- [Kling](https://app.klingai.com/)
+- [Veo](https://deepmind.google/models/veo/)
+- [Vidu](http://vidu.cn/)
+- [Hailuo](https://hailuoai.video/)
 
 ## 📈 Evaluation
 

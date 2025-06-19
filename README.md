@@ -13,29 +13,29 @@ PVG的目标是实现对视频生成过程的全方位定制，这不仅包括�
   - [📚 Key Techniques \& Foundational Models](#-key-techniques--foundational-models)
     - [🖼️ Personalized Image Generation](#️-personalized-image-generation)
     - [👤 Subject Identity Learning](#-subject-identity-learning)
-    - [🎛️ Multi-Modal Control Signal](#️-multi-modal-control-signal)
+    - [🎛️ Multi-modal Control Signal](#️-multi-modal-control-signal)
     - [📽️ Foundation Video Generation Models](#️-foundation-video-generation-models)
   - [🌐 Open-Domain Personalized Video Generation Models](#-open-domain-personalized-video-generation-models)
     - [🎨 Subject-Driven Creation Models](#-subject-driven-creation-models)
       - [Test-time Fine-tuning](#test-time-fine-tuning)
       - [Pretrained Adaptation](#pretrained-adaptation)
-    - [✂️ Video-Driven Editing Models](#️-editing-models)
+    - [✂️ Video-Driven Editing Models](#️-video-driven-editing-models)
       - [Text-Guided Editing](#text-guided-editing)
       - [Subject Replacement/Addition](#subject-replacementaddition)
       - [Video Stylization](#video-stylization)
-    - [🎥 Motion / Structure / Pose-Driven Models](#-motion--structure--pose-transfer)
-    - [🔄 Multi-Modal Driven Models](#-multi-modal-driving-models)
+    - [🎥 Motion / Structure / Pose-Driven Generation](#-motion--structure--pose-driven-generation)
+    - [🔄 Multi-Modal Driven Models](#-multi-modal-driven-models)
   - [🧑 Human-Domain Personalized Video Generation Models](#-human-domain-personalized-video-generation-models)
     - [🎨 ID-Driven Creation Models](#-id-driven-creation-models)
       - [Test-time Finetuning](#test-time-finetuning)
       - [Pretrained Adaptation](#pretrained-adaptation-1)
-    - [✂️ Editing Models](#️-editing-models-1)
+    - [✂️ Video-Driven Editing Models](#️-video-driven-editing-models-1)
       - [Text-Guided Editing](#text-guided-editing-1)
       - [ID Replacement/Addition](#id-replacementaddition)
     - [🕺 Video Animation](#-video-animation)
-      - [Audio-Driven Portrait Animation / Facial Animation](#portrait-animation--facial-animation)
-      - [Pose-Driven Full-Body Animation](#full-body-animation)
-  - [💼 Commercial Personalized Video Generation Models](#-commercial-s2v-models)
+      - [Audio-Driven Portrait Animation / Facial Animation](#audio-driven-portrait-animation--facial-animation)
+      - [Pose-Driven Full-Body Animation](#pose-driven-full-body-animation)
+  - [💼 Commercial Personalized Video Generation Models](#-commercial-personalized-video-generation-models)
   - [📈 Evaluation](#-evaluation)
     - [📊 Personalized Video Generation Benchmarks](#-personalized-video-generation-benchmarks)
     - [📂 Personalized Video Generation Datasets](#-personalized-video-generation-datasets)
@@ -105,7 +105,7 @@ Markdown format:
 | **ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning** | arXiv     | Jan 2025     | [Paper](https://arxiv.org/abs/2501.04698)                  |
 | **Customcrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities** | arXiv     | Feb 2025      | [Paper](https://arxiv.org/abs/2408.13239) – [Code](https://github.com/WuTao-CS/CustomCrafter)                   |
 
-### ✂️ Editing Models
+### ✂️ Video-Driven Editing Models
 
 #### Text-Guided Editing
 
@@ -127,7 +127,7 @@ Markdown format:
 | **DIVE: Taming DINO for Subject-Driven Video Editing**       | arXiv     | Dec 4 2024   | [Paper](https://arxiv.org/abs/2412.03347) – [Project](https://dino-video-editing.github.io) – [Code](https://github.com/OpenDriveLab/DIVE) |
 
 
-### 🎥 Motion / Structure / Pose Transfer
+### 🎥 Motion / Structure / Pose-Driven Generation
 | Title                                                        | Venue     | Date         | Links                                                        |
 | ------------------------------------------------------------ | --------- | ------------ | ------------------------------------------------------------ |
 | **VideoComposer: Compositional Video Synthesis with Motion Controllability** | NeurIPS 2023 | Jun 2023 (arXiv) | [Paper](https://arxiv.org/pdf/2306.02018) – [Project](https://videocomposer.github.io/) - [Code](https://github.com/ali-vilab/videocomposer) |
@@ -140,7 +140,7 @@ Markdown format:
 
 
 
-### 🔄 Multi-modal Driving Models 
+### 🔄 Multi-Modal Driven Models 
 
 | Title                                           | Venue | Date     | Links                                                        |
 | ----------------------------------------------- | ----- | -------- | ------------------------------------------------------------ |
@@ -170,22 +170,32 @@ Markdown format:
 | **Concat-ID: Towards Universal Identity-Preserving Video Synthesis** | arXiv     | Mar 18 2025 | [Paper](https://arxiv.org/abs/2503.14151) – [Code](https://github.com/ML-GSAI/Concat-ID) |
 | **InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions** | arXiv     | Jun 11 2025 | [Paper](https://arxiv.org/pdf/2506.09984) – [Project](https://zhenzhiwang.github.io/interacthuman/) |
 
-### ✂️ Editing Models
+### ✂️ Video-Driven Editing Models
 #### Text-Guided Editing
-
-#### ID Replacement/Addition
-
-#### Video Stylization
 
 | Title                                                        | Venue | Date        | Links                                                        |
 | ------------------------------------------------------------ | ----- | ----------- | ------------------------------------------------------------ |
 | **IP-FaceDiff: Identity-Preserving Facial Video Editing with Diffusion** | arXiv | Jan 13 2025 | [Paper](https://arxiv.org/abs/2501.07530) – [Code](https://github.com/ThoAce/IP-FaceDiff) |
 
+#### ID Replacement/Addition
+
+
 ### 🕺 Video Animation
 
-#### Portrait Animation / Facial Animation
+#### Audio-Driven Portrait Animation / Facial Animation
 
-#### Full-Body Animation
+| Title                                                        | Venue | Date        | Links                                                        |
+| ------------------------------------------------------------ | ----- | ----------- | ------------------------------------------------------------ |
+| **EMO: Emote Portrait Alive -- Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions** | ECCV 2024 | Feb 27 2024 | [Paper](https://arxiv.org/abs/2402.17485) – [Code](https://github.com/HumanAIGC/EMO) – [Page](https://humanaigc.github.io/emote-portrait-alive/)|
+| **EMO2: End-Effector Guided Audio-Driven Avatar Video Generation** | ECCV 2024 | Jan 18 2025 | [Paper](https://arxiv.org/abs/2501.10687) |
+
+#### Pose-Driven Full-Body Animation
+
+| Title                                                        | Venue | Date        | Links                                                        |
+| ------------------------------------------------------------ | ----- | ----------- | ------------------------------------------------------------ |
+| **DisCo: Disentangled Control for Realistic Human Dance Generation** | CVPR 2024 | Jun 30 2023 | [Paper](https://arxiv.org/abs/2307.00040) – [Code](https://github.com/Wangt-CN/DisCo) – [Page](https://disco-dance.github.io/)|
+| **Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation** | CVPR 2024 | Nov 28 2023 | [Paper](https://arxiv.org/abs/2311.17117) – [Code](https://github.com/HumanAIGC/AnimateAnyone) – [Page](https://humanaigc.github.io/animate-anyone/)|
+
 
 ## 💼 Commercial Personalized Video Generation Models
 

@@ -67,6 +67,13 @@ Markdown format:
 
 ### 👤 Subject Identity Learning
 ### 🎛️ Multi-modal Control Signal
+- [CLIP-Like](https://github.com/openai/CLIP)
+- [VAE](https://github.com/huggingface/diffusers/tree/main/src/diffusers/models/autoencoders)
+- [ArcFace-Like](https://github.com/deepinsight/insightface)
+- [ContorlNet-Like](https://github.com/lllyasviel/ControlNet)
+- [T2I-Adapter-Like](https://github.com/TencentARC/T2I-Adapter)
+- [SVD-Like](https://github.com/Stability-AI/generative-models)
+
 ### 📽️ Foundation Video Generation Models
 - [Wan 2.1](https://github.com/Wan-Video/Wan2.1)
 - [Step-Video](https://github.com/stepfun-ai/Step-Video-T2V)
@@ -199,11 +206,11 @@ Markdown format:
 
 ## 💼 Commercial Personalized Video Generation Models
 
-- Pika
-- Keling
+- [Pika](https://pika.art/)
+- [Kling](https://app.klingai.com/)
 - Veo
-- Vidu
-- Hailuo
+- [Vidu](http://vidu.cn/)
+- [Hailuo](https://hailuoai.video/)
 
 ## 📈 Evaluation
 

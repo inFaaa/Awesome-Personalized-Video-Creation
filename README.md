@@ -221,6 +221,8 @@ Markdown format:
 
 ### 📊 Personalized Video Generation Benchmarks
 
+#### Subject-to-Video Benchmarks
+
 | Title / Benchmark                                            | Venue                 | Date        | Links                                                        |
 | ------------------------------------------------------------ | --------------------- | ----------- | ------------------------------------------------------------ |
 | **ConsisID-Bench** – 150 identities & 90 prompts (human-domain) | CVPR 2025 (Highlight) | Nov 2024    | [Project](https://pku-yuangroup.github.io/ConsisID) – [Data](https://huggingface.co/datasets/PKU-YuanGroup/ConsisID-Bench) |
@@ -230,6 +232,8 @@ Markdown format:
 | **OpenS2V-Eval** – Fine-grained S2V benchmark (180 prompts, real & synthetic) | arXiv                 | May 28 2025 | [Paper](https://arxiv.org/abs/2505.20292) – [Project](https://pku-yuangroup.github.io/OpenS2V-Nexus) – [Code](https://huggingface.co/spaces/BestWishYsh/OpenS2V-Eval) |
 
 ### 📂 Personalized Video Generation Datasets
+
+#### Subject-to-Video Datasets
 
 | Title / Dataset   | Venue                 | Date        | Links                                                        |
 | ----------------- | --------------------- | ----------- | ------------------------------------------------------------ |

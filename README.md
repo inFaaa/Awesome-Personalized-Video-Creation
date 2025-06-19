@@ -13,9 +13,8 @@ PVG的目标是实现对视频生成过程的全方位定制，这不仅包括�
   - [⚡ Contributing](#-contributing)
   - [📚 Key Techniques \& Foundational Models](#-key-techniques--foundational-models)
     - [🕳️ Controllable Video Generation](#️-controllable-video-generation)
-    - [🖼️ Personalized Image Generation](#️-personalized-image-generation)
     - [👤 Subject Identity Learning](#-subject-identity-learning)
-    - [🎛️ Multi-modal Control Signal](#️-multi-modal-control-signal)
+    - [🎛️ Multi-modal Control Extractor](#️-multi-modal-control-signal)
     - [📽️ Foundation Video Generation Models](#️-foundation-video-generation-models)
   - [🌐 Open-Domain Personalized Video Generation Models](#-open-domain-personalized-video-generation-models)
     - [🎨 Subject-Driven Creation Models](#-subject-driven-creation-models)
@@ -51,9 +50,10 @@ Markdown format:
 ## 📚 Key Techniques & Foundational Models
 
 ### 🕳️ Controllable Video Generation
+- 
 
+<!--
 ### 🖼️ Personalized Image Generation
-
 - [DreamO](https://github.com/bytedance/DreamO)
 - [RealCustom](https://github.com/bytedance/RealCustom)
 - [UNO](https://github.com/bytedance/UNO)
@@ -63,6 +63,7 @@ Markdown format:
 - [InstantID](https://github.com/instantX-research/InstantID)
 - [PhotoMaker](https://github.com/TencentARC/PhotoMaker)
 - [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter)
+-->
 
 ### 👤 Subject Identity Learning
 - Subject Injection

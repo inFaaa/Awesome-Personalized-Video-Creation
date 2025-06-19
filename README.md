@@ -5,28 +5,44 @@
 
 This repo is used for recording and tracking recent personalized video generation. ￼ ￼
 
+PVG的目标是实现对视频生成过程的全方位定制，这不仅包括主体身份，还涵盖了艺术风格 、背景场景 、运动模式乃至镜头语言 。
+
+
 - [🌟 Awesome Personalized Video Generation](#-awesome-personalized-video-generation)
   - [⚡ Contributing](#-contributing)
   - [📚 Key Techniques \& Foundational Models](#-key-techniques--foundational-models)
+    - [🖼️ Personalized Image Generation](#️-personalized-image-generation)
     - [👤 Subject Identity Learning](#-subject-identity-learning)
+    - [🎛️ Multi-modal Control Signal](#️-multi-modal-control-signal)
     - [📽️ Foundation Video Generation Models](#️-foundation-video-generation-models)
-  - [🌐 Open-Domain S2V Models](#-open-domain-s2v-models)
-    - [🎨 Creation Models](#-creation-models)
+  - [🌐 Open-Domain Personalized Video Generation Models](#-open-domain-personalized-video-generation-models)
+    - [🎨 Subject-Driven Creation Models](#-subject-driven-creation-models)
+      - [Test-time Fine-tuning](#test-time-fine-tuning)
+      - [Pretrained Adaptation](#pretrained-adaptation)
     - [✂️ Editing Models](#️-editing-models)
+      - [Text-Guided Editing](#text-guided-editing)
+      - [Subject Replacement/Addition](#subject-replacementaddition)
+      - [Video Stylization](#video-stylization)
     - [🎥 Motion / Structure / Pose Transfer](#-motion--structure--pose-transfer)
-    - [🔄 All in one Models](#-all-in-one-models)
-  - [🧑 Human-Domain S2V Models](#-human-domain-s2v-models)
-    - [🎨 Creation Models](#-creation-models-1)
+    - [🔄 Multi-modal Driving Models](#-multi-modal-driving-models)
+  - [🧑 Human-Domain Personalized Video Generation Models](#-human-domain-personalized-video-generation-models)
+    - [🎨 ID-Driven Creation Models](#-id-driven-creation-models)
+      - [Test-time Finetuning](#test-time-finetuning)
+      - [Pretrained Adaptation](#pretrained-adaptation-1)
     - [✂️ Editing Models](#️-editing-models-1)
-    - [🫘 Video Animation](#-video-animation)
+      - [Text-Guided Editing](#text-guided-editing-1)
+      - [ID Replacement/Addition](#id-replacementaddition)
+      - [Video Stylization](#video-stylization-1)
+    - [🕺 Video Animation](#-video-animation)
       - [Portrait Animation / Facial Animation](#portrait-animation--facial-animation)
       - [Full-Body Animation](#full-body-animation)
   - [💼 Commercial S2V Models](#-commercial-s2v-models)
   - [📈 Evaluation](#-evaluation)
-    - [📊 S2V Benchmarks](#-s2v-benchmarks)
-    - [📂 S2V Dataset](#-s2v-dataset)
+    - [📊 Personalized Video Generation Benchmarks](#-personalized-video-generation-benchmarks)
+    - [📂 Personalized Video Generation Datasets](#-personalized-video-generation-datasets)
     - [📏 Key Evaluation Metrics](#-key-evaluation-metrics)
   - [👍 Acknowledgement](#-acknowledgement)
+
 
 
 ## ⚡ Contributing
@@ -39,7 +55,9 @@ Markdown format:
 ```
 
 ## 📚 Key Techniques & Foundational Models
+### 🖼️ Personalized Image Generation
 ### 👤 Subject Identity Learning
+### 🎛️ Multi-modal Control Signal
 ### 📽️ Foundation Video Generation Models
 - Stable Video Diffusion
 - AnimateDiff
@@ -47,9 +65,14 @@ Markdown format:
 - HunyuanVideo
 - Wan 2.1
 
-## 🌐 Open-Domain S2V Models
+## 🌐 Open-Domain Personalized Video Generation Models
 
-### 🎨 Creation Models
+### 🎨 Subject-Driven Creation Models
+
+#### Test-time Fine-tuning
+
+#### Pretrained Adaptation
+
 | Title                                                        | Venue     | Date             | Links                                                        |
 | ------------------------------------------------------------ | --------- | ---------------- | ------------------------------------------------------------ |
 | **PIA: Your Personalized Image Animator via Plug-and-Play Modules in Text-to-Image Models** | CVPR 2024 | Dec 2023 (arXiv) | [Paper](https://arxiv.org/abs/2312.13964v3) – [Project](https://pi-animator.github.io/)  - [Code](https://github.com/open-mmlab/PIA) |
@@ -60,12 +83,20 @@ Markdown format:
 | **Multi-subject Open-set Personalization in Video Generation** | CVPR 2025 | Jan 2025 (arXiv) | [Paper](https://arxiv.org/abs/2501.06187) – [Project](https://snap-research.github.io/open-set-video-personalization/) – [Code](https://github.com/snap-research/open-set-video-personalization) |
 | **Phantom: Subject-Consistent Video Generation via Cross-Modal Alignment** | arXiv     | Feb 16 2025      | [Paper](https://arxiv.org/abs/2502.11079) – [Project](https://phantom-video.github.io/Phantom/) – [Code](https://github.com/Phantom-video/Phantom) |
 | **CINEMA: Coherent Multi-Subject Video Generation via MLLM-Based Guidance** | arXiv     | Mar 13 2025      | [Paper](https://arxiv.org/abs/2503.10391) |
+| **VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models** | CVPR 2025     | Mar 13 2025      | [Paper](https://arxiv.org/abs/2503.21781) [Project](https://jasper0314-huang.github.io/videomage-customization/) |
 | **SkyReels-A2: Compose Anything in Video Diffusion Transformers** | arXiv     | Apr 3 2025       | [Paper](https://arxiv.org/abs/2504.02436) – [Project](https://skyworkai.github.io/SkyReels-A2/) – [Code](https://github.com/SkyWorkAI/skyreels-a2) |
 | **BridgeIV: Bridging Customized Image and Video Generation through Test-Time Autoregressive Identity Propagation** | arXiv     | May 11 2025      | [Paper](https://arxiv.org/pdf/2505.06985)                    |
 | **MAGREF: Masked Guidance for Any-Reference Video Generation** | arXiv     | May 29 2025      | [Paper](https://arxiv.org/pdf/2505.23742) [Code](https://github.com/MAGREF-Video/MAGREF)                   |
 
 
+
 ### ✂️ Editing Models
+
+#### Text-Guided Editing
+
+#### Subject Replacement/Addition
+
+#### Video Stylization
 
 | Title                                                        | Venue     | Date         | Links                                                        |
 | ------------------------------------------------------------ | --------- | ------------ | ------------------------------------------------------------ |
@@ -90,7 +121,7 @@ Markdown format:
 
 
 
-### 🔄 All in one Models 
+### 🔄 Multi-modal Driving Models 
 
 | Title                                           | Venue | Date     | Links                                                        |
 | ----------------------------------------------- | ----- | -------- | ------------------------------------------------------------ |
@@ -98,9 +129,13 @@ Markdown format:
 | **HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation** | arXiv     | May 8 2025       | [Paper](https://arxiv.org/pdf/2505.04512) – [Project](https://hunyuancustom.github.io/) – [Code](https://github.com/Tencent-Hunyuan/HunyuanCustom) |
 
 
-## 🧑 Human-Domain S2V Models
+## 🧑 Human-Domain Personalized Video Generation Models
 
-### 🎨 Creation Models
+### 🎨 ID-Driven Creation Models
+
+#### Test-time Finetuning
+
+#### Pretrained Adaptation
 
 | Title                                                        | Venue     | Date        | Links                                                        |
 | ------------------------------------------------------------ | --------- | ----------- | ------------------------------------------------------------ |
@@ -117,12 +152,17 @@ Markdown format:
 | **InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions** | arXiv     | Jun 11 2025 | [Paper](https://arxiv.org/pdf/2506.09984) – [Project](https://zhenzhiwang.github.io/interacthuman/) |
 
 ### ✂️ Editing Models
+#### Text-Guided Editing
+
+#### ID Replacement/Addition
+
+#### Video Stylization
 
 | Title                                                        | Venue | Date        | Links                                                        |
 | ------------------------------------------------------------ | ----- | ----------- | ------------------------------------------------------------ |
 | **IP-FaceDiff: Identity-Preserving Facial Video Editing with Diffusion** | arXiv | Jan 13 2025 | [Paper](https://arxiv.org/abs/2501.07530) – [Code](https://github.com/ThoAce/IP-FaceDiff) |
 
-### 🫘 Video Animation
+### 🕺 Video Animation
 
 #### Portrait Animation / Facial Animation
 
@@ -137,7 +177,7 @@ Markdown format:
 
 ## 📈 Evaluation
 
-### 📊 S2V Benchmarks
+### 📊 Personalized Video Generation Benchmarks
 
 | Title / Benchmark                                            | Venue                 | Date        | Links                                                        |
 | ------------------------------------------------------------ | --------------------- | ----------- | ------------------------------------------------------------ |
@@ -147,7 +187,7 @@ Markdown format:
 | **A2 Bench** – “Elements-to-Video” evaluation benchmark for arbitrary subjects | arXiv  | Apr 2025    | [Paper](https://arxiv.org/abs/2504.02436) – [Data/Code](https://github.com/SkyWorkAI/skyreels-a2) |
 | **OpenS2V-Eval** – Fine-grained S2V benchmark (180 prompts, real & synthetic) | arXiv                 | May 28 2025 | [Paper](https://arxiv.org/abs/2505.20292) – [Project](https://pku-yuangroup.github.io/OpenS2V-Nexus) – [Code](https://huggingface.co/spaces/BestWishYsh/OpenS2V-Eval) |
 
-### 📂 S2V Dataset
+### 📂 Personalized Video Generation Datasets
 
 | Title / Dataset | Venue | Date        | Links                                                        |
 | --------------- | ----- | ----------- | ------------------------------------------------------------ |

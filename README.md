@@ -1,6 +1,6 @@
 <a name="top"></a>
 
-# 🌟 Awesome Personalized Video Creation
+# 🌟 Awesome Personalized Video Generation and Editing
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 

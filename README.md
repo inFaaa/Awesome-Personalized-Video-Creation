@@ -30,6 +30,7 @@ PVG的目标是实现对视频生成过程的全方位定制，这不仅包括�
     - [✂️ Video-Driven Editing Models](#️-video-driven-editing-models-1)
     - [🎺 Audio-Driven Portrait Animation](#-audio-driven-portrait-animation)
     - [🕺 Pose-Driven Full-Body Animation](#-pose-driven-full-body-animation)
+    - [🔄 Multi-Modal-Driven Models](#-multi-modal-driven-models)
   - [💼 Commercial Personalized Video Generation Models](#-commercial-personalized-video-generation-models)
   - [📈 Evaluation](#-evaluation)
     - [📊 Personalized Video Generation Benchmarks](#-personalized-video-generation-benchmarks)
@@ -206,6 +207,13 @@ Markdown format:
 | ------------------------------------------------------------ | --------- | ----------- | ------------------------------------------------------------ |
 | **DisCo: Disentangled Control for Realistic Human Dance Generation** | CVPR 2024 | Jun 30 2023 | [Paper](https://arxiv.org/abs/2307.00040) – [Code](https://github.com/Wangt-CN/DisCo) – [Page](https://disco-dance.github.io/) |
 | **Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation** | CVPR 2024 | Nov 28 2023 | [Paper](https://arxiv.org/abs/2311.17117) – [Code](https://github.com/HumanAIGC/AnimateAnyone) – [Page](https://humanaigc.github.io/animate-anyone/) |
+
+### 🔄 Multi-Modal-Driven Models 
+
+| Title                                                        | Venue        | Date        | Links                                                        |
+| ------------------------------------------------------------ | ------------ | ----------- | ------------------------------------------------------------ |
+| **HunyuanVideo-HOMA: Generic Human-Object Interaction in Multimodal Driven Human Animation**                        | arXiv | Jun 10 2025 | [Paper](https://arxiv.org/pdf/2506.08797) – [Project](https://anonymous.4open.science/w/homa-page-0FBE/) |
+
 
 
 ## 💼 Commercial Personalized Video Generation Models

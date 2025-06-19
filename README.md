@@ -9,6 +9,22 @@ This repo is used for recording and tracking recent personalized video generatio
 
 PVG的目标是实现对视频生成过程的全方位定制，这不仅包括主体身份，还涵盖了艺术风格 、背景场景 、运动模式乃至镜头语言 。
 
+
+Writing is different.
+
+Subject Identity Learning 
++
+Multi-modal Control Signal 
+(Tokenization)
+-> 
+Injection Method (Adapter/Finetune)
+->
+Base Video Generation Models
+-> 
+Training Strategies
+
+
+
 - [🌟 Awesome Personalized Video Generation](#-awesome-personalized-video-generation)
   - [⚡ Contributing](#-contributing)
   - [📚 Key Techniques \& Foundational Models](#-key-techniques--foundational-models)

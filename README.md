@@ -244,8 +244,9 @@ Markdown format:
 
 | Title / Dataset   | Venue                 | Date        | Links                                                        |
 | ----------------- | --------------------- | ----------- | ------------------------------------------------------------ |
+| **Any2CapIns** | Arxiv | Mar 2025 | [Paper](https://arxiv.org/abs/2503.24379) – [Project](https://sqwu.top/Any2Cap/) – [Data](https://huggingface.co/datasets/PKU-YuanGroup/ConsisID-Bench) |
+| **ConsisID-Data** | CVPR 2025 (Highlight) | Oct 2024 | [Paper](https://arxiv.org/abs/2411.17440) – [Project](https://pku-yuangroup.github.io/ConsisID) – [Data](https://github.com/ChocoWu/Any2Caption) |
 | **OpenS2V-5M**    | Arxiv                 | May 28 2025 | [Paper](https://arxiv.org/abs/2505.20292) – [Project](https://pku-yuangroup.github.io/OpenS2V-Nexus) – [Data](https://huggingface.co/datasets/BestWishYsh/OpenS2V-5M) |
-| **ConsisID-Data** | CVPR 2025 (Highlight) | May 28 2025 | [Paper](https://arxiv.org/abs/2411.17440) – [Project](https://pku-yuangroup.github.io/ConsisID) – [Data](https://huggingface.co/datasets/PKU-YuanGroup/ConsisID-Bench) |
 
 ### 📏 Key Evaluation Metrics
 

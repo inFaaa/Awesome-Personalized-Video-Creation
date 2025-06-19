@@ -201,4 +201,9 @@ Markdown format:
 
 * [Awesome-Personalized-Image-Generation](https://github.com/csyxwei/Awesome-Personalized-Image-Generation)
 
+* [Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion)
+
+* [Awesome-Controllable-Video-Generation](https://github.com/mayuelala/Awesome-Controllable-Video-Generation?tab=readme-ov-file#---personalized--motion)
+  
+
   

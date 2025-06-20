@@ -296,7 +296,7 @@ Markdown format:
 
 ### 📏 Key Evaluation Metrics
 
-- Visual Quality: [CLIP-Score](https://arxiv.org/abs/2104.08718), [BLIP-Score](http://arxiv.org/abs/2201.12086), [FID](https://proceedings.neurips.cc/paper/2017/hash/8a1d694707eb0fefe65871369074926d-Abstract.html), [FVD](https://openreview.net/forum?id=rylgEULtdN)
+- Visual Quality: [Aesthetic](https://github.com/christophschuhmann/improved-aesthetic-predictor), [FID](https://proceedings.neurips.cc/paper/2017/hash/8a1d694707eb0fefe65871369074926d-Abstract.html), [FVD](https://openreview.net/forum?id=rylgEULtdN)
 - Motion Amplitude: [Optical Flow](https://arxiv.org/abs/2003.12039)
 - Text Relevance: [CLIP-Score](https://arxiv.org/abs/2104.08718), [BLIP-Score](http://arxiv.org/abs/2201.12086), [GmeScore](https://github.com/PKU-YuanGroup/OpenS2V-Nexus)
 - Subject Consistency: [FaceSim](https://github.com/deepinsight/insightface), [FaceSim-Cur](https://github.com/PKU-YuanGroup/ConsisID), [NexusScore](https://github.com/PKU-YuanGroup/OpenS2V-Nexus)

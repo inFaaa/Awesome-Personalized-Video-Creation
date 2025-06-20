@@ -88,8 +88,7 @@ Markdown format:
 - [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
 - [Open-Sora](https://github.com/hpcaitech/Open-Sora)
 - [Stable Video Diffusion](https://github.com/Stability-AI/generative-models)
-- [Make A Video](https://arxiv.org/abs/2209.14792)
-- [Step-Video](https://github.com/stepfun-ai/Step-Video-TI2V)
+- [AnimateDiff](https://github.com/guoyww/AnimateDiff)
 
 ## 🌐 Open-Domain Personalized Video Generation Models
 

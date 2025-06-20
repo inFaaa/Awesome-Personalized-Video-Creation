@@ -124,6 +124,7 @@ Markdown format:
 | Title                                                        | Venue     | Date             | Links                                                        |
 | ------------------------------------------------------------ | --------- | ---------------- | ------------------------------------------------------------ |
 | **Movie Gen: A Cast of Media Foundation Models**             | arXiv     | Oct 17 2024      | [Paper](https://arxiv.org/abs/2410.13720) – [Project](https://ai.meta.com/research/movie-gen/) |
+| **SUGAR: Subject-Driven Video Customization in a Zero-Shot Manner**             | arXiv     | Dec 13 2024      | [Paper](https://arxiv.org/pdf/2412.10533) – [Project](https://yufanzhou.com/SUGAR/) |
 | **VideoMaker: Zero-shot Customized Video Generation with the Inherent Force of Video Diffusion Models** | arXiv     | Dec 27 2024      | [Paper](https://arxiv.org/abs/2412.19645) – [Code](https://github.com/WuTao-CS/VideoMaker) |
 | **Multi-subject Open-set Personalization in Video Generation** | CVPR 2025 | Jan 2025 (arXiv) | [Paper](https://arxiv.org/abs/2501.06187) – [Project](https://snap-research.github.io/open-set-video-personalization/) – [Code](https://github.com/snap-research/open-set-video-personalization) |
 | **Phantom: Subject-Consistent Video Generation via Cross-Modal Alignment** | arXiv     | Feb 16 2025      | [Paper](https://arxiv.org/abs/2502.11079) – [Project](https://phantom-video.github.io/Phantom/) – [Code](https://github.com/Phantom-video/Phantom) |
@@ -157,7 +158,8 @@ Markdown format:
 | **Structure and Content-Guided Video Synthesis with Diffusion Models** | ICCV 2023 | Feb 2023     | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Esser_Structure_and_Content-Guided_Video_Synthesis_with_Diffusion_Models_ICCV_2023_paper.pdf) |
 | **VideoComposer: Compositional Video Synthesis with Motion Controllability** | NeurIPS 2023 | Jun 2023 (arXiv) | [Paper](https://arxiv.org/pdf/2306.02018) – [Project](https://videocomposer.github.io/) - [Code](https://github.com/ali-vilab/videocomposer) |
 | **DreamVideo: Composing Your Dream Videos with Customized Subject and Motion** | CVPR 2024    | Dec 2023 (arXiv) | [Paper](https://arxiv.org/abs/2312.04433) – [Project](https://vchitect.github.io/VideoBooth-project/) - [Code](https://github.com/Vchitect/VideoBooth) |
-| **Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models** | ECCV2024     | Feb 2024         | — <br> [Paper](https://arxiv.org/abs/2402.14780) - [Project](https://ryx19th.github.io/customize-a-video/) - [Code](https://github.com/customize-a-video/customize-a-video) |
+| **Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models** | ECCV 2024     | Feb 2024         | [Paper](https://arxiv.org/abs/2402.14780) - [Project](https://ryx19th.github.io/customize-a-video/) - [Code](https://github.com/customize-a-video/customize-a-video) |
+| **MotionBooth: Motion-Aware Customized Text-to-Video Generation** | NeurIPS 2024 (Spotlight)     | Jun 2024         | [Paper](https://arxiv.org/abs/2406.17758) - [Project](https://jianzongwu.github.io/projects/motionbooth/) - [Code](https://github.com/jianzongwu/MotionBooth) |
 | **DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control** | arXiv   | Oct 17 2024      | [Paper](https://arxiv.org/abs/2410.13830) – [Page](https://dreamvideo2.github.io/#) |
 | **MoTrans: Customized Motion Transfer with Text-driven Video Diffusion Models** | ACMMM 2024        | Dec 2 2024      | [Paper](https://arxiv.org/abs/2412.01343) – [Code](https://github.com/XiaominLi1997/MoTrans) |
 | **Subject-driven Video Generation via Disentangled Identity and Motion** | arXiv        | Apr 23 2025      | [Paper](https://arxiv.org/abs/2504.17816) – [Code](https://github.com/carpedkm/disentangled-subject-to-vid) |
@@ -168,8 +170,6 @@ Markdown format:
 | **PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement** | arXiv        | Jun 9 2025       | [Paper](https://sjtuplayer.github.io/projects/PolyVivid/)    |
 
 
-
-
 ### 🔄 Unified Generation and Editing Models 
 
 | Title                                                        | Venue        | Date        | Links                                                        |
@@ -177,8 +177,6 @@ Markdown format:
 | **Few-shot Video-to-Video Synthesis**                        | NeurIPS 2019 | Oct 28 2019 | [Paper](https://arxiv.org/pdf/2505.04512) – [Project](https://nvlabs.github.io/few-shot-vid2vid/) – [Code](https://github.com/NVlabs/few-shot-vid2vid) |
 | **HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation** | arXiv        | May 8 2025  | [Paper](https://arxiv.org/pdf/2505.04512) – [Project](https://hunyuancustom.github.io/) – [Code](https://github.com/Tencent-Hunyuan/HunyuanCustom) |
 | **VACE: All-in-One Video Creation and Editing**              | arxiv        | Mar 10 2025 | [Code](https://github.com/ali-vilab/VACE) - [Project](https://ali-vilab.github.io/VACE-Page/) - [Paper](https://arxiv.org/abs/2503.07598) |
-
-
 
 ## 🧑 Human-Domain Personalized Video Generation Models
 
@@ -230,9 +228,17 @@ Markdown format:
 
 | Title                                                        | Venue     | Date        | Links                                                        |
 | ------------------------------------------------------------ | --------- | ----------- | ------------------------------------------------------------ |
+| **Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos** | AAAI 2024 | Apr 3 2023 | [Paper](https://arxiv.org/abs/2304.01186) – [Code](https://github.com/mayuelala/FollowYourPose) – [Page](https://follow-your-pose.github.io/) |
+| **DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion** | ICCV 2023 | Apr 12 2023 | [Paper](https://arxiv.org/pdf/2304.06025) – [Code](https://github.com/johannakarras/DreamPose) – [Page](https://grail.cs.washington.edu/projects/dreampose/) |
 | **DisCo: Disentangled Control for Realistic Human Dance Generation** | CVPR 2024 | Jun 30 2023 | [Paper](https://arxiv.org/abs/2307.00040) – [Code](https://github.com/Wangt-CN/DisCo) – [Page](https://disco-dance.github.io/) |
+| **MagicPose: Realistic Human Poses and Facial Expressions Retargeting with Identity-aware Diffusion** | ICML 2024 | Nov 18 2023 | [Paper](https://arxiv.org/abs/2311.12052) – [Code](https://github.com/Boese0601/MagicDance) – [Page](https://boese0601.github.io/magicdance/) |
+| **MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model** | CVPR 2024 | Nov 27 2023 | [Paper](https://arxiv.org/abs/2311.16498) – [Code](https://github.com/magic-research/magic-animate) – [Page](https://showlab.github.io/magicanimate/) |
 | **Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation** | CVPR 2024 | Nov 28 2023 | [Paper](https://arxiv.org/abs/2311.17117) – [Code](https://github.com/HumanAIGC/AnimateAnyone) – [Page](https://humanaigc.github.io/animate-anyone/) |
+| **MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance** | ICML 2025 | Jun 28 2024 | [Paper](https://arxiv.org/abs/2406.19680) – [Code](https://github.com/tencent/MimicMotion) – [Page](https://tencent.github.io/MimicMotion/) |
+| **MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling** | CVPR 2025 | Sep 24 2024 | [Paper](https://arxiv.org/abs/2409.16160v2) – [Code](https://github.com/menyifang/MIMO) – [Page](https://menyifang.github.io/projects/MIMO/index.html) |
+| **DisPose: Disentangling Pose Guidance for Controllable Human Image Animation** | ICLR 2025 | Dec 12 2024 | [Paper](https://arxiv.org/abs/2412.09349) – [Code](https://github.com/lihxxx/DisPose) - [Page](https://lihxxx.github.io/DisPose/) |
 | **Consistent Human Image and Video Generation with Spatially Conditioned Diffusion** | arXiv | Dec 19 2024 | [Paper](https://arxiv.org/abs/2412.14531) – [Code](https://github.com/ljzycmd/scd) |
+| **DirectorLLM for Human-Centric Video Generation** | arXiv | Dec 19 2024 | [Paper](https://arxiv.org/pdf/2412.14484) |
 | **Animate Anyone 2: High-Fidelity Character Image Animation with Environment Affordance** | arXiv | Feb 10 2025 | [Paper](https://arxiv.org/abs/2502.06145)  – [Page](https://humanaigc.github.io/animate-anyone-2/) |
 
 
@@ -254,6 +260,8 @@ Markdown format:
 - [Veo](https://deepmind.google/models/veo/)
 - [Vidu](http://vidu.cn/)
 - [Hailuo](https://hailuoai.video/)
+- [Runway-Gen1](https://runwayml.com/)
+- [Luma](https://lumalabs.ai/)
 
 ## 📈 Evaluation
 

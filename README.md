@@ -296,12 +296,15 @@ Markdown format:
 
 ### 📏 Key Evaluation Metrics
 
-- [CLIP-Score]()
-- [FVD]()
-- [GmeScore]()
-- [FaceSim]()
-- [NexusScore]()
-- [NaturalScore]() 
+- [CLIP-Score](https://arxiv.org/abs/2104.08718)
+- [BLIP-Score](http://arxiv.org/abs/2201.12086)
+- [FID](https://proceedings.neurips.cc/paper/2017/hash/8a1d694707eb0fefe65871369074926d-Abstract.html)
+- [FVD](https://openreview.net/forum?id=rylgEULtdN)
+- [Dynamic Degree](https://arxiv.org/abs/2003.12039)
+- [FaceSim](https://github.com/deepinsight/insightface)
+- [GmeScore](https://github.com/PKU-YuanGroup/OpenS2V-Nexus)
+- [NexusScore](https://github.com/PKU-YuanGroup/OpenS2V-Nexus)
+- [NaturalScore](https://github.com/PKU-YuanGroup/OpenS2V-Nexus)
 
 ## 👍 Acknowledgement
 

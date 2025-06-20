@@ -4,7 +4,7 @@
 This repo is used for recording and tracking recent personalized video generation and editing. 
 <h5 align="center">
    [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-   ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
+   [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
    ![GitHub Repo stars](https://img.shields.io/github/stars/inFaaa/Awesome-Personalized-Video-Creation?logoColor=%23C8A2C8&color=%23DCC6E0)
 </h5>
 

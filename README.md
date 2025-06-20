@@ -4,11 +4,9 @@
 <h2 align="center">
   <a href="">🔥 Awesome Personalized Video Generation and Editing</a>
 </h2>
-
 <p align="center">
   If you like our project, please give us a star ⭐ on GitHub for the latest update.
 </p>
-
 <p align="center">
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg" alt="Awesome">

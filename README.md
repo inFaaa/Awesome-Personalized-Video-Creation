@@ -116,7 +116,7 @@ Markdown format:
 | **DisenStudio: Customized Multi-subject Text-to-Video Generation with Disentangled Spatial Control** | ACMMM 2024     | May 21 2024      | [Paper](https://mn.cs.tsinghua.edu.cn/xinwang/PDF/papers/2024_DisenStudio%20Customized%20Multi-Subject%20Text-to-Video%20Generation%20with%20Disentangled%20Spatial%20Control.pdf) – [Project](https://forchchch.github.io/disenstudio.github.io/) - [Code](https://github.com/forchchch/disenstudio.github.io) |
 | **Customcrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities** | AAAI 2025    | Feb 2025         | [Paper](https://arxiv.org/abs/2408.13239) – [Code](https://github.com/WuTao-CS/CustomCrafter) |
 | **Dynamic Concepts Personalization from Single Videos** | SIGGRAPH 2025 | Feb 20 2025      | [Paper](https://arxiv.org/pdf/2502.14844) – [Page](https://snap-research.github.io/dynamic_concepts/)|
-| **BridgeIV: Bridging Customized Image and Video Generation through Test-Time Autoregressive Identity Propagation** | arXiv     | May 11 2025      | [Paper](https://arxiv.org/pdf/2505.06985)                    |
+| **BridgeIV: Bridging Customized Image and Video Generation through Test-Time Autoregressive Identity Propagation** | arXiv     | May 11 2025      | [Paper](https://arxiv.org/pdf/2505.06985)|
 
 
 #### Pretrained Adaptation
@@ -133,7 +133,7 @@ Markdown format:
 | **MAGREF: Masked Guidance for Any-Reference Video Generation** | arXiv     | May 29 2025      | [Paper](https://arxiv.org/pdf/2505.23742) [Code](https://github.com/MAGREF-Video/MAGREF) |
 | **AnyCharV: Bootstrap Controllable Character Video Generation with Fine-to-Coarse Guidance** | arXiv     | Feb 2025         | [Paper](https://arxiv.org/abs/2502.08189) – [Code](https://github.com/AnyCharV/AnyCharV) |
 | **Movie Weaver: Tuning-Free Multi-Concept Video Personalization with Anchored Prompts** | arXiv     | Feb 2025         | [Paper](https://arxiv.org/abs/2502.07802)                    |
-| **ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning** | arXiv     | Jan 2025         | [Paper](https://arxiv.org/abs/2501.04698)                    |
+| **ConceptMaster: Multi-Concept Video Customization on Diffusion Transformer Models Without Test-Time Tuning** | arXiv     | Jan 2025         | [Paper](https://arxiv.org/abs/2501.04698) |
 
 ### ✂️ Video-Driven Editing Models
 
@@ -167,7 +167,7 @@ Markdown format:
 | **VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models** | CVPR 2025 | Mar 13 2025      | [Paper](https://arxiv.org/abs/2503.21781) [Project](https://jasper0314-huang.github.io/videomage-customization/) |
 | **DreamRunner: Fine-Grained Compositional Story-to-Video Generation with Retrieval-Augmented Motion Adaptation** | Arxiv | Mar 18 2025      | [Paper](https://arxiv.org/pdf/2411.16657) - [Project](https://zunwang1.github.io/DreamRunner) - [Code](https://github.com/wz0919/DreamRunner) |
 | **JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation** | arXiv        | Mar 31 2025      | [Paper](https://arxiv.org/abs/2503.23951) – [Project](https://fdchen24.github.io/JointTuner-Website/) |
-| **PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement** | arXiv        | Jun 9 2025       | [Paper](https://sjtuplayer.github.io/projects/PolyVivid/)    |
+| **PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement** | arXiv        | Jun 9 2025       | [Paper](https://sjtuplayer.github.io/projects/PolyVivid/)|
 
 
 ### 🔄 Unified Generation and Editing Models 
@@ -175,6 +175,8 @@ Markdown format:
 | Title                                                        | Venue        | Date        | Links                                                        |
 | ------------------------------------------------------------ | ------------ | ----------- | ------------------------------------------------------------ |
 | **Few-shot Video-to-Video Synthesis**                        | NeurIPS 2019 | Oct 28 2019 | [Paper](https://arxiv.org/pdf/2505.04512) – [Project](https://nvlabs.github.io/few-shot-vid2vid/) – [Code](https://github.com/NVlabs/few-shot-vid2vid) |
+| **Towards Consistent Video Editing with Text-to-Image Diffusion Models**      | NeurIPS 2023 | May 27 2023 | [Paper](https://arxiv.org/abs/2305.17431)  |
+| **DragVideo: Interactive Drag-style Video Editing**      | ECCV 2024 | Dec 3 2023 | [Paper](https://arxiv.org/abs/2312.02216) - [Code](https://github.com/RickySkywalker/DragVideo-Official) |
 | **HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation** | arXiv        | May 8 2025  | [Paper](https://arxiv.org/pdf/2505.04512) – [Project](https://hunyuancustom.github.io/) – [Code](https://github.com/Tencent-Hunyuan/HunyuanCustom) |
 | **VACE: All-in-One Video Creation and Editing**              | arxiv        | Mar 10 2025 | [Code](https://github.com/ali-vilab/VACE) - [Project](https://ali-vilab.github.io/VACE-Page/) - [Paper](https://arxiv.org/abs/2503.07598) |
 

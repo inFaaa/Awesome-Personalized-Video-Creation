@@ -188,7 +188,7 @@ Markdown format:
 | ------------------------------------------------------------ | --------- | ----------- | ------------------------------------------------------------ |
 | **Magic-Me: Identity-Specific Video Customized Diffusion**   | arXiv     | Mar 20 2024 | [Paper](https://arxiv.org/pdf/2402.09368) – [Project](https://magic-me-webpage.github.io/) – [Code](https://github.com/PKU-Alignment/ID-Animator) |
 | **ID-Animator: Zero-Shot Identity-Preserving Human Video Generation** | arXiv     | Apr 23 2024 | [Paper](https://arxiv.org/abs/2404.15275) – [Project](https://id-animator.github.io) – [Code](https://github.com/Zhen-Dong/Magic-Me) |
-| **FantasyID: Face Knowledge Enhanced ID-Preserving Video Generation** | arXiv     | Feb 25 2025 | [Paper](https://arxiv.org/abs/2502.13995) – [Project](https://fantasy-amap.github.io/fantasy-id/) – [Code](https://github.com/Fantasy-AMAP/fantasy-id) |
+| **FantasyID: Face Knowledge Enhanced ID-Preserving Video Generation** | arXiv     | Feb 25 2025 | [Paper](https://arxiv.org/abs/2502.13995) – [Project](https://fantasy-amap.github.io/fantasy-id/) – [Code](https://github.com/Fantasy-AMAP/fantasy-id)|
 | **PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation** | arXiv     | Mar 16 2025 | [Paper](https://arxiv.org/pdf/2411.17048) – [Project](https://personalvideo.github.io/) –[Code](https://github.com/EchoPluto/PersonalVideo) |
 | **MagicID: Hybrid Preference Optimization for ID-Consistent and Dynamic-Preserved Video Customization** | arXiv     | Mar 16 2025 | [Paper](https://arxiv.org/abs/2503.12689) – [Project](https://echopluto.github.io/MagicID-project/) –[Code](https://github.com/EchoPluto/MagicID) |
 
@@ -249,10 +249,6 @@ Markdown format:
 | **FullDiT: Multi-Task Video Generative Foundation Model with Full Attention**                        | arXiv | Mar 25 2025 | [Paper](https://arxiv.org/pdf/2503.19907) – [Project](https://fulldit.github.io/) |
 | **HunyuanVideo-HOMA: Generic Human-Object Interaction in Multimodal Driven Human Animation**                        | arXiv | Jun 10 2025 | [Paper](https://arxiv.org/pdf/2506.08797) – [Project](https://anonymous.4open.science/w/homa-page-0FBE/) |
 
-
-
-
-
 ## 💼 Commercial Personalized Video Generation Models
 
 - [Pika](https://pika.art/)
@@ -262,6 +258,13 @@ Markdown format:
 - [Hailuo](https://hailuoai.video/)
 - [Runway-Gen1](https://runwayml.com/)
 - [Luma](https://lumalabs.ai/)
+
+## Long Video Video Customization (> 5min)
+
+| Title                                                        | Venue        | Date        | Links                                                        |
+| ------------------------------------------------------------ | ------------ | ----------- | ------------------------------------------------------------ |
+| **Vlogger: Make Your Dream A Vlog**  | CVPR 2024 | Jan 17 2024 | [Paper](https://arxiv.org/pdf/2401.09414) – [Code](https://github.com/zhuangshaobin/Vlogger) |
+
 
 ## 📈 Evaluation
 

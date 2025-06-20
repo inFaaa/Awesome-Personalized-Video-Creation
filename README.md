@@ -18,36 +18,36 @@ Base Video Generation Models
 -> 
 Training Strategies
 
-
-
-- [🌟 Awesome Personalized Video Generation](#-awesome-personalized-video-generation)
+- [🌟 Awesome Personalized Video Generation and Editing](#-awesome-personalized-video-generation-and-editing)
   - [⚡ Contributing](#-contributing)
-  - [📚 Key Techniques \& Foundational Models](#-key-techniques--foundational-models)
+  - [📚 Key Techniques](#-key-techniques)
+    - [🎛️ Multi-Modal Control Tokenization](#️-multi-modal-control-tokenization)
     - [🕳️ Controllable Video Generation](#️-controllable-video-generation)
-    - [👤 Subject Identity Learning](#-subject-identity-learning)
-    - [🎛️ Multi-modal Control Extractor](#️-multi-modal-control-signal)
     - [📽️ Foundation Video Generation Models](#️-foundation-video-generation-models)
   - [🌐 Open-Domain Personalized Video Generation Models](#-open-domain-personalized-video-generation-models)
-    - [🎨 Subject-Driven Generation Models](#-subject-driven-creation-models)
+    - [🎨 Subject-Driven Creation Models](#-subject-driven-creation-models)
       - [Test-time Fine-tuning](#test-time-fine-tuning)
       - [Pretrained Adaptation](#pretrained-adaptation)
     - [✂️ Video-Driven Editing Models](#️-video-driven-editing-models)
-    - [🎥 Motion-Driven Generation Models](#-motion-driven-generation)
-    - [🔄 Multi-Modal-Driven Generation Models](#-multi-modal-driven-models)
+    - [🎥 Motion-Driven Generation](#-motion-driven-generation)
+    - [🔄 Unified Generation and Editing Models](#-unified-generation-and-editing-models)
   - [🧑 Human-Domain Personalized Video Generation Models](#-human-domain-personalized-video-generation-models)
-    - [🎨 ID-Driven Generation Models](#-id-driven-creation-models)
+    - [🎨 ID-Driven Creation Models](#-id-driven-creation-models)
       - [Test-time Finetuning](#test-time-finetuning)
       - [Pretrained Adaptation](#pretrained-adaptation-1)
     - [✂️ Video-Driven Editing Models](#️-video-driven-editing-models-1)
     - [🎺 Audio-Driven Portrait Animation](#-audio-driven-portrait-animation)
     - [🕺 Pose-Driven Full-Body Animation](#-pose-driven-full-body-animation)
-    - [🔄 Multi-Modal-Driven Generation Models](#-multi-modal-driven-models)
+    - [🔄 Unified Generation and Editing Models](#-unified-generation-and-editing-models-1)
   - [💼 Commercial Personalized Video Generation Models](#-commercial-personalized-video-generation-models)
   - [📈 Evaluation](#-evaluation)
     - [📊 Personalized Video Generation Benchmarks](#-personalized-video-generation-benchmarks)
+      - [Subject-to-Video Benchmarks](#subject-to-video-benchmarks)
     - [📂 Personalized Video Generation Datasets](#-personalized-video-generation-datasets)
+      - [Subject-to-Video Datasets](#subject-to-video-datasets)
     - [📏 Key Evaluation Metrics](#-key-evaluation-metrics)
   - [👍 Acknowledgement](#-acknowledgement)
+
 
 
 ## ⚡ Contributing
@@ -59,10 +59,8 @@ Markdown format:
 * | [**Paper Title**] | Venue | Date | [[paper]](link) [[code]](link) [[project]](link)|
 ```
 
-## 📚 Key Techniques & Foundational Models
+## 📚 Key Techniques 
 
-### 🕳️ Controllable Video Generation
-- 
 
 <!--
 ### 🖼️ Personalized Image Generation
@@ -77,16 +75,17 @@ Markdown format:
 - [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter)
 -->
 
-### 👤 Subject Identity Learning
-- Subject Injection
-
-### 🎛️ Multi-modal Control Signal
+### 🎛️ Multi-Modal Control Tokenization
 - [CLIP-Like](https://github.com/openai/CLIP)
 - [VAE](https://github.com/huggingface/diffusers/tree/main/src/diffusers/models/autoencoders)
 - [ArcFace-Like](https://github.com/deepinsight/insightface)
 - [ContorlNet-Like](https://github.com/lllyasviel/ControlNet)
 - [T2I-Adapter-Like](https://github.com/TencentARC/T2I-Adapter)
 - [SVD-Like](https://github.com/Stability-AI/generative-models)
+
+### 🕳️ Controllable Video Generation
+- [Controlnet](https://github.com/lllyasviel/ControlNet)
+- [T2IAdapter](https://github.com/TencentARC/T2I-Adapter)
 
 
 ### 📽️ Foundation Video Generation Models
@@ -101,6 +100,7 @@ Markdown format:
 - [Open-Sora](https://github.com/hpcaitech/Open-Sora)
 - [Stable Video Diffusion](https://github.com/Stability-AI/generative-models)
 - [Make A Video](https://arxiv.org/abs/2209.14792)
+- [Step-Video](https://github.com/stepfun-ai/Step-Video-TI2V)
 
 ## 🌐 Open-Domain Personalized Video Generation Models
 

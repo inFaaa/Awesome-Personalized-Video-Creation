@@ -1,3 +1,6 @@
+<div align=center>
+ <img src="src/PVG_logo.png" width="180px">
+</div>
 <h2 align="center">
   <a href="">🔥 Awesome Personalized Video Generation and Editing</a>
 </h2>
@@ -18,35 +21,35 @@
 
 This repo is used for recording and tracking recent personalized video generation and editing. 
 
-- [🌟 Awesome Personalized Video Generation and Editing](#-awesome-personalized-video-generation-and-editing)
-  - [⚡ Contributing](#-contributing)
-  - [📚 Key Techniques](#-key-techniques)
-    - [🎛️ Multi-Modal Control Tokenization](#️-multi-modal-control-tokenization)
-    - [🕳️ Controllable Video Generation](#️-controllable-video-generation)
-    - [📽️ Foundation Video Generation Models](#️-foundation-video-generation-models)
-  - [🌐 Open-Domain Personalized Video Generation Models](#-open-domain-personalized-video-generation-models)
-    - [🎨 Subject-Driven Creation Models](#-subject-driven-creation-models)
-      - [Test-time Fine-tuning](#test-time-fine-tuning)
-      - [Pretrained Adaptation](#pretrained-adaptation)
-    - [✂️ Video-Driven Editing Models](#️-video-driven-editing-models)
-    - [🎥 Motion-Driven Generation](#-motion-driven-generation)
-    - [🔄 Unified Generation and Editing Models](#-unified-generation-and-editing-models)
-  - [🧑 Human-Domain Personalized Video Generation Models](#-human-domain-personalized-video-generation-models)
-    - [🎨 ID-Driven Creation Models](#-id-driven-creation-models)
-      - [Test-time Finetuning](#test-time-finetuning)
-      - [Pretrained Adaptation](#pretrained-adaptation-1)
-    - [✂️ Video-Driven Editing Models](#️-video-driven-editing-models-1)
-    - [🎺 Audio-Driven Portrait Animation](#-audio-driven-portrait-animation)
-    - [🕺 Pose-Driven Full-Body Animation](#-pose-driven-full-body-animation)
-    - [🔄 Unified Generation and Editing Models](#-unified-generation-and-editing-models-1)
-  - [💼 Commercial Personalized Video Generation Models](#-commercial-personalized-video-generation-models)
-  - [📈 Evaluation](#-evaluation)
-    - [📊 Personalized Video Generation Benchmarks](#-personalized-video-generation-benchmarks)
-      - [Subject-to-Video Benchmarks](#subject-to-video-benchmarks)
-    - [📂 Personalized Video Generation Datasets](#-personalized-video-generation-datasets)
-      - [Subject-to-Video Datasets](#subject-to-video-datasets)
-    - [📏 Key Evaluation Metrics](#-key-evaluation-metrics)
-  - [👍 Acknowledgement](#-acknowledgement)
+- [⚡ Contributing](#-contributing)
+- [📚 Key Techniques](#-key-techniques)
+  - [🎛️ Multi-Modal Control Tokenization](#️-multi-modal-control-tokenization)
+  - [🕳️ Controllable Video Generation](#️-controllable-video-generation)
+  - [📽️ Foundation Video Generation Models](#️-foundation-video-generation-models)
+- [🌐 Open-Domain Personalized Video Generation Models](#-open-domain-personalized-video-generation-models)
+  - [🎨 Subject-Driven Creation Models](#-subject-driven-creation-models)
+    - [Test-time Fine-tuning](#test-time-fine-tuning)
+    - [Pretrained Adaptation](#pretrained-adaptation)
+  - [✂️ Video-Driven Editing Models](#️-video-driven-editing-models)
+  - [🎥 Motion-Driven Generation](#-motion-driven-generation)
+  - [🔄 Unified Generation and Editing Models](#-unified-generation-and-editing-models)
+- [🧑 Human-Domain Personalized Video Generation Models](#-human-domain-personalized-video-generation-models)
+  - [🎨 ID-Driven Creation Models](#-id-driven-creation-models)
+    - [Test-time Finetuning](#test-time-finetuning)
+    - [Pretrained Adaptation](#pretrained-adaptation-1)
+  - [✂️ Video-Driven Editing Models](#️-video-driven-editing-models-1)
+  - [🎺 Audio-Driven Portrait Animation](#-audio-driven-portrait-animation)
+  - [🕺 Pose-Driven Full-Body Animation](#-pose-driven-full-body-animation)
+  - [🔄 Unified Generation and Editing Models](#-unified-generation-and-editing-models-1)
+- [💼 Commercial Personalized Video Generation Models](#-commercial-personalized-video-generation-models)
+- [Long Video Video Customization (\> 5min)](#long-video-video-customization--5min)
+- [📈 Evaluation](#-evaluation)
+  - [📊 Personalized Video Generation Benchmarks](#-personalized-video-generation-benchmarks)
+    - [Subject-to-Video Benchmarks](#subject-to-video-benchmarks)
+  - [📂 Personalized Video Generation Datasets](#-personalized-video-generation-datasets)
+    - [Subject-to-Video Datasets](#subject-to-video-datasets)
+  - [📏 Key Evaluation Metrics](#-key-evaluation-metrics)
+- [👍 Acknowledgement](#-acknowledgement)
 
 
 

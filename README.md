@@ -302,6 +302,7 @@ Markdown format:
 - [FVD](https://openreview.net/forum?id=rylgEULtdN)
 - [Dynamic Degree](https://arxiv.org/abs/2003.12039)
 - [FaceSim](https://github.com/deepinsight/insightface)
+- [FaceSim-Cur](https://github.com/PKU-YuanGroup/ConsisID)
 - [GmeScore](https://github.com/PKU-YuanGroup/OpenS2V-Nexus)
 - [NexusScore](https://github.com/PKU-YuanGroup/OpenS2V-Nexus)
 - [NaturalScore](https://github.com/PKU-YuanGroup/OpenS2V-Nexus)

@@ -1,6 +1,4 @@
-<div align=center>
-// <img src="img/Medical_LLM_logo.png" width="180px">
-</div>
+
 <h2 align="center"><a href="https://arxiv.org/pdf/2311.05112.pdf"> 🔥 Awesome Personalized Video Generation and Editing </a></h2>
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 This repo is used for recording and tracking recent personalized video generation and editing. 

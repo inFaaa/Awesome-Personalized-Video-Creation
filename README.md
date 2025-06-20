@@ -5,18 +5,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 
-This repo is used for recording and tracking recent personalized video generation. 
-
-Subject Identity Learning 
-+
-Multi-modal Control Signal 
-(Tokenization)
--> 
-Injection Method (Adapter/Finetune)
-->
-Base Video Generation Models
--> 
-Training Strategies
+This repo is used for recording and tracking recent personalized video generation and editing. 
 
 - [🌟 Awesome Personalized Video Generation and Editing](#-awesome-personalized-video-generation-and-editing)
   - [⚡ Contributing](#-contributing)

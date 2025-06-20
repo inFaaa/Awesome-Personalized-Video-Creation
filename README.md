@@ -1,9 +1,14 @@
-<a name="top"></a>
-
-# 🌟 Awesome Personalized Video Generation and Editing
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
+<div align=center>
+// <img src="img/Medical_LLM_logo.png" width="180px">
+</div>
+<h2 align="center"><a href="https://arxiv.org/pdf/2311.05112.pdf"> 🔥 Awesome Personalized Video Generation and Editing </a></h2>
+<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
+This repo is used for recording and tracking recent personalized video generation and editing. 
+<h5 align="center">
+   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+   ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
+   ![GitHub Repo stars](https://img.shields.io/github/stars/inFaaa/Awesome-Personalized-Video-Creation?logoColor=%23C8A2C8&color=%23DCC6E0)
+</h5>
 
 This repo is used for recording and tracking recent personalized video generation and editing. 
 
@@ -250,8 +255,6 @@ Markdown format:
 - [Veo](https://deepmind.google/models/veo/)
 - [Vidu](http://vidu.cn/)
 - [Hailuo](https://hailuoai.video/)
-- [Runway-Gen1](https://runwayml.com/)
-- [Luma](https://lumalabs.ai/)
 
 ## Long Video Video Customization (> 5min)
 

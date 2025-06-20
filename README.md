@@ -1,12 +1,20 @@
+<h2 align="center">
+  <a href="">🔥 Awesome Personalized Video Generation and Editing</a>
+</h2>
 
-<h2 align="center"><a href="https://arxiv.org/pdf/2311.05112.pdf"> 🔥 Awesome Personalized Video Generation and Editing </a></h2>
-<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
-This repo is used for recording and tracking recent personalized video generation and editing. 
-<h5 align="center">
-   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-   [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
-   ![GitHub Repo stars](https://img.shields.io/github/stars/inFaaa/Awesome-Personalized-Video-Creation?logoColor=%23C8A2C8&color=%23DCC6E0)
-</h5>
+<p align="center">
+  If you like our project, please give us a star ⭐ on GitHub for the latest update.
+</p>
+
+<p align="center">
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge.svg" alt="Awesome">
+  </a>
+  <a href="https://github.com/inFaaa/Awesome-Personalized-Video-Creation/pulls">
+    <img src="https://img.shields.io/badge/PRs-Welcome-green.svg" alt="PRs Welcome">
+  </a>
+  <img src="https://img.shields.io/github/stars/inFaaa/Awesome-Personalized-Video-Creation?logoColor=%23C8A2C8&amp;color=%23DCC6E0" alt="GitHub Repo stars">
+</p>
 
 This repo is used for recording and tracking recent personalized video generation and editing. 
 

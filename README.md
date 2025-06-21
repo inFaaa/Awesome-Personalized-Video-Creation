@@ -244,6 +244,7 @@ Markdown format:
 | **DisPose: Disentangling Pose Guidance for Controllable Human Image Animation** | ICLR 2025 | Dec 12 2024 | [Paper](https://arxiv.org/abs/2412.09349) – [Code](https://github.com/lihxxx/DisPose) - [Page](https://lihxxx.github.io/DisPose/) |
 | **Consistent Human Image and Video Generation with Spatially Conditioned Diffusion** | arXiv | Dec 19 2024 | [Paper](https://arxiv.org/abs/2412.14531) – [Code](https://github.com/ljzycmd/scd)|
 | **DirectorLLM for Human-Centric Video Generation** | arXiv | Dec 19 2024 | [Paper](https://arxiv.org/pdf/2412.14484) |
+| **X-Dyna: Expressive Dynamic Human Image Animation** | CVPR 2025 (Highlight) | Jan 17 2025 | [Paper](https://arxiv.org/abs/2501.10021)  – [Page](https://x-dyna.github.io/xdyna.github.io/) - [Code](https://github.com/bytedance/X-Dyna) |
 | **HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation** | arXiv | Feb 7 2025 | [Paper](https://arxiv.org/abs/2502.04847)  – [Page](https://agnjason.github.io/HumanDiT-page/) |
 | **Animate Anyone 2: High-Fidelity Character Image Animation with Environment Affordance** | arXiv | Feb 10 2025 | [Paper](https://arxiv.org/abs/2502.06145)  – [Page](https://humanaigc.github.io/animate-anyone-2/) |
 | **DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance** | arXiv | Apr 20 2025 | [Paper](https://arxiv.org/pdf/2504.01724)  – [Page](https://grisoon.github.io/DreamActor-M1/) |

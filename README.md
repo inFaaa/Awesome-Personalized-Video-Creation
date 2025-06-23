@@ -85,17 +85,18 @@ Markdown format:
 - [SVD-Like](https://github.com/Stability-AI/generative-models)
 
 ### 🕳️ Controllable Video Generation
- #### 📌 Structure-aware Control Modules
- - [Controlnet](https://github.com/lllyasviel/ControlNet)
- - [T2IAdapter](https://github.com/TencentARC/T2I-Adapter)
- #### 📌 Parameter-efficient Adaptation
- - [LoRA](https://github.com/cloneofsimo/lora)
- - [DreamBooth](https://dreambooth.github.io/)
- #### 📌 Localized Editing
- - [Inpainting](https://github.com/geekyutao/Inpaint-Anything)
+#### 📌 Structure-aware Control Modules
+- [Controlnet](https://github.com/lllyasviel/ControlNet)
+- [T2IAdapter](https://github.com/TencentARC/T2I-Adapter)
+#### 📌 Parameter-efficient Adaptation
+- [LoRA](https://github.com/cloneofsimo/lora)
+- [DreamBooth](https://dreambooth.github.io/)
+#### 📌 Localized Editing
+- [Inpainting](https://github.com/geekyutao/Inpaint-Anything)
 
 
 ### 📽️ Foundation Video Generation Models
+#### 📌 Diffusion Transformer
 - [Wan 2.1](https://github.com/Wan-Video/Wan2.1)
 - [Step-Video](https://github.com/stepfun-ai/Step-Video-T2V)
 - [HunyuanVideo](https://github.com/Tencent/HunyuanVideo)
@@ -104,13 +105,15 @@ Markdown format:
 - [CogVideo-X](https://github.com/THUDM/CogVideo)
 - [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
 - [Open-Sora](https://github.com/hpcaitech/Open-Sora)
-- [Stable Video Diffusion](https://github.com/Stability-AI/generative-models)
-- [AnimateDiff](https://github.com/guoyww/AnimateDiff)
-- [Video-GPT](https://github.com/zhuangshaobin/Video-GPT)
 - [Pyramid Flow](https://github.com/jy0205/Pyramid-Flow?tab=readme-ov-file)
 - [Latte](https://github.com/Vchitect/Latte)
+#### 📌 U-Net
+- [Stable Video Diffusion](https://github.com/Stability-AI/generative-models)
+- [AnimateDiff](https://github.com/guoyww/AnimateDiff)
 - [ModelScope](https://github.com/ali-vilab/VGen)
 - [LVDM](https://github.com/yingqinghe/lvdm?tab=readme-ov-file)
+#### 📌 Autoregressive
+- [Video-GPT](https://github.com/zhuangshaobin/Video-GPT)
 
 ## 🌐 Open-Domain Personalized Video Generation Models
 

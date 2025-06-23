@@ -114,6 +114,7 @@ Markdown format:
 - [LVDM](https://github.com/yingqinghe/lvdm?tab=readme-ov-file)
 #### 🌀 Autoregressive
 - [Video-GPT](https://github.com/zhuangshaobin/Video-GPT)
+- [VideoMAR](https://yuhuustc.github.io//projects/VideoMAR.html)
 
 ## 🌐 Open-Domain Personalized Video Generation Models
 

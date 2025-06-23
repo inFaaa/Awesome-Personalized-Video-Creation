@@ -96,7 +96,7 @@ Markdown format:
 
 
 ### 📽️ Foundation Video Generation Models
-#### 📌 Diffusion Transformer
+#### 🌀 Diffusion Transformer
 - [Wan 2.1](https://github.com/Wan-Video/Wan2.1)
 - [Step-Video](https://github.com/stepfun-ai/Step-Video-T2V)
 - [HunyuanVideo](https://github.com/Tencent/HunyuanVideo)
@@ -107,12 +107,12 @@ Markdown format:
 - [Open-Sora](https://github.com/hpcaitech/Open-Sora)
 - [Pyramid Flow](https://github.com/jy0205/Pyramid-Flow?tab=readme-ov-file)
 - [Latte](https://github.com/Vchitect/Latte)
-#### 📌 U-Net
+#### 🌀 U-Net
 - [Stable Video Diffusion](https://github.com/Stability-AI/generative-models)
 - [AnimateDiff](https://github.com/guoyww/AnimateDiff)
 - [ModelScope](https://github.com/ali-vilab/VGen)
 - [LVDM](https://github.com/yingqinghe/lvdm?tab=readme-ov-file)
-#### 📌 Autoregressive
+#### 🌀 Autoregressive
 - [Video-GPT](https://github.com/zhuangshaobin/Video-GPT)
 
 ## 🌐 Open-Domain Personalized Video Generation Models

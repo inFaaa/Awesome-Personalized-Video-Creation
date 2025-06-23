@@ -278,6 +278,7 @@ Markdown format:
 - [Veo](https://deepmind.google/models/veo/)
 - [Vidu](http://vidu.cn/)
 - [Hailuo](https://hailuoai.video/)
+- [Seaweed](https://seaweed.video/)
 
 ## Long Video Video Customization (> 5min)
 

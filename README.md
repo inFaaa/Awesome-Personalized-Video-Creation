@@ -85,14 +85,14 @@ Markdown format:
 - [SVD-Like](https://github.com/Stability-AI/generative-models)
 
 ### 🕳️ Controllable Video Generation
-#### 📌 Structure-aware Control Modules
-- [Controlnet](https://github.com/lllyasviel/ControlNet)
-- [T2IAdapter](https://github.com/TencentARC/T2I-Adapter)
-#### 📌 Parameter-efficient Adaptation
-- [LoRA]
-- [DreamBooth]
-#### 📌 Localized Editing
-- [Inpainting]
+ #### 📌 Structure-aware Control Modules
+ - [Controlnet](https://github.com/lllyasviel/ControlNet)
+ - [T2IAdapter](https://github.com/TencentARC/T2I-Adapter)
+ #### 📌 Parameter-efficient Adaptation
+ - [LoRA](https://github.com/cloneofsimo/lora)
+ - [DreamBooth](https://dreambooth.github.io/)
+ #### 📌 Localized Editing
+ - [Inpainting](https://github.com/geekyutao/Inpaint-Anything)
 
 
 ### 📽️ Foundation Video Generation Models

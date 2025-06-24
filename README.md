@@ -243,6 +243,8 @@ Markdown format:
 | **EMO2: End-Effector Guided Audio-Driven Avatar Video Generation** | ECCV 2024 | Jan 18 2025 | [Paper](https://arxiv.org/abs/2501.10687)                    |
 | **SkyReels-Audio: Omni Audio-Conditioned Talking Portraits in Video Diffusion Transformers** | arXiv     | Jun 11 2025 | [Paper](https://arxiv.org/pdf/2506.00830) – [Project](https://skyworkai.github.io/skyreels-audio.github.io/) - [Code](https://github.com/SkyworkAI/SkyReels-A2) |
 | **InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions** | arXiv     | Jun 11 2025 | [Paper](https://arxiv.org/pdf/2506.09984) – [Project](https://zhenzhiwang.github.io/interacthuman/) |
+| **OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation** | arXiv     | Jun 23 2025 | [Paper](https://arxiv.org/pdf/2506.18866) – [Project](https://omni-avatar.github.io/) - [Code](https://github.com/Omni-Avatar/OmniAvatar) |
+
 
 ### 🕺 Pose-Driven Human Animation
 
@@ -286,6 +288,7 @@ Markdown format:
 | Title                                                        | Venue        | Date        | Links                                                        |
 | ------------------------------------------------------------ | ------------ | ----------- | ------------------------------------------------------------ |
 | **Vlogger: Make Your Dream A Vlog**  | CVPR 2024 | Jan 17 2024 | [Paper](https://arxiv.org/pdf/2401.09414) – [Code](https://github.com/zhuangshaobin/Vlogger) |
+| **FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation**  | Arxiv 2025 | Jun 23 2025 | [Paper](https://arxiv.org/pdf/2506.18899) – [Page](https://filmaster-ai.github.io/) |
 
 
 ## 📈 Evaluation
@@ -309,9 +312,10 @@ Markdown format:
 
 | Title / Dataset   | Venue                 | Date        | Links                                                        |
 | ----------------- | --------------------- | ----------- | ------------------------------------------------------------ |
-| **Any2CapIns** | Arxiv | Mar 2025 | [Paper](https://arxiv.org/abs/2503.24379) – [Project](https://sqwu.top/Any2Cap/) – [Data](https://github.com/ChocoWu/Any2Caption) |
 | **ConsisID-Data** | CVPR 2025 (Highlight) | Oct 2024 | [Paper](https://arxiv.org/abs/2411.17440) – [Project](https://pku-yuangroup.github.io/ConsisID) – [Data](https://huggingface.co/datasets/BestWishYsh/ConsisID-preview-Data) |
+| **Any2CapIns** | Arxiv | Mar 2025 | [Paper](https://arxiv.org/abs/2503.24379) – [Project](https://sqwu.top/Any2Cap/) – [Data](https://github.com/ChocoWu/Any2Caption) |
 | **OpenS2V-5M**    | Arxiv                 | May 28 2025 | [Paper](https://arxiv.org/abs/2505.20292) – [Project](https://pku-yuangroup.github.io/OpenS2V-Nexus) – [Data](https://huggingface.co/datasets/BestWishYsh/OpenS2V-5M) |
+| **Phantom-Data**    | Arxiv                 | Jun 23 2025 | [Paper](https://arxiv.org/pdf/2506.18851) – [Project](https://phantom-video.github.io/Phantom-Data/) – [Data](https://github.com/Phantom-video/Phantom-Data) |
 
 #### ID-Driven Creation Datasets (Human-Domain)
 | Title / Dataset   | Venue                 | Date        | Links                                                        |

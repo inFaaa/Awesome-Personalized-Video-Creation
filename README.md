@@ -265,6 +265,7 @@ Markdown format:
 | **HumanDiT: Pose-Guided Diffusion Transformer for Long-form Human Motion Video Generation** | arXiv | Feb 7 2025 | [Paper](https://arxiv.org/abs/2502.04847)  – [Page](https://agnjason.github.io/HumanDiT-page/) |
 | **Animate Anyone 2: High-Fidelity Character Image Animation with Environment Affordance** | arXiv | Feb 10 2025 | [Paper](https://arxiv.org/abs/2502.06145)  – [Page](https://humanaigc.github.io/animate-anyone-2/) |
 | **DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance** | arXiv | Apr 20 2025 | [Paper](https://arxiv.org/pdf/2504.01724)  – [Page](https://grisoon.github.io/DreamActor-M1/) |
+| **DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation** | arXiv | May 23 2025 | [Paper](https://arxiv.org/pdf/2505.18078)  – [Page](https://dancetog.github.io/) - [Code](https://github.com/yisuanwang/DanceTog) |
 
 
 ### 🔄 Unified Generation and Editing Models 

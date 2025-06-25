@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/github/stars/inFaaa/Awesome-Personalized-Video-Creation?logoColor=%23C8A2C8&amp;color=%23DCC6E0" alt="GitHub Repo stars">
 </p>
 
-This repo is used for recording and tracking recent personalized video generation and editing. 
+This repository is dedicated to collecting, organizing, and tracking recent advancements in personalized video generation and editing. It serves as a centralized resource for papers, models, and benchmarks in this rapidly evolving field.
 
 - [⚡ Contributing](#-contributing)
 - [📚 Key Techniques](#-key-techniques)

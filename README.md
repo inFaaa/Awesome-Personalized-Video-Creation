@@ -233,7 +233,10 @@ Markdown format:
 | **Face2Face: Real-time Face Capture and Reenactment of RGB Videos** | CVPR 2016 | 2016 | [Paper](https://arxiv.org/pdf/2007.14808) |
 | **IP-FaceDiff: Identity-Preserving Facial Video Editing with Diffusion** | arXiv | Jan 13 2025 | [Paper](https://arxiv.org/abs/2501.07530) – [Code](https://github.com/ThoAce/IP-FaceDiff) |
 
-
+### 🎨 Landmark-Driven Creation Models
+| Title                                                        | Venue | Date        | Links                                                        |
+| ------------------------------------------------------------ | ----- | ----------- | ------------------------------------------------------------ |
+| **Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation** | Siggraph Asia 2024 | Jun 4 2024 | [Paper](https://arxiv.org/abs/2406.01900) - [Page](https://follow-your-emoji.github.io/) - [Code](https://github.com/mayuelala/FollowYourEmoji)|
 
 ### 🎺 Audio-Driven Portrait Animation
 
@@ -256,6 +259,7 @@ Markdown format:
 | **MagicPose: Realistic Human Poses and Facial Expressions Retargeting with Identity-aware Diffusion** | ICML 2024 | Nov 18 2023 | [Paper](https://arxiv.org/abs/2311.12052) – [Code](https://github.com/Boese0601/MagicDance) – [Page](https://boese0601.github.io/magicdance/) |
 | **MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model** | CVPR 2024 | Nov 27 2023 | [Paper](https://arxiv.org/abs/2311.16498) – [Code](https://github.com/magic-research/magic-animate) – [Page](https://showlab.github.io/magicanimate/) |
 | **Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation** | CVPR 2024 | Nov 28 2023 | [Paper](https://arxiv.org/abs/2311.17117) – [Code](https://github.com/HumanAIGC/AnimateAnyone) – [Page](https://humanaigc.github.io/animate-anyone/) |
+| **Follow-Your-Pose v2: Multiple-Condition Guided Character Image Animation for Stable Pose Control** | arXiv | Jun 05 2024 | [Paper](https://arxiv.org/html/2406.03035v2) – [Page](https://follow-your-pose-v2.github.io/) |
 | **MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance** | ICML 2025 | Jun 28 2024 | [Paper](https://arxiv.org/abs/2406.19680) – [Code](https://github.com/tencent/MimicMotion) – [Page](https://tencent.github.io/MimicMotion/) |
 | **MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling** | CVPR 2025 | Sep 24 2024 | [Paper](https://arxiv.org/abs/2409.16160v2) – [Code](https://github.com/menyifang/MIMO) – [Page](https://menyifang.github.io/projects/MIMO/index.html) |
 | **DisPose: Disentangling Pose Guidance for Controllable Human Image Animation** | ICLR 2025 | Dec 12 2024 | [Paper](https://arxiv.org/abs/2412.09349) – [Code](https://github.com/lihxxx/DisPose) - [Page](https://lihxxx.github.io/DisPose/) |

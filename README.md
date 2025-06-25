@@ -35,7 +35,6 @@ This repository is dedicated to collecting, organizing, and tracking recent adva
   - [🎨 ID-Driven Creation Models](#-id-driven-creation-models)
     - [Test-time Finetuning](#test-time-finetuning)
     - [Pretrained Adaptation](#pretrained-adaptation-1)
-  - [✂️ Video-Driven Editing Models](#️-video-driven-editing-models-1)
   - [🎺 Audio-Driven Portrait Animation](#-audio-driven-portrait-animation)
   - [🕺 Pose-Driven Human Animation](#-pose-driven-full-body-animation)
   - [🔄 Unified Generation and Editing Models](#-unified-generation-and-editing-models-1)
@@ -167,6 +166,7 @@ Markdown format:
 | **DreamInsert: Zero-Shot Image-to-Video Object Insertion from A Single Image** | arXiv     | Mar 13 2025     | [Paper](https://arxiv.org/pdf/2503.10342)  |
 | **Get In Video: Add Anything You Want to the Video** | arXiv | May 2025 | [Project](https://dreamix-video-editing.github.io/) – [Paper](https://arxiv.org/abs/2503.06268) |
 | **Pix2Video: Video Editing using Image Diffusion** | ICCV 2023 | Mar 22 2023 | [Project](https://duyguceylan.github.io/pix2video.github.io/) – [Paper](https://arxiv.org/pdf/2303.12688) |
+| **VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control** | arXiv | Mar 28 2025 | [Project](https://videoanydoor.github.io/) – [Paper](https://arxiv.org/pdf/2501.01427) |
 
 
 ### 🎥 Motion-Driven Generation

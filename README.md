@@ -289,6 +289,7 @@ Markdown format:
 | ------------------------------------------------------------ | ------------ | ----------- | ------------------------------------------------------------ |
 | **Vlogger: Make Your Dream A Vlog**  | CVPR 2024 | Jan 17 2024 | [Paper](https://arxiv.org/pdf/2401.09414) – [Code](https://github.com/zhuangshaobin/Vlogger) |
 | **FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation**  | Arxiv 2025 | Jun 23 2025 | [Paper](https://arxiv.org/pdf/2506.18899) – [Page](https://filmaster-ai.github.io/) |
+| **GenHSI: Controllable Generation of Human-Scene Interaction Videos**  | Arxiv 2025 | Jun 24 2025 | [Paper](https://arxiv.org/pdf/2506.19840) – [Page](https://kunkun0w0.github.io/project/GenHSI/) |
 
 
 ## 📈 Evaluation

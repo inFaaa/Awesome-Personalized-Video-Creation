@@ -195,6 +195,7 @@ Markdown format:
 | ------------------------------------------------------------ | ------------ | ----------- | ------------------------------------------------------------ |
 | **Few-shot Video-to-Video Synthesis**                        | NeurIPS 2019 | Oct 28 2019 | [Paper](https://arxiv.org/pdf/2505.04512) – [Project](https://nvlabs.github.io/few-shot-vid2vid/) – [Code](https://github.com/NVlabs/few-shot-vid2vid) |
 | **FullDiT: Multi-Task Video Generative Foundation Model with Full Attention**                        | arXiv | Mar 25 2025 | [Paper](https://arxiv.org/pdf/2503.19907) – [Project](https://fulldit.github.io/) |
+| **SketchVideo: Sketch-based Video Generation and Editing**                        | CVPR 2025 | Mar 25 2025 | [Paper](https://arxiv.org/abs/2503.23284) – [Project](http://geometrylearning.com/SketchVideo/) - [Code](https://github.com/IGLICT/SketchVideo)|
 | **HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation** | arXiv        | May 8 2025  | [Paper](https://arxiv.org/pdf/2505.04512) – [Project](https://hunyuancustom.github.io/) – [Code](https://github.com/Tencent-Hunyuan/HunyuanCustom) |
 | **VACE: All-in-One Video Creation and Editing**              | arxiv        | Mar 10 2025 | [Code](https://github.com/ali-vilab/VACE) - [Project](https://ali-vilab.github.io/VACE-Page/) - [Paper](https://arxiv.org/abs/2503.07598) |
 

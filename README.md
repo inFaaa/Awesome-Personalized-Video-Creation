@@ -79,7 +79,7 @@ Markdown format:
 - [CLIP-Like](https://github.com/openai/CLIP)
 - [VAE](https://github.com/huggingface/diffusers/tree/main/src/diffusers/models/autoencoders)
 - [ArcFace-Like](https://github.com/deepinsight/insightface)
-- [ContorlNet-Like](https://github.com/lllyasviel/ControlNet)
+- [ControlNet-Like](https://github.com/lllyasviel/ControlNet)
 - [T2I-Adapter-Like](https://github.com/TencentARC/T2I-Adapter)
 - [SVD-Like](https://github.com/Stability-AI/generative-models)
 
@@ -113,7 +113,7 @@ Markdown format:
 - [LVDM](https://github.com/yingqinghe/lvdm?tab=readme-ov-file)
 #### 🌀 Autoregressive
 - [Video-GPT](https://github.com/zhuangshaobin/Video-GPT)
-- [VideoMAR](https://yuhuustc.github.io//projects/VideoMAR.html)
+- [MAGI-1](https://github.com/SandAI-org/MAGI-1)
 
 ## 🌐 Open-Domain Personalized Video Generation Models
 

@@ -198,6 +198,7 @@ Markdown format:
 | **SketchVideo: Sketch-based Video Generation and Editing**                        | CVPR 2025 | Mar 25 2025 | [Paper](https://arxiv.org/abs/2503.23284) – [Project](http://geometrylearning.com/SketchVideo/) - [Code](https://github.com/IGLICT/SketchVideo)|
 | **HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation** | arXiv        | May 8 2025  | [Paper](https://arxiv.org/pdf/2505.04512) – [Project](https://hunyuancustom.github.io/) – [Code](https://github.com/Tencent-Hunyuan/HunyuanCustom) |
 | **VACE: All-in-One Video Creation and Editing**              | arxiv        | Mar 10 2025 | [Code](https://github.com/ali-vilab/VACE) - [Project](https://ali-vilab.github.io/VACE-Page/) - [Paper](https://arxiv.org/abs/2503.07598) |
+| **OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions**              | arxiv        | Jun 29 2025 | [Code](https://github.com/caiyuanhao1998/Open-OmniVCus) - [Paper](https://arxiv.org/pdf/2506.23361) - [Project](https://caiyuanhao1998.github.io/project/OmniVCus/) |
 
 
 ## 🧑 Human-Domain Personalized Video Generation Models
@@ -226,6 +227,7 @@ Markdown format:
 | **Movie Weaver: Tuning-Free Multi-Concept Video Personalization with Anchored Prompts** | CVPR 2025 | Feb 4 2025 | [Paper](https://arxiv.org/abs/2501.13452) – [Page](https://jeff-liangf.github.io/projects/movieweaver/) |
 | **FantasyID: Face Knowledge Enhanced ID-Preserving Video Generation** | arXiv     | Feb 25 2025 | [Paper](https://arxiv.org/abs/2502.13995) – [Project](https://fantasy-amap.github.io/fantasy-id/) – [Code](https://github.com/Fantasy-AMAP/fantasy-id)|
 | **Concat-ID: Towards Universal Identity-Preserving Video Synthesis** | arXiv     | Mar 18 2025 | [Paper](https://arxiv.org/abs/2503.14151) – [Code](https://github.com/ML-GSAI/Concat-ID) |
+| **Proteus-ID: ID-Consistent and Motion-Coherent Video Customization** | arXiv     | Jun 30 2025 | [Paper](https://arxiv.org/pdf/2506.23729) – [Project](https://grenoble-zhang.github.io/Proteus-ID/) |
 
 
 ### ✂️ Video-Driven Editing Models
@@ -317,6 +319,7 @@ Markdown format:
 | **FullBench** - FullDiT: Multi-Task Video Generative Foundation Model with Full Attention | arXiv | Mar 25 2025 | [Paper](https://arxiv.org/pdf/2503.19907) – [Data](https://huggingface.co/datasets/KwaiVGI/FullBench) |
 | **A2 Bench** – “Elements-to-Video” evaluation benchmark for arbitrary subjects | arXiv                 | Apr 2025    | [Paper](https://arxiv.org/abs/2504.02436) – [Data/Code](https://github.com/SkyWorkAI/skyreels-a2) |
 | **OpenS2V-Eval** – Fine-grained S2V benchmark (180 prompts, real & synthetic) | arXiv                 | May 28 2025 | [Paper](https://arxiv.org/abs/2505.20292) – [Project](https://pku-yuangroup.github.io/OpenS2V-Nexus) – [Code](https://huggingface.co/spaces/BestWishYsh/OpenS2V-Eval) |
+| **Proteus-Bench** | arXiv     | Jun 30 2025 | [Paper](https://arxiv.org/pdf/2506.23729) – [Project](https://grenoble-zhang.github.io/Proteus-ID/) |
 
 ### 📂 Personalized Video Generation Datasets
 

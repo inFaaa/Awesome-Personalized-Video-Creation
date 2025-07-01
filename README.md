@@ -279,14 +279,19 @@ Markdown format:
 | **TokenMotion: Decoupled Motion Control via Token Disentanglement for Human-centric Video Generation** | CVPR 2025 | Apr 11 2025 | [Paper](https://arxiv.org/abs/2504.08181) |
 | **DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation** | arXiv | May 23 2025 | [Paper](https://arxiv.org/pdf/2505.18078)  – [Page](https://dancetog.github.io/) - [Code](https://github.com/yisuanwang/DanceTog) |
 
+### 🕺 Scene-Driven Human Animation
+
+| Title                                                        | Venue     | Date        | Links                                                        |
+| ------------------------------------------------------------ | --------- | ----------- | ------------------------------------------------------------ |
+| **GenHSI: Controllable Generation of Human-Scene Interaction Videos**  | Arxiv 2025 | Jun 24 2025 | [Paper](https://arxiv.org/pdf/2506.19840) – [Page](https://kunkun0w0.github.io/project/GenHSI/) |
+| **Populate-A-Scene: Affordance-Aware Human Video Generation**    | arXiv | Jul 01 2025 | [Paper](https://shanmy.github.io/Populate-A-Scene/static/pdfs/pas.pdf) – [Project](https://shanmy.github.io/Populate-A-Scene/index.html)  |
 
 
 ### 🔄 Unified Generation and Editing Models 
 
 | Title                                                        | Venue        | Date        | Links                                                        |
 | ------------------------------------------------------------ | ------------ | ----------- | ------------------------------------------------------------ |
-| **MagicAvatar: Multimodal Avatar Generation and Animation**                        | arXiv | Aug 28 2023 | [Paper](https://arxiv.org/pdf/2308.14748) – [Project](https://magic-avatar.github.io/) - [Code](https://github.com/magic-research/magic-avatar) |
-| **HunyuanVideo-HOMA: Generic Human-Object Interaction in Multimodal Driven Human Animation**                        | arXiv | Jun 10 2025 | [Paper](https://arxiv.org/pdf/2506.08797) – [Project](https://anonymous.4open.science/w/homa-page-0FBE/) |
+| **MagicAvatar: Multimodal Avatar Generation and Animation**   | arXiv | Aug 28 2023 | [Paper](https://arxiv.org/pdf/2308.14748) – [Project](https://magic-avatar.github.io/) - [Code](https://github.com/magic-research/magic-avatar) |
 
 ## 💼 Commercial Personalized Video Generation Models
 
@@ -303,7 +308,6 @@ Markdown format:
 | ------------------------------------------------------------ | ------------ | ----------- | ------------------------------------------------------------ |
 | **Vlogger: Make Your Dream A Vlog**  | CVPR 2024 | Jan 17 2024 | [Paper](https://arxiv.org/pdf/2401.09414) – [Code](https://github.com/zhuangshaobin/Vlogger) |
 | **FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation**  | Arxiv 2025 | Jun 23 2025 | [Paper](https://arxiv.org/pdf/2506.18899) – [Page](https://filmaster-ai.github.io/) |
-| **GenHSI: Controllable Generation of Human-Scene Interaction Videos**  | Arxiv 2025 | Jun 24 2025 | [Paper](https://arxiv.org/pdf/2506.19840) – [Page](https://kunkun0w0.github.io/project/GenHSI/) |
 
 
 ## 📈 Evaluation

@@ -87,6 +87,7 @@ Markdown format:
 #### 📌 Structure-aware Control Modules
 - [Controlnet](https://github.com/lllyasviel/ControlNet)
 - [T2IAdapter](https://github.com/TencentARC/T2I-Adapter)
+- AnyI2V: Animating Any Conditional Image with Motion Control, arXiv 2025, [Paper](https://arxiv.org/pdf/2507.02857)
 #### 📌 Parameter-efficient Adaptation
 - [LoRA](https://github.com/cloneofsimo/lora)
 - [DreamBooth](https://dreambooth.github.io/)

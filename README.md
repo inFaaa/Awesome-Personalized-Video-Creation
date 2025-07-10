@@ -239,6 +239,7 @@ Markdown format:
 | ------------------------------------------------------------ | ----- | ----------- | ------------------------------------------------------------ |
 | **Face2Face: Real-time Face Capture and Reenactment of RGB Videos** | CVPR 2016 | 2016 | [Paper](https://arxiv.org/pdf/2007.14808) |
 | **IP-FaceDiff: Identity-Preserving Facial Video Editing with Diffusion** | arXiv | Jan 13 2025 | [Paper](https://arxiv.org/abs/2501.07530) – [Code](https://github.com/ThoAce/IP-FaceDiff) |
+| **VividFace: A Diffusion-Based Hybrid Framework for High-Fidelity Video Face Swapping** | arXiv | Dec 15 2024 | [Paper](https://arxiv.org/abs/2412.11279) – [Code](https://github.com/deepcs233/VividFace) - [Page](https://hao-shao.com/projects/vividface.html)|
 
 ### 🎨 Landmark-Driven Creation Models
 | Title                                                        | Venue | Date        | Links                                                        |

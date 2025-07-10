@@ -256,6 +256,7 @@ Markdown format:
 | **InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions** | arXiv     | Jun 11 2025 | [Paper](https://arxiv.org/pdf/2506.09984) – [Project](https://zhenzhiwang.github.io/interacthuman/) |
 | **OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation** | arXiv     | Jun 23 2025 | [Paper](https://arxiv.org/pdf/2506.18866) – [Project](https://omni-avatar.github.io/) - [Code](https://github.com/Omni-Avatar/OmniAvatar) |
 | **MirrorMe: Towards Realtime and High Fidelity Audio-Driven Halfbody Animation** | arXiv     | Jun 27 2025 | [Paper](https://arxiv.org/pdf/2506.22065) – [Project](https://www.youtube.com/watch?v=5RxGawDro3s&feature=youtu.be)|
+| **Democratizing High-Fidelity Co-Speech Gesture Video Generation** | ICCV 2025  | Jul 09 2025 | [Paper](https://arxiv.org/pdf/2507.06812) – [Project](https://mpi-lab.github.io/Democratizing-CSG/) - [Code](https://github.com/MPI-Lab/Democratizing-CSG)|
 
 
 ### 🕺 Pose-Driven Human Animation

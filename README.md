@@ -274,6 +274,7 @@ Markdown format:
 | **MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance** | ICML 2025 | Jun 28 2024 | [Paper](https://arxiv.org/abs/2406.19680) – [Code](https://github.com/tencent/MimicMotion) – [Page](https://tencent.github.io/MimicMotion/) |
 | **MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling** | CVPR 2025 | Sep 24 2024 | [Paper](https://arxiv.org/abs/2409.16160v2) – [Code](https://github.com/menyifang/MIMO) – [Page](https://menyifang.github.io/projects/MIMO/index.html) |
 | **StableAnimator: High-Quality Identity-Preserving Human Image Animation** | CVPR 2025 | Sep 24 2024 | [Paper](https://arxiv.org/pdf/2411.17697) – [Code](https://github.com/Francis-Rings/StableAnimator) – [Page](https://francis-rings.github.io/StableAnimator/) |
+| **DreamDance: Animating Human Images by Enriching 3D Geometry Cues from 2D Poses** | ICCV 2025 | Nov 30 2024 | [Paper](https://arxiv.org/pdf/2412.00397?) – [Code](https://github.com/PKU-YuanGroup/DreamDance) – [Page](https://pang-yatian.github.io/Dreamdance-webpage/) |
 | **DisPose: Disentangling Pose Guidance for Controllable Human Image Animation** | ICLR 2025 | Dec 12 2024 | [Paper](https://arxiv.org/abs/2412.09349) – [Code](https://github.com/lihxxx/DisPose) - [Page](https://lihxxx.github.io/DisPose/) |
 | **Consistent Human Image and Video Generation with Spatially Conditioned Diffusion** | arXiv | Dec 19 2024 | [Paper](https://arxiv.org/abs/2412.14531) – [Code](https://github.com/ljzycmd/scd)|
 | **DirectorLLM for Human-Centric Video Generation** | arXiv | Dec 19 2024 | [Paper](https://arxiv.org/pdf/2412.14484) |
@@ -283,6 +284,8 @@ Markdown format:
 | **DreamActor-M1: Holistic, Expressive and Robust Human Image Animation with Hybrid Guidance** | arXiv | Apr 20 2025 | [Paper](https://arxiv.org/pdf/2504.01724)  – [Page](https://grisoon.github.io/DreamActor-M1/) |
 | **TokenMotion: Decoupled Motion Control via Token Disentanglement for Human-centric Video Generation** | CVPR 2025 | Apr 11 2025 | [Paper](https://arxiv.org/abs/2504.08181) |
 | **DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation** | arXiv | May 23 2025 | [Paper](https://arxiv.org/pdf/2505.18078)  – [Page](https://dancetog.github.io/) - [Code](https://github.com/yisuanwang/DanceTog) |
+| **StableAnimator++: Overcoming Pose Misalignment and Face Distortion for Human Image Animation** | arXiv | Jul 20 2025 | [Paper](https://arxiv.org/pdf/2507.15064)  – [Page](https://francis-rings.github.io/StableAnimator++/) |
+
 
 ### 🕺 Scene-Driven Human Animation
 

@@ -293,6 +293,7 @@ Markdown format:
 | ------------------------------------------------------------ | --------- | ----------- | ------------------------------------------------------------ |
 | **GenHSI: Controllable Generation of Human-Scene Interaction Videos**  | Arxiv 2025 | Jun 24 2025 | [Paper](https://arxiv.org/pdf/2506.19840) – [Page](https://kunkun0w0.github.io/project/GenHSI/) |
 | **Populate-A-Scene: Affordance-Aware Human Video Generation**    | arXiv | Jul 01 2025 | [Paper](https://arxiv.org/pdf/2507.00334) – [Project](https://shanmy.github.io/Populate-A-Scene/index.html)  |
+| **AnimateScene: Camera-controllable Animation in Any Scene**    | arXiv | Aug 08 2025 | [Paper](https://arxiv.org/pdf/2508.05982) – [Project](https://shanmy.github.io/Populate-A-Scene/index.html)  |
 
 
 ### 🔄 Unified Generation and Editing Models 

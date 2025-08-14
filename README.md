@@ -231,6 +231,7 @@ Markdown format:
 | **FantasyID: Face Knowledge Enhanced ID-Preserving Video Generation** | arXiv     | Feb 25 2025 | [Paper](https://arxiv.org/abs/2502.13995) – [Project](https://fantasy-amap.github.io/fantasy-id/) – [Code](https://github.com/Fantasy-AMAP/fantasy-id)|
 | **Concat-ID: Towards Universal Identity-Preserving Video Synthesis** | arXiv     | Mar 18 2025 | [Paper](https://arxiv.org/abs/2503.14151) – [Code](https://github.com/ML-GSAI/Concat-ID) |
 | **Proteus-ID: ID-Consistent and Motion-Coherent Video Customization** | arXiv     | Jun 30 2025 | [Paper](https://arxiv.org/pdf/2506.23729) – [Project](https://grenoble-zhang.github.io/Proteus-ID/) |
+| **From Large Angles to Consistent Faces: Identity-Preserving Video Generation via Mixture of Facial Experts** | arXiv | Aug 13 2025 | [Paper](https://arxiv.org/pdf/2508.09476) - [Code](https://github.com/rain152/LFA-Video-Generation) |
 
 
 ### ✂️ Video-Driven Editing Models

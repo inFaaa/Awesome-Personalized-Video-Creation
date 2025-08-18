@@ -252,7 +252,8 @@ Markdown format:
 | Title                                                        | Venue     | Date        | Links                                                        |
 | ------------------------------------------------------------ | --------- | ----------- | ------------------------------------------------------------ |
 | **EMO: Emote Portrait Alive -- Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions** | ECCV 2024 | Feb 27 2024 | [Paper](https://arxiv.org/abs/2402.17485) – [Code](https://github.com/HumanAIGC/EMO) – [Page](https://humanaigc.github.io/emote-portrait-alive/) |
-| **EMO2: End-Effector Guided Audio-Driven Avatar Video Generation** | ECCV 2024 | Jan 18 2025 | [Paper](https://arxiv.org/abs/2501.10687)                    |
+| **EMO2: End-Effector Guided Audio-Driven Avatar Video Generation** | ECCV 2024 | Jan 18 2025 | [Paper](https://arxiv.org/abs/2501.10687)              |
+| **FantasyTalking: Realistic Talking Portrait Generation via Coherent Motion Synthesis** | ACMMM 2025 | Apr 07 2025 | [Paper](https://arxiv.org/abs/2504.04842) - [Project](https://fantasy-amap.github.io/fantasy-talking/) - [Code](https://github.com/Fantasy-AMAP/fantasy-talking)|
 | **Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation** | arXiv     | May 28 2025 | [Paper](https://arxiv.org/abs/2505.22647) – [Project](https://meigen-ai.github.io/multi-talk/) - [Code](https://github.com/MeiGen-AI/MultiTalk) |
 | **SkyReels-Audio: Omni Audio-Conditioned Talking Portraits in Video Diffusion Transformers** | arXiv     | Jun 11 2025 | [Paper](https://arxiv.org/pdf/2506.00830) – [Project](https://skyworkai.github.io/skyreels-audio.github.io/) - [Code](https://github.com/SkyworkAI/SkyReels-A2) |
 | **InterActHuman: Multi-Concept Human Animation with Layout-Aligned Audio Conditions** | arXiv     | Jun 11 2025 | [Paper](https://arxiv.org/pdf/2506.09984) – [Project](https://zhenzhiwang.github.io/interacthuman/) |
@@ -260,6 +261,7 @@ Markdown format:
 | **MirrorMe: Towards Realtime and High Fidelity Audio-Driven Halfbody Animation** | arXiv     | Jun 27 2025 | [Paper](https://arxiv.org/pdf/2506.22065) – [Project](https://www.youtube.com/watch?v=5RxGawDro3s&feature=youtu.be)|
 | **Democratizing High-Fidelity Co-Speech Gesture Video Generation** | ICCV 2025  | Jul 09 2025 | [Paper](https://arxiv.org/pdf/2507.06812) – [Project](https://mpi-lab.github.io/Democratizing-CSG/) - [Code](https://github.com/MPI-Lab/Democratizing-CSG)|
 | **StableAvatar: Infinite-Length Audio-Driven Avatar Video Generation** | arXiv  | Aug 11 2025 | [Paper](https://arxiv.org/pdf/2508.08248) – [Project](https://francis-rings.github.io/StableAvatar/) - [Code](https://github.com/Francis-Rings/StableAvatar)|
+| **FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation** | arXiv  | Aug 15 2025 | [Paper](https://arxiv.org/pdf/2508.11255) - [Project](https://fantasyamap.github.io/fantasy-talking2/)|
 
 
 ### 🕺 Pose-Driven Human Animation

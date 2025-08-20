@@ -354,6 +354,7 @@ Markdown format:
 #### ID-Driven Creation Datasets (Human-Domain)
 | Title / Dataset   | Venue                 | Date        | Links                                                        |
 | ----------------- | --------------------- | ----------- | ------------------------------------------------------------ |
+| **TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head Synthesis** | Arxiv 2025 | Aug 2025 | [Paper](https://arxiv.org/pdf/2508.13618) – [Project](https://github.com/FreedomIntelligence/TalkVid) – [Data](https://github.com/FreedomIntelligence/TalkVid) |
 | **CustomConcept101** | CVPR 2023 | Dec 2023 | [Paper](https://arxiv.org/pdf/2212.04488) – [Project](https://www.cs.cmu.edu/~custom-diffusion/) – [Data](https://www.cs.cmu.edu/~custom-diffusion/dataset.html) |
 
 

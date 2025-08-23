@@ -224,7 +224,7 @@ Markdown format:
 | **ConsisID: Identity-Preserving Text-to-Video Generation by Frequency Decomposition** | CVPR 2025 | Nov 26 2024 | [Paper](https://arxiv.org/pdf/2411.17383) – [Code](https://github.com/PKU-YuanGroup/ConsisID) |
 | **AnchorCrafter: Animate CyberAnchors Saling Your Products via Human-Object Interacting Video Generation** | arXiv     | Nov 26 2024 | [Paper](https://arxiv.org/abs/2411.17440) – [Code](https://github.com/cangcz/AnchorCrafter) |
 | **Ingredients: Blending Custom Photos with Video Diffusion Transformers** | arXiv     | Jan 3 2025  | [Paper](https://arxiv.org/pdf/2501.01790?) – [Code](https://github.com/feizc/Ingredients)|
-| **Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers** | arXiv     | Jan 7 2025  | [Paper](https://arxiv.org/pdf/2501.03931) – [Code](https://github.com/dvlab-research/MagicMirror/)|
+| **Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers** | ICCV 2025 | Jan 7 2025  | [Paper](https://arxiv.org/pdf/2501.03931) – [Code](https://github.com/dvlab-research/MagicMirror/)|
 | **EchoVideo: Identity-Preserving Human Video Generation by Multimodal Feature Fusion** | arXiv     | Jan 23 2025 | [Paper](https://arxiv.org/pdf/2502.07802) – [Code](https://github.com/bytedance/EchoVideo) |
 | **SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers** | arXiv | Feb 15 2025 | [Paper](https://arxiv.org/pdf/2502.10841) – [Page](https://skyworkai.github.io/skyreels-a1.github.io/) - [Code](https://github.com/SkyworkAI/SkyReels-A1)|
 | **Movie Weaver: Tuning-Free Multi-Concept Video Personalization with Anchored Prompts** | CVPR 2025 | Feb 4 2025 | [Paper](https://arxiv.org/abs/2501.13452) – [Page](https://jeff-liangf.github.io/projects/movieweaver/) |

@@ -315,6 +315,7 @@ Markdown format:
 - [Vidu](http://vidu.cn/)
 - [Hailuo](https://hailuoai.video/)
 - [Seaweed](https://seaweed.video/)
+- [Runway Aleph](https://runwayml.com/research/introducing-runway-aleph)
 
 ## Long Video Video Customization (> 5min)
 

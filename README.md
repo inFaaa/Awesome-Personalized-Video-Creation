@@ -232,6 +232,7 @@ Markdown format:
 | **Concat-ID: Towards Universal Identity-Preserving Video Synthesis** | arXiv     | Mar 18 2025 | [Paper](https://arxiv.org/abs/2503.14151) – [Code](https://github.com/ML-GSAI/Concat-ID) |
 | **Proteus-ID: ID-Consistent and Motion-Coherent Video Customization** | arXiv     | Jun 30 2025 | [Paper](https://arxiv.org/pdf/2506.23729) – [Project](https://grenoble-zhang.github.io/Proteus-ID/) |
 | **From Large Angles to Consistent Faces: Identity-Preserving Video Generation via Mixture of Facial Experts** | arXiv | Aug 13 2025 | [Paper](https://arxiv.org/pdf/2508.09476) - [Code](https://github.com/rain152/LFA-Video-Generation) |
+| **HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning**| arXiv | Seq 10 2025 | [Paper](https://arxiv.org/pdf/2509.08519) - [Code](https://github.com/Phantom-video/HuMo) - [Page](https://phantom-video.github.io/HuMo/) |
 
 
 ### ✂️ Video-Driven Editing Models

@@ -263,6 +263,7 @@ Markdown format:
 | **Democratizing High-Fidelity Co-Speech Gesture Video Generation** | ICCV 2025  | Jul 09 2025 | [Paper](https://arxiv.org/pdf/2507.06812) – [Project](https://mpi-lab.github.io/Democratizing-CSG/) - [Code](https://github.com/MPI-Lab/Democratizing-CSG)|
 | **StableAvatar: Infinite-Length Audio-Driven Avatar Video Generation** | arXiv  | Aug 11 2025 | [Paper](https://arxiv.org/pdf/2508.08248) – [Project](https://francis-rings.github.io/StableAvatar/) - [Code](https://github.com/Francis-Rings/StableAvatar)|
 | **FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation** | arXiv  | Aug 15 2025 | [Paper](https://arxiv.org/pdf/2508.11255) - [Project](https://fantasyamap.github.io/fantasy-talking2/)|
+| **Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis** | arXiv | Sep 11 2025 | [Paper](https://arxiv.org/pdf/2509.09595) - [Project](https://klingavatar.github.io/) |
 
 
 ### 🕺 Pose-Driven Human Animation

@@ -291,6 +291,7 @@ Markdown format:
 | **TokenMotion: Decoupled Motion Control via Token Disentanglement for Human-centric Video Generation** | CVPR 2025 | Apr 11 2025 | [Paper](https://arxiv.org/abs/2504.08181) |
 | **DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation** | arXiv | May 23 2025 | [Paper](https://arxiv.org/pdf/2505.18078)  – [Page](https://dancetog.github.io/) - [Code](https://github.com/yisuanwang/DanceTog) |
 | **StableAnimator++: Overcoming Pose Misalignment and Face Distortion for Human Image Animation** | arXiv | Jul 20 2025 | [Paper](https://arxiv.org/pdf/2507.15064)  – [Page](https://francis-rings.github.io/StableAnimator++/) |
+| **Wan-Animate: Unified Character Animation and Replacement with Holistic Replication** | arXiv | Seq 17 2025 | [Paper](https://arxiv.org/abs/2509.14055)  – [Page](https://humanaigc.github.io/wan-animate/) |
 
 
 ### 🕺 Scene-Driven Human Animation

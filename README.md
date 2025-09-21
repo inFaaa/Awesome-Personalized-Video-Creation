@@ -171,6 +171,7 @@ Markdown format:
 | **Get In Video: Add Anything You Want to the Video** | arXiv | May 2025 | [Project](https://dreamix-video-editing.github.io/) – [Paper](https://arxiv.org/abs/2503.06268) |
 | **Pix2Video: Video Editing using Image Diffusion** | ICCV 2023 | Mar 22 2023 | [Project](https://duyguceylan.github.io/pix2video.github.io/) – [Paper](https://arxiv.org/pdf/2303.12688) |
 | **VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control** | arXiv | Mar 28 2025 | [Project](https://videoanydoor.github.io/) – [Paper](https://arxiv.org/pdf/2501.01427) |
+| **Lucy Edit: Open-Weight Text-Guided Video Editing** | arXiv | Mar 28 2025 | [Paper](https://d2drjpuinn46lb.cloudfront.net/Lucy_Edit__High_Fidelity_Text_Guided_Video_Editing.pdf) - [Github](https://github.com/DecartAI/Lucy-Edit-ComfyUI) |
 
 
 ### 🎥 Motion-Driven Generation

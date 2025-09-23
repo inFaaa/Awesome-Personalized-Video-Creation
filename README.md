@@ -152,7 +152,7 @@ Markdown format:
 | **Tora2: Motion and Appearance Customized DiffusionTransformer for Multi-Entity Video Generation** | arXiv     | Jul 08 2025 | [Paper](https://arxiv.org/pdf/2507.05963) |
 
 
-### ✂️ Video-Driven Editing Models
+### ✂️ Personalized Video Editing Models
 
 | Title                                                        | Venue     | Date         | Links                                                        |
 | ------------------------------------------------------------ | --------- | ------------ | ------------------------------------------------------------ |
@@ -172,7 +172,8 @@ Markdown format:
 | **Pix2Video: Video Editing using Image Diffusion** | ICCV 2023 | Mar 22 2023 | [Project](https://duyguceylan.github.io/pix2video.github.io/) – [Paper](https://arxiv.org/pdf/2303.12688) |
 | **VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control** | arXiv | Mar 28 2025 | [Project](https://videoanydoor.github.io/) – [Paper](https://arxiv.org/pdf/2501.01427) |
 | **Lucy Edit: Open-Weight Text-Guided Video Editing** | arXiv | Mar 28 2025 | [Paper](https://d2drjpuinn46lb.cloudfront.net/Lucy_Edit__High_Fidelity_Text_Guided_Video_Editing.pdf) - [Github](https://github.com/DecartAI/Lucy-Edit-ComfyUI) |
-
+|**OmniInsert: Mask-Free Video Insertion of Any Reference via Diffusion Transformer Models** | arXiv | Sep 22 2025| [Paper](https://arxiv.org/pdf/2509.17627) - [Project](https://phantom-video.github.io/OmniInsert/) - [Code](https://github.com/Phantom-video/OmniInsert)|
+|**ContextFlow: Training-Free Video Object Editing via Adaptive Context Enrichment** | arXiv | Sep 22 | Sep 22 2025|[Paper](https://arxiv.org/pdf/2509.17818) - [Project](https://yychen233.github.io/ContextFlow-page/) - [Code](https://github.com/yyChen233/ContextFlow)|
 
 ### 🎥 Motion-Driven Generation
 

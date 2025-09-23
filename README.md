@@ -250,6 +250,7 @@ Markdown format:
 | Title                                                        | Venue | Date        | Links                                                        |
 | ------------------------------------------------------------ | ----- | ----------- | ------------------------------------------------------------ |
 | **Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation** | Siggraph Asia 2024 | Jun 4 2024 | [Paper](https://arxiv.org/abs/2406.01900) - [Page](https://follow-your-emoji.github.io/) - [Code](https://github.com/mayuelala/FollowYourEmoji)|
+| **Follow-Your-Emoji-Faster: Towards Efficient, Fine-Controllable, and Expressive Freestyle Portrait Animation** | IJCV 2025 | Seq 20, 2025 | [Paper](https://arxiv.org/pdf/2509.16630) - [Page](https://follow-your-emoji.github.io/) - [Code](https://github.com/mayuelala/FollowYourEmoji)|
 
 ### 🎺 Audio-Driven Portrait Animation
 

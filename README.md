@@ -173,7 +173,8 @@ Markdown format:
 | **VideoAnydoor: High-fidelity Video Object Insertion with Precise Motion Control** | arXiv | Mar 28 2025 | [Project](https://videoanydoor.github.io/) – [Paper](https://arxiv.org/pdf/2501.01427) |
 | **Lucy Edit: Open-Weight Text-Guided Video Editing** | arXiv | Mar 28 2025 | [Paper](https://d2drjpuinn46lb.cloudfront.net/Lucy_Edit__High_Fidelity_Text_Guided_Video_Editing.pdf) - [Github](https://github.com/DecartAI/Lucy-Edit-ComfyUI) |
 |**OmniInsert: Mask-Free Video Insertion of Any Reference via Diffusion Transformer Models** | arXiv | Sep 22 2025| [Paper](https://arxiv.org/pdf/2509.17627) - [Project](https://phantom-video.github.io/OmniInsert/) - [Code](https://github.com/Phantom-video/OmniInsert)|
-|**ContextFlow: Training-Free Video Object Editing via Adaptive Context Enrichment** | arXiv | Sep 22 | Sep 22 2025|[Paper](https://arxiv.org/pdf/2509.17818) - [Project](https://yychen233.github.io/ContextFlow-page/) - [Code](https://github.com/yyChen233/ContextFlow)|
+|**ContextFlow: Training-Free Video Object Editing via Adaptive Context Enrichment** | arXiv | Sep 22 2025|[Paper](https://arxiv.org/pdf/2509.17818) - [Project](https://yychen233.github.io/ContextFlow-page/) - [Code](https://github.com/yyChen233/ContextFlow)|
+|**EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning** | arXiv | Sep 24 2025|[Paper](https://arxiv.org/pdf/2509.20360) |
 
 ### 🎥 Motion-Driven Generation
 

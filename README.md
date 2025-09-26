@@ -132,7 +132,6 @@ Markdown format:
 | **Customcrafter: Customized Video Generation with Preserving Motion and Concept Composition Abilities** | AAAI 2025    | Feb 2025         | [Paper](https://arxiv.org/abs/2408.13239) – [Code](https://github.com/WuTao-CS/CustomCrafter) |
 | **Dynamic Concepts Personalization from Single Videos** | SIGGRAPH 2025 | Feb 20 2025      | [Paper](https://arxiv.org/pdf/2502.14844) – [Page](https://snap-research.github.io/dynamic_concepts/)|
 | **BridgeIV: Bridging Customized Image and Video Generation through Test-Time Autoregressive Identity Propagation** | arXiv     | May 11 2025      | [Paper](https://arxiv.org/pdf/2505.06985)|
-| **Stand-In: A Lightweight and Plug-and-Play Identity Control for Video Generation** | arXiv     | Aug 12 2025      | [Paper](https://arxiv.org/pdf/2508.07901) - [Page](https://www.stand-in.tech/) - [Code](https://github.com/WeChatCV/Stand-In)|
 
 #### Pretrained Adaptation
 
@@ -237,7 +236,7 @@ Markdown format:
 | **From Large Angles to Consistent Faces: Identity-Preserving Video Generation via Mixture of Facial Experts** | arXiv | Aug 13 2025 | [Paper](https://arxiv.org/pdf/2508.09476) - [Code](https://github.com/rain152/LFA-Video-Generation) |
 | **HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning**| arXiv | Seq 10 2025 | [Paper](https://arxiv.org/pdf/2509.08519) - [Code](https://github.com/Phantom-video/HuMo) - [Page](https://phantom-video.github.io/HuMo/) |
 |**Lynx: Towards High-Fidelity Personalized Video Generation**| arXiv | Seq 19 2025| [Paper](https://arxiv.org/pdf/2509.15496) - [Project](https://byteaigc.github.io/Lynx/)|
-
+| **Stand-In: A Lightweight and Plug-and-Play Identity Control for Video Generation** | arXiv     | Aug 12 2025      | [Paper](https://arxiv.org/pdf/2508.07901) - [Page](https://www.stand-in.tech/) - [Code](https://github.com/WeChatCV/Stand-In)|
 
 ### ✂️ Video-Driven Editing Models
 

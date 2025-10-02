@@ -174,6 +174,7 @@ Markdown format:
 | **OmniInsert: Mask-Free Video Insertion of Any Reference via Diffusion Transformer Models** | arXiv | Sep 22 2025| [Paper](https://arxiv.org/pdf/2509.17627) - [Project](https://phantom-video.github.io/OmniInsert/) - [Code](https://github.com/Phantom-video/OmniInsert)|
 | **ContextFlow: Training-Free Video Object Editing via Adaptive Context Enrichment** | arXiv | Sep 22 2025|[Paper](https://arxiv.org/pdf/2509.17818) - [Project](https://yychen233.github.io/ContextFlow-page/) - [Code](https://github.com/yyChen233/ContextFlow)|
 | **EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning** | arXiv | Sep 24 2025|[Paper](https://arxiv.org/pdf/2509.20360) |
+| **IMAGEdit : Let Any Subject Transform** | arXiv | Oct 01 2025| [Paper](https://arxiv.org/pdf/2510.01186) - [Project](https://muzishen.github.io/IMAGEdit/) - [Code](https://github.com/XWH-A/IMAGEdit)|
 
 ### 🎥 Motion-Driven Generation
 

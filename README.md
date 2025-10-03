@@ -149,6 +149,7 @@ Markdown format:
 | **CINEMA: Coherent Multi-Subject Video Generation via MLLM-Based Guidance** | arXiv     | Mar 13 2025      | [Paper](https://arxiv.org/abs/2503.10391)                    |
 | **MAGREF: Masked Guidance for Any-Reference Video Generation** | arXiv     | May 29 2025      | [Paper](https://arxiv.org/pdf/2505.23742) [Code](https://github.com/MAGREF-Video/MAGREF) |
 | **Tora2: Motion and Appearance Customized DiffusionTransformer for Multi-Entity Video Generation** | arXiv     | Jul 08 2025 | [Paper](https://arxiv.org/pdf/2507.05963) |
+| **BindWeave: Subject-Consistent Video Generation via Cross-Modal Integration** | arXiv     | Oct 1 2025      | [Paper](https://arxiv.org/abs/2510.00438) [Page](https://lzy-dot.github.io/BindWeave/) |
 
 
 ### ✂️ Personalized Video Editing Models

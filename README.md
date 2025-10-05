@@ -324,6 +324,7 @@ Markdown format:
 - [Hailuo](https://hailuoai.video/)
 - [Seaweed](https://seaweed.video/)
 - [Runway Aleph](https://runwayml.com/research/introducing-runway-aleph)
+- [Sora 2](https://openai.com/index/sora-2/)
 
 ## Long Video Video Customization (> 5min)
 

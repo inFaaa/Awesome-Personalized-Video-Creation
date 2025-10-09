@@ -363,6 +363,7 @@ Markdown format:
 | **OpenS2V-5M**    | Arxiv                 | May 28 2025 | [Paper](https://arxiv.org/abs/2505.20292) – [Project](https://pku-yuangroup.github.io/OpenS2V-Nexus) – [Data](https://huggingface.co/datasets/BestWishYsh/OpenS2V-5M) |
 | **Phantom-Data**    | Arxiv                 | Jun 23 2025 | [Paper](https://arxiv.org/pdf/2506.18851) – [Project](https://phantom-video.github.io/Phantom-Data/) – [Data](https://github.com/Phantom-video/Phantom-Data) |
 | **SpeakerVid-5M: A Large-Scale High-Quality Dataset for Audio-Visual Dyadic Interactive Human Generation**    | Arxiv                 | Jul 14 2025 | [Paper](https://arxiv.org/pdf/2507.09862) – [Project](https://dorniwang.github.io/SpeakerVid-5M/) – [Data](https://dorniwang.github.io/SpeakerVid-5M/) |
+| **TalkCuts: A Large-Scale Dataset for Multi-Shot Human Speech Video Generation**    | Arxiv                 | Oct 8 2025 | [Paper](https://arxiv.org/abs/2510.07249) – [Project](https://talkcuts.github.io/) – [Data](https://www.kaggle.com/datasets/f6e549a12ebd5ee185dc27247602d6e3828b772a68bae1f080587a6b84fafbbd) |
 
 #### ID-Driven Creation Datasets (Human-Domain)
 | Title / Dataset   | Venue                 | Date        | Links                                                        |

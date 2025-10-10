@@ -19,6 +19,11 @@
 
 This repository is dedicated to collecting, organizing, and tracking recent advancements in personalized video generation and editing. It serves as a centralized resource for papers, models, and benchmarks in this rapidly evolving field.
 
+## 📣 Update News
+
+`[2024-07-18]` We have initialed the repository.
+
+
 - [⚡ Contributing](#-contributing)
 - [📚 Key Techniques](#-key-techniques)
   - [🎛️ Multi-Modal Control Tokenization](#️-multi-modal-control-tokenization)

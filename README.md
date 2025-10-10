@@ -277,7 +277,7 @@ Markdown format:
 | **FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation** | arXiv  | Aug 15 2025 | [Paper](https://arxiv.org/pdf/2508.11255) - [Project](https://fantasyamap.github.io/fantasy-talking2/)|
 | **Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis** | arXiv | Sep 11 2025 | [Paper](https://arxiv.org/pdf/2509.09595) - [Project](https://klingavatar.github.io/) |
 | **Input-Aware Sparse Attention for Real-Time Co-Speech Video Generation** | Siggrapha Asia | Oct 2 2025 | [Paper](https://arxiv.org/pdf/2510.02617) - [Project](https://beijia11.github.io/IASA/) - [Code](https://github.com/Beijia11/IASA)｜
-| **Paper2Video: Automatic Video Generation from Scientific Papers** ｜ Arxiv ｜ Oct 6 2025 | [Paper](https://arxiv.org/abs/2510.05096) - [Project](https://showlab.github.io/Paper2Video/) - [Code](https://github.com/showlab/Paper2Video)｜
+| **Paper2Video: Automatic Video Generation from Scientific Papers** ｜ Arxiv ｜ Oct 6 2025 | [Paper](https://arxiv.org/abs/2510.05096) - [Project](https://showlab.github.io/Paper2Video/) - [Code](https://github.com/showlab/Paper2Video) |
 
 
 ### 🕺 Pose-Driven Human Animation

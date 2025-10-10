@@ -176,6 +176,7 @@ Markdown format:
 | **ContextFlow: Training-Free Video Object Editing via Adaptive Context Enrichment** | arXiv | Sep 22 2025|[Paper](https://arxiv.org/pdf/2509.17818) - [Project](https://yychen233.github.io/ContextFlow-page/) - [Code](https://github.com/yyChen233/ContextFlow)|
 | **EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning** | arXiv | Sep 24 2025|[Paper](https://arxiv.org/pdf/2509.20360) |
 | **IMAGEdit : Let Any Subject Transform** | arXiv | Oct 01 2025| [Paper](https://arxiv.org/pdf/2510.01186) - [Project](https://muzishen.github.io/IMAGEdit/) - [Code](https://github.com/XWH-A/IMAGEdit)|
+| **InstructX: Towards Unified Visual Editing with MLLM Guidance** | arXiv | Oct 10 2025|[Paper](https://arxiv.org/pdf/2510.08485) |
 
 ### 🎥 Motion-Driven Generation
 

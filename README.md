@@ -333,6 +333,7 @@ Markdown format:
 - [Seaweed](https://seaweed.video/)
 - [Runway Aleph](https://runwayml.com/research/introducing-runway-aleph)
 - [Sora 2](https://openai.com/index/sora-2/)
+- [GaGa](https://gaga.art/app)
 
 ## Long Video Video Customization (> 5min)
 

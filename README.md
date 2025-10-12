@@ -212,6 +212,7 @@ Markdown format:
 | **HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation** | arXiv        | May 8 2025  | [Paper](https://arxiv.org/pdf/2505.04512) – [Project](https://hunyuancustom.github.io/) – [Code](https://github.com/Tencent-Hunyuan/HunyuanCustom) |
 | **VACE: All-in-One Video Creation and Editing**              | arxiv        | Mar 10 2025 | [Code](https://github.com/ali-vilab/VACE) - [Project](https://ali-vilab.github.io/VACE-Page/) - [Paper](https://arxiv.org/abs/2503.07598) |
 | **OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions**              | arxiv        | Jun 29 2025 | [Code](https://github.com/caiyuanhao1998/Open-OmniVCus) - [Paper](https://arxiv.org/pdf/2506.23361) - [Project](https://caiyuanhao1998.github.io/project/OmniVCus/) |
+| **UniVideo: Unified Understanding, Generation, and Editing for Videos**              | arxiv        | Oct 9 2025 | [Code](https://github.com/KwaiVGI/UniVideo) - [Paper](https://arxiv.org/abs/2510.08377) - [Project](https://congwei1230.github.io/UniVideo/) |
 
 
 ## 🧑 Human-Domain Personalized Video Generation Models

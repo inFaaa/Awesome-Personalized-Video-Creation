@@ -24,7 +24,6 @@ This repository is dedicated to collecting, organizing, and tracking recent adva
 </div>
 
 ## Table
-- [Table](#table)
 - [📣 Update News](#-update-news)
 - [⚡ Contributing](#-contributing)
 - [📚 Preliminaries](#-preliminaries)

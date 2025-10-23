@@ -1,8 +1,8 @@
 <div align=center>
- <img src="src/PVG_logo.png" width="180px">
+ <img src="src/logo.png" width="150px">
 </div>
 <h2 align="center">
-  <a href="">🔥 Awesome Personalized Video Generation and Editing</a>
+  <a href="">🔥 Awesome Personalized Video Creation</a>
 </h2>
 <p align="center">
   If you like our project, please give us a star ⭐ on GitHub for the latest update.
@@ -19,40 +19,52 @@
 
 This repository is dedicated to collecting, organizing, and tracking recent advancements in personalized video generation and editing. It serves as a centralized resource for papers, models, and benchmarks in this rapidly evolving field.
 
-## 📣 Update News
+<div align=center>
+<img src="src/PVG_Timeline.png" width="1000px">
+</div>
 
-`[2024-07-18]` We have initialed the repository.
-
-
+## Table
+- [Table](#table)
+- [📣 Update News](#-update-news)
 - [⚡ Contributing](#-contributing)
-- [📚 Key Techniques](#-key-techniques)
-  - [🎛️ Multi-Modal Control Tokenization](#️-multi-modal-control-tokenization)
-  - [🕳️ Controllable Video Generation](#️-controllable-video-generation)
-  - [📽️ Foundation Video Generation Models](#️-foundation-video-generation-models)
+- [📚 Preliminaries](#-preliminaries)
+  - [📽️ Video Generation Foundation Models](#️-video-generation-foundation-models)
+    - [🌀 Diffusion Transformer](#-diffusion-transformer)
+    - [🌀 U-Net](#-u-net)
+    - [🌀 Autoregressive](#-autoregressive)
+  - [🎛️ Multi-Modal Control Signal Tokenization](#️-multi-modal-control-signal-tokenization)
+  - [🕳️ Control Paradigms in Video Generation](#️-control-paradigms-in-video-generation)
+    - [📌 Structure-aware Control Modules](#-structure-aware-control-modules)
+    - [📌 Parameter-efficient Adaptation](#-parameter-efficient-adaptation)
+    - [📌 Localized Editing](#-localized-editing)
 - [🌐 Open-Domain Personalized Video Generation Models](#-open-domain-personalized-video-generation-models)
-  - [🎨 Subject-Driven Creation Models](#-subject-driven-creation-models)
+  - [🎨 Subject-Driven Video Generation Models](#-subject-driven-video-generation-models)
     - [Test-time Fine-tuning](#test-time-fine-tuning)
     - [Pretrained Adaptation](#pretrained-adaptation)
-  - [✂️ Video-Driven Editing Models](#️-video-driven-editing-models)
-  - [🎥 Motion-Driven Generation](#-motion-driven-generation)
-  - [🔄 Unified Generation and Editing Models](#-unified-generation-and-editing-models)
+  - [🎥 Motion-Driven Video Generation Models](#-motion-driven-video-generation-models)
+  - [✂️ Personalized Video Editing Models](#️-personalized-video-editing-models)
+  - [🔥 Style-Driven Video Generation Models](#-style-driven-video-generation-models)
 - [🧑 Human-Domain Personalized Video Generation Models](#-human-domain-personalized-video-generation-models)
-  - [🎨 ID-Driven Creation Models](#-id-driven-creation-models)
+  - [🎨 Identity-Driven Video Generation Models](#-identity-driven-video-generation-models)
     - [Test-time Finetuning](#test-time-finetuning)
     - [Pretrained Adaptation](#pretrained-adaptation-1)
   - [🎺 Audio-Driven Portrait Animation](#-audio-driven-portrait-animation)
-  - [🕺 Pose-Driven Human Animation](#-pose-driven-full-body-animation)
-  - [🔄 Unified Generation and Editing Models](#-unified-generation-and-editing-models-1)
+  - [🕺 Pose-Driven Human Animation](#-pose-driven-human-animation)
+  - [🎨 Video-Driven Facial Reenactment](#-video-driven-facial-reenactment)
 - [💼 Commercial Personalized Video Generation Models](#-commercial-personalized-video-generation-models)
-- [Long Video Video Customization (\> 5min)](#long-video-video-customization--5min)
-- [📈 Evaluation](#-evaluation)
-  - [📊 Personalized Video Generation Benchmarks](#-personalized-video-generation-benchmarks)
-    - [Subject-to-Video Benchmarks](#subject-to-video-benchmarks)
+- [📈 Datasets and Benchmarks](#-datasets-and-benchmarks)
+  - [🌟 Personalized Video Generation Benchmarks](#-personalized-video-generation-benchmarks)
   - [📂 Personalized Video Generation Datasets](#-personalized-video-generation-datasets)
     - [Subject-to-Video Datasets](#subject-to-video-datasets)
+    - [ID-Driven Creation Datasets](#id-driven-creation-datasets)
+    - [Multi-Subject Disambiguation](#multi-subject-disambiguation)
   - [📏 Key Evaluation Metrics](#-key-evaluation-metrics)
 - [👍 Acknowledgement](#-acknowledgement)
 
+
+## 📣 Update News
+
+`[2024-07-18]` We have initiated the repository. 
 
 
 ## ⚡ Contributing
@@ -64,43 +76,9 @@ Markdown format:
 * | [**Paper Title**] | Venue | Date | [[paper]](link) [[code]](link) [[project]](link)|
 ```
 
-## 📚 Key Techniques 
+## 📚 Preliminaries
 
-
-<!--
-### 🖼️ Personalized Image Generation
-- [DreamO](https://github.com/bytedance/DreamO)
-- [RealCustom](https://github.com/bytedance/RealCustom)
-- [UNO](https://github.com/bytedance/UNO)
-- [InfiniteYou](https://github.com/bytedance/InfiniteYou/tree/main)
-- [UniPortrait](https://github.com/junjiehe96/UniPortrait)
-- [PuLID](https://github.com/ToTheBeginning/PuLID)
-- [InstantID](https://github.com/instantX-research/InstantID)
-- [PhotoMaker](https://github.com/TencentARC/PhotoMaker)
-- [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter)
--->
-
-### 🎛️ Multi-Modal Control Tokenization
-- [CLIP-Like](https://github.com/openai/CLIP)
-- [VAE](https://github.com/huggingface/diffusers/tree/main/src/diffusers/models/autoencoders)
-- [ArcFace-Like](https://github.com/deepinsight/insightface)
-- [ControlNet-Like](https://github.com/lllyasviel/ControlNet)
-- [T2I-Adapter-Like](https://github.com/TencentARC/T2I-Adapter)
-- [SVD-Like](https://github.com/Stability-AI/generative-models)
-
-### 🕳️ Controllable Video Generation
-#### 📌 Structure-aware Control Modules
-- [Controlnet](https://github.com/lllyasviel/ControlNet)
-- [T2IAdapter](https://github.com/TencentARC/T2I-Adapter)
-- AnyI2V: Animating Any Conditional Image with Motion Control, arXiv 2025, [Paper](https://arxiv.org/pdf/2507.02857)
-#### 📌 Parameter-efficient Adaptation
-- [LoRA](https://github.com/cloneofsimo/lora)
-- [DreamBooth](https://dreambooth.github.io/)
-#### 📌 Localized Editing
-- [Inpainting](https://github.com/geekyutao/Inpaint-Anything)
-
-
-### 📽️ Foundation Video Generation Models
+### 📽️ Video Generation Foundation Models
 #### 🌀 Diffusion Transformer
 - [Wan 2.1](https://github.com/Wan-Video/Wan2.1)
 - [Step-Video](https://github.com/stepfun-ai/Step-Video-T2V)
@@ -121,9 +99,32 @@ Markdown format:
 - [Video-GPT](https://github.com/zhuangshaobin/Video-GPT)
 - [MAGI-1](https://github.com/SandAI-org/MAGI-1)
 
+
+### 🎛️ Multi-Modal Control Signal Tokenization
+- [CLIP-Like](https://github.com/openai/CLIP)
+- [VAE](https://github.com/huggingface/diffusers/tree/main/src/diffusers/models/autoencoders)
+- [ArcFace-Like](https://github.com/deepinsight/insightface)
+- [ControlNet-Like](https://github.com/lllyasviel/ControlNet)
+- [T2I-Adapter-Like](https://github.com/TencentARC/T2I-Adapter)
+- [SVD-Like](https://github.com/Stability-AI/generative-models)
+
+### 🕳️ Control Paradigms in Video Generation
+#### 📌 Structure-aware Control Modules
+- [Controlnet](https://github.com/lllyasviel/ControlNet)
+- [T2IAdapter](https://github.com/TencentARC/T2I-Adapter)
+- AnyI2V: Animating Any Conditional Image with Motion Control, arXiv 2025, [Paper](https://arxiv.org/pdf/2507.02857)
+#### 📌 Parameter-efficient Adaptation
+- [LoRA](https://github.com/cloneofsimo/lora)
+- [DreamBooth](https://dreambooth.github.io/)
+#### 📌 Localized Editing
+- [Inpainting](https://github.com/geekyutao/Inpaint-Anything)
+
+
+
+
 ## 🌐 Open-Domain Personalized Video Generation Models
 
-### 🎨 Subject-Driven Creation Models
+### 🎨 Subject-Driven Video Generation Models
 
 #### Test-time Fine-tuning
 
@@ -157,6 +158,26 @@ Markdown format:
 | **BindWeave: Subject-Consistent Video Generation via Cross-Modal Integration** | arXiv     | Oct 1 2025      | [Paper](https://arxiv.org/abs/2510.00438) [Page](https://lzy-dot.github.io/BindWeave/) |
 
 
+
+### 🎥 Motion-Driven Video Generation Models
+
+| Title                                                        | Venue        | Date             | Links                                                        |
+| ------------------------------------------------------------ | ------------ | ---------------- | ------------------------------------------------------------ |
+| **Structure and Content-Guided Video Synthesis with Diffusion Models** | ICCV 2023 | Feb 2023     | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Esser_Structure_and_Content-Guided_Video_Synthesis_with_Diffusion_Models_ICCV_2023_paper.pdf) |
+| **VideoComposer: Compositional Video Synthesis with Motion Controllability** | NeurIPS 2023 | Jun 2023 (arXiv) | [Paper](https://arxiv.org/pdf/2306.02018) – [Project](https://videocomposer.github.io/) - [Code](https://github.com/ali-vilab/videocomposer) |
+| **DreamVideo: Composing Your Dream Videos with Customized Subject and Motion** | CVPR 2024    | Dec 2023 (arXiv) | [Paper](https://arxiv.org/abs/2312.04433) – [Project](https://dreamvideo-t2v.github.io/) - [Code](https://github.com/ali-vilab/VGen) |
+| **Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models** | ECCV 2024     | Feb 2024         | [Paper](https://arxiv.org/abs/2402.14780) - [Project](https://ryx19th.github.io/customize-a-video/) - [Code](https://github.com/customize-a-video/customize-a-video) |
+| **MotionBooth: Motion-Aware Customized Text-to-Video Generation** | NeurIPS 2024 (Spotlight)     | Jun 2024         | [Paper](https://arxiv.org/abs/2406.17758) - [Project](https://jianzongwu.github.io/projects/motionbooth/) - [Code](https://github.com/jianzongwu/MotionBooth) |
+| **DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control** | arXiv   | Oct 17 2024      | [Paper](https://arxiv.org/abs/2410.13830) – [Page](https://dreamvideo2.github.io/#) |
+| **MoTrans: Customized Motion Transfer with Text-driven Video Diffusion Models** | ACMMM 2024        | Dec 2 2024      | [Paper](https://arxiv.org/abs/2412.01343) – [Code](https://github.com/XiaominLi1997/MoTrans) |
+| **Subject-driven Video Generation via Disentangled Identity and Motion** | arXiv        | Apr 23 2025      | [Paper](https://arxiv.org/abs/2504.17816) – [Code](https://github.com/carpedkm/disentangled-subject-to-vid) |
+| **DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization** | arXiv        | Mar 4 2025       | [Paper](https://arxiv.org/abs/2505.02192) – [Project](https://wenc-k.github.io/dualreal/) |
+| **VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models** | CVPR 2025 | Mar 13 2025      | [Paper](https://arxiv.org/abs/2503.21781) [Project](https://jasper0314-huang.github.io/videomage-customization/) |
+| **DreamRunner: Fine-Grained Compositional Story-to-Video Generation with Retrieval-Augmented Motion Adaptation** | Arxiv | Mar 18 2025      | [Paper](https://arxiv.org/pdf/2411.16657) - [Project](https://zunwang1.github.io/DreamRunner) - [Code](https://github.com/wz0919/DreamRunner) |
+| **JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation** | arXiv        | Mar 31 2025      | [Paper](https://arxiv.org/abs/2503.23951) – [Project](https://fdchen24.github.io/JointTuner-Website/) |
+| **PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement** | arXiv        | Jun 9 2025       | [Paper](https://sjtuplayer.github.io/projects/PolyVivid/)|
+
+
 ### ✂️ Personalized Video Editing Models
 
 | Title                                                        | Venue     | Date         | Links                                                        |
@@ -183,26 +204,9 @@ Markdown format:
 | **IMAGEdit : Let Any Subject Transform** | arXiv | Oct 01 2025| [Paper](https://arxiv.org/pdf/2510.01186) - [Project](https://muzishen.github.io/IMAGEdit/) - [Code](https://github.com/XWH-A/IMAGEdit)|
 | **InstructX: Towards Unified Visual Editing with MLLM Guidance** | arXiv | Oct 10 2025|[Paper](https://arxiv.org/pdf/2510.08485) |
 
-### 🎥 Motion-Driven Generation
+### 🔥 Style-Driven Video Generation Models
 
-| Title                                                        | Venue        | Date             | Links                                                        |
-| ------------------------------------------------------------ | ------------ | ---------------- | ------------------------------------------------------------ |
-| **Structure and Content-Guided Video Synthesis with Diffusion Models** | ICCV 2023 | Feb 2023     | [Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Esser_Structure_and_Content-Guided_Video_Synthesis_with_Diffusion_Models_ICCV_2023_paper.pdf) |
-| **VideoComposer: Compositional Video Synthesis with Motion Controllability** | NeurIPS 2023 | Jun 2023 (arXiv) | [Paper](https://arxiv.org/pdf/2306.02018) – [Project](https://videocomposer.github.io/) - [Code](https://github.com/ali-vilab/videocomposer) |
-| **DreamVideo: Composing Your Dream Videos with Customized Subject and Motion** | CVPR 2024    | Dec 2023 (arXiv) | [Paper](https://arxiv.org/abs/2312.04433) – [Project](https://dreamvideo-t2v.github.io/) - [Code](https://github.com/ali-vilab/VGen) |
-| **Customize-A-Video: One-Shot Motion Customization of Text-to-Video Diffusion Models** | ECCV 2024     | Feb 2024         | [Paper](https://arxiv.org/abs/2402.14780) - [Project](https://ryx19th.github.io/customize-a-video/) - [Code](https://github.com/customize-a-video/customize-a-video) |
-| **MotionBooth: Motion-Aware Customized Text-to-Video Generation** | NeurIPS 2024 (Spotlight)     | Jun 2024         | [Paper](https://arxiv.org/abs/2406.17758) - [Project](https://jianzongwu.github.io/projects/motionbooth/) - [Code](https://github.com/jianzongwu/MotionBooth) |
-| **DreamVideo-2: Zero-Shot Subject-Driven Video Customization with Precise Motion Control** | arXiv   | Oct 17 2024      | [Paper](https://arxiv.org/abs/2410.13830) – [Page](https://dreamvideo2.github.io/#) |
-| **MoTrans: Customized Motion Transfer with Text-driven Video Diffusion Models** | ACMMM 2024        | Dec 2 2024      | [Paper](https://arxiv.org/abs/2412.01343) – [Code](https://github.com/XiaominLi1997/MoTrans) |
-| **Subject-driven Video Generation via Disentangled Identity and Motion** | arXiv        | Apr 23 2025      | [Paper](https://arxiv.org/abs/2504.17816) – [Code](https://github.com/carpedkm/disentangled-subject-to-vid) |
-| **DualReal: Adaptive Joint Training for Lossless Identity-Motion Fusion in Video Customization** | arXiv        | Mar 4 2025       | [Paper](https://arxiv.org/abs/2505.02192) – [Project](https://wenc-k.github.io/dualreal/) |
-| **VideoMage: Multi-Subject and Motion Customization of Text-to-Video Diffusion Models** | CVPR 2025 | Mar 13 2025      | [Paper](https://arxiv.org/abs/2503.21781) [Project](https://jasper0314-huang.github.io/videomage-customization/) |
-| **DreamRunner: Fine-Grained Compositional Story-to-Video Generation with Retrieval-Augmented Motion Adaptation** | Arxiv | Mar 18 2025      | [Paper](https://arxiv.org/pdf/2411.16657) - [Project](https://zunwang1.github.io/DreamRunner) - [Code](https://github.com/wz0919/DreamRunner) |
-| **JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation** | arXiv        | Mar 31 2025      | [Paper](https://arxiv.org/abs/2503.23951) – [Project](https://fdchen24.github.io/JointTuner-Website/) |
-| **PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement** | arXiv        | Jun 9 2025       | [Paper](https://sjtuplayer.github.io/projects/PolyVivid/)|
-
-
-### 🔄 Unified Generation and Editing Models 
+<!-- ### 🔄 Unified Generation and Editing Models 
 
 | Title                                                        | Venue        | Date        | Links                                                        |
 | ------------------------------------------------------------ | ------------ | ----------- | ------------------------------------------------------------ |
@@ -212,12 +216,12 @@ Markdown format:
 | **HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation** | arXiv        | May 8 2025  | [Paper](https://arxiv.org/pdf/2505.04512) – [Project](https://hunyuancustom.github.io/) – [Code](https://github.com/Tencent-Hunyuan/HunyuanCustom) |
 | **VACE: All-in-One Video Creation and Editing**              | arxiv        | Mar 10 2025 | [Code](https://github.com/ali-vilab/VACE) - [Project](https://ali-vilab.github.io/VACE-Page/) - [Paper](https://arxiv.org/abs/2503.07598) |
 | **OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions**              | arxiv        | Jun 29 2025 | [Code](https://github.com/caiyuanhao1998/Open-OmniVCus) - [Paper](https://arxiv.org/pdf/2506.23361) - [Project](https://caiyuanhao1998.github.io/project/OmniVCus/) |
-| **UniVideo: Unified Understanding, Generation, and Editing for Videos**              | arxiv        | Oct 9 2025 | [Code](https://github.com/KwaiVGI/UniVideo) - [Paper](https://arxiv.org/abs/2510.08377) - [Project](https://congwei1230.github.io/UniVideo/) |
+| **UniVideo: Unified Understanding, Generation, and Editing for Videos**              | arxiv        | Oct 9 2025 | [Code](https://github.com/KwaiVGI/UniVideo) - [Paper](https://arxiv.org/abs/2510.08377) - [Project](https://congwei1230.github.io/UniVideo/) | -->
 
 
 ## 🧑 Human-Domain Personalized Video Generation Models
 
-### 🎨 ID-Driven Creation Models
+### 🎨 Identity-Driven Video Generation Models
 
 #### Test-time Finetuning
 
@@ -247,19 +251,6 @@ Markdown format:
 | **Lynx: Towards High-Fidelity Personalized Video Generation**| arXiv | Seq 19 2025| [Paper](https://arxiv.org/pdf/2509.15496) - [Project](https://byteaigc.github.io/Lynx/)|
 | **Stand-In: A Lightweight and Plug-and-Play Identity Control for Video Generation** | arXiv     | Aug 12 2025      | [Paper](https://arxiv.org/pdf/2508.07901) - [Page](https://www.stand-in.tech/) - [Code](https://github.com/WeChatCV/Stand-In)|
 
-### ✂️ Video-Driven Editing Models
-
-| Title                                                        | Venue | Date        | Links                                                        |
-| ------------------------------------------------------------ | ----- | ----------- | ------------------------------------------------------------ |
-| **Face2Face: Real-time Face Capture and Reenactment of RGB Videos** | CVPR 2016 | 2016 | [Paper](https://arxiv.org/pdf/2007.14808) |
-| **IP-FaceDiff: Identity-Preserving Facial Video Editing with Diffusion** | arXiv | Jan 13 2025 | [Paper](https://arxiv.org/abs/2501.07530) – [Code](https://github.com/ThoAce/IP-FaceDiff) |
-| **VividFace: A Diffusion-Based Hybrid Framework for High-Fidelity Video Face Swapping** | arXiv | Dec 15 2024 | [Paper](https://arxiv.org/abs/2412.11279) – [Code](https://github.com/deepcs233/VividFace) - [Page](https://hao-shao.com/projects/vividface.html)|
-
-### 🎨 Landmark-Driven Creation Models
-| Title                                                        | Venue | Date        | Links                                                        |
-| ------------------------------------------------------------ | ----- | ----------- | ------------------------------------------------------------ |
-| **Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation** | Siggraph Asia 2024 | Jun 4 2024 | [Paper](https://arxiv.org/abs/2406.01900) - [Page](https://follow-your-emoji.github.io/) - [Code](https://github.com/mayuelala/FollowYourEmoji)|
-| **Follow-Your-Emoji-Faster: Towards Efficient, Fine-Controllable, and Expressive Freestyle Portrait Animation** | IJCV 2025 | Seq 20, 2025 | [Paper](https://arxiv.org/pdf/2509.16630) - [Page](https://follow-your-emoji.github.io/) - [Code](https://github.com/mayuelala/FollowYourEmoji)|
 
 ### 🎺 Audio-Driven Portrait Animation
 
@@ -309,20 +300,19 @@ Markdown format:
 | **Wan-Animate: Unified Character Animation and Replacement with Holistic Replication** | arXiv | Seq 17 2025 | [Paper](https://arxiv.org/abs/2509.14055)  – [Page](https://humanaigc.github.io/wan-animate/) |
 
 
-### 🕺 Scene-Driven Human Animation
 
-| Title                                                        | Venue     | Date        | Links                                                        |
-| ------------------------------------------------------------ | --------- | ----------- | ------------------------------------------------------------ |
-| **GenHSI: Controllable Generation of Human-Scene Interaction Videos**  | Arxiv 2025 | Jun 24 2025 | [Paper](https://arxiv.org/pdf/2506.19840) – [Page](https://kunkun0w0.github.io/project/GenHSI/) |
-| **Populate-A-Scene: Affordance-Aware Human Video Generation**    | arXiv | Jul 01 2025 | [Paper](https://arxiv.org/pdf/2507.00334) – [Project](https://shanmy.github.io/Populate-A-Scene/index.html)  |
-| **AnimateScene: Camera-controllable Animation in Any Scene**    | arXiv | Aug 08 2025 | [Paper](https://arxiv.org/pdf/2508.05982) – [Project](https://shanmy.github.io/Populate-A-Scene/index.html)  |
+### 🎨 Video-Driven Facial Reenactment
+| Title                                                        | Venue | Date        | Links                                                        |
+| ------------------------------------------------------------ | ----- | ----------- | ------------------------------------------------------------ |
+| **Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation** | Siggraph Asia 2024 | Jun 4 2024 | [Paper](https://arxiv.org/abs/2406.01900) - [Page](https://follow-your-emoji.github.io/) - [Code](https://github.com/mayuelala/FollowYourEmoji)|
+| **Follow-Your-Emoji-Faster: Towards Efficient, Fine-Controllable, and Expressive Freestyle Portrait Animation** | IJCV 2025 | Seq 20, 2025 | [Paper](https://arxiv.org/pdf/2509.16630) - [Page](https://follow-your-emoji.github.io/) - [Code](https://github.com/mayuelala/FollowYourEmoji)|
 
 
-### 🔄 Unified Generation and Editing Models 
+<!-- ### 🔄 Unified Generation and Editing Models 
 
 | Title                                                        | Venue        | Date        | Links                                                        |
 | ------------------------------------------------------------ | ------------ | ----------- | ------------------------------------------------------------ |
-| **MagicAvatar: Multimodal Avatar Generation and Animation**   | arXiv | Aug 28 2023 | [Paper](https://arxiv.org/pdf/2308.14748) – [Project](https://magic-avatar.github.io/) - [Code](https://github.com/magic-research/magic-avatar) |
+| **MagicAvatar: Multimodal Avatar Generation and Animation**   | arXiv | Aug 28 2023 | [Paper](https://arxiv.org/pdf/2308.14748) – [Project](https://magic-avatar.github.io/) - [Code](https://github.com/magic-research/magic-avatar) | -->
 
 ## 💼 Commercial Personalized Video Generation Models
 
@@ -336,19 +326,10 @@ Markdown format:
 - [Sora 2](https://openai.com/index/sora-2/)
 - [GaGa](https://gaga.art/app)
 
-## Long Video Video Customization (> 5min)
 
-| Title                                                        | Venue        | Date        | Links                                                        |
-| ------------------------------------------------------------ | ------------ | ----------- | ------------------------------------------------------------ |
-| **Vlogger: Make Your Dream A Vlog**  | CVPR 2024 | Jan 17 2024 | [Paper](https://arxiv.org/pdf/2401.09414) – [Code](https://github.com/zhuangshaobin/Vlogger) |
-| **FilMaster: Bridging Cinematic Principles and Generative AI for Automated Film Generation**  | Arxiv 2025 | Jun 23 2025 | [Paper](https://arxiv.org/pdf/2506.18899) – [Page](https://filmaster-ai.github.io/) |
+## 📈 Datasets and Benchmarks
 
-
-## 📈 Evaluation
-
-### 📊 Personalized Video Generation Benchmarks
-
-#### Subject-to-Video Benchmarks
+### 🌟 Personalized Video Generation Benchmarks
 
 | Title / Benchmark                                            | Venue                 | Date        | Links                                                        |
 | ------------------------------------------------------------ | --------------------- | ----------- | ------------------------------------------------------------ |
@@ -366,6 +347,7 @@ Markdown format:
 
 | Title / Dataset   | Venue                 | Date        | Links                                                        |
 | ----------------- | --------------------- | ----------- | ------------------------------------------------------------ |
+| **Ditto: Scaling Instruction-Based Video Editing with a High-Quality Synthetic Dataset** | Arxiv | Oct 2025 | [Paper](https://arxiv.org/abs/2510.15742) – [Project](https://editto.net/) – [Data](https://github.com/EzioBy/Ditto) |
 | **ConsisID-Data** | CVPR 2025 (Highlight) | Oct 2024 | [Paper](https://arxiv.org/abs/2411.17440) – [Project](https://pku-yuangroup.github.io/ConsisID) – [Data](https://huggingface.co/datasets/BestWishYsh/ConsisID-preview-Data) |
 | **Any2CapIns** | Arxiv | Mar 2025 | [Paper](https://arxiv.org/abs/2503.24379) – [Project](https://sqwu.top/Any2Cap/) – [Data](https://github.com/ChocoWu/Any2Caption) |
 | **OpenS2V-5M**    | Arxiv                 | May 28 2025 | [Paper](https://arxiv.org/abs/2505.20292) – [Project](https://pku-yuangroup.github.io/OpenS2V-Nexus) – [Data](https://huggingface.co/datasets/BestWishYsh/OpenS2V-5M) |
@@ -373,7 +355,7 @@ Markdown format:
 | **SpeakerVid-5M: A Large-Scale High-Quality Dataset for Audio-Visual Dyadic Interactive Human Generation**    | Arxiv                 | Jul 14 2025 | [Paper](https://arxiv.org/pdf/2507.09862) – [Project](https://dorniwang.github.io/SpeakerVid-5M/) – [Data](https://dorniwang.github.io/SpeakerVid-5M/) |
 | **TalkCuts: A Large-Scale Dataset for Multi-Shot Human Speech Video Generation**    | Arxiv                 | Oct 8 2025 | [Paper](https://arxiv.org/abs/2510.07249) – [Project](https://talkcuts.github.io/) – [Data](https://www.kaggle.com/datasets/f6e549a12ebd5ee185dc27247602d6e3828b772a68bae1f080587a6b84fafbbd) |
 
-#### ID-Driven Creation Datasets (Human-Domain)
+#### ID-Driven Creation Datasets 
 | Title / Dataset   | Venue                 | Date        | Links                                                        |
 | ----------------- | --------------------- | ----------- | ------------------------------------------------------------ |
 | **TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head Synthesis** | Arxiv 2025 | Aug 2025 | [Paper](https://arxiv.org/pdf/2508.13618) – [Project](https://github.com/FreedomIntelligence/TalkVid) – [Data](https://github.com/FreedomIntelligence/TalkVid) |

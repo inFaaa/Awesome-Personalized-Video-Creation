@@ -1,5 +1,5 @@
 <div align=center>
- <img src="src/logo.png" width="150px">
+ <img src="src/title_icon.png" width="150px">
 </div>
 <h2 align="center">
   <a href="">🔥 Awesome Personalized Video Creation</a>

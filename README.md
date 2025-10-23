@@ -47,7 +47,7 @@ This repository is dedicated to collecting, organizing, and tracking recent adva
 - [💼 Commercial Personalized Video Generation Models](#-commercial-personalized-video-generation-models)
 - [📈 Datasets and Benchmarks](#-datasets-and-benchmarks)
   - [🌟 Personalized Video Generation Benchmarks](#-personalized-video-generation-benchmarks)
-  - [📂 Personalized Video Generation Datasets](#-personalized-video-generation-datasets))
+  - [📂 Personalized Video Generation Datasets](#-personalized-video-generation-datasets)
   - [📏 Key Evaluation Metrics](#-key-evaluation-metrics)
 - [👍 Acknowledgement](#-acknowledgement)
 

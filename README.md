@@ -193,6 +193,7 @@ Markdown format:
 | **EditVerse: Unifying Image and Video Editing and Generation with In-Context Learning** | arXiv | Sep 24 2025|[Paper](https://arxiv.org/pdf/2509.20360) |
 | **IMAGEdit : Let Any Subject Transform** | arXiv | Oct 01 2025| [Paper](https://arxiv.org/pdf/2510.01186) - [Project](https://muzishen.github.io/IMAGEdit/) - [Code](https://github.com/XWH-A/IMAGEdit)|
 | **InstructX: Towards Unified Visual Editing with MLLM Guidance** | arXiv | Oct 10 2025|[Paper](https://arxiv.org/pdf/2510.08485) |
+| **In-Context Learning with Unpaired Clips for Instruction-based Video Editing** | arXiv | Oct 16 2025| [Paper](https://arxiv.org/pdb/2510.14648) - [Code](https://github.com/leoisufa/ICVE?tab=readme-ov-file)|
 
 ### 🔥 Style-Driven Video Generation Models
 
@@ -240,6 +241,7 @@ Markdown format:
 | **HuMo: Human-Centric Video Generation via Collaborative Multi-Modal Conditioning**| arXiv | Seq 10 2025 | [Paper](https://arxiv.org/pdf/2509.08519) - [Code](https://github.com/Phantom-video/HuMo) - [Page](https://phantom-video.github.io/HuMo/) |
 | **Lynx: Towards High-Fidelity Personalized Video Generation**| arXiv | Seq 19 2025| [Paper](https://arxiv.org/pdf/2509.15496) - [Project](https://byteaigc.github.io/Lynx/)|
 | **Stand-In: A Lightweight and Plug-and-Play Identity Control for Video Generation** | arXiv     | Aug 12 2025      | [Paper](https://arxiv.org/pdf/2508.07901) - [Page](https://www.stand-in.tech/) - [Code](https://github.com/WeChatCV/Stand-In)|
+| **Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning** | arXiv     | Oct 17 2025      | [Paper](https://arxiv.org/pdf/2510.14256) - [Page](https://ali-videoai.github.io/identity_page) - [Code](https://github.com/alibaba/identity-grpo)|
 
 
 ### 🎺 Audio-Driven Portrait Animation

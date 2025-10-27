@@ -243,6 +243,10 @@ Markdown format:
 | **Stand-In: A Lightweight and Plug-and-Play Identity Control for Video Generation** | arXiv     | Aug 12 2025      | [Paper](https://arxiv.org/pdf/2508.07901) - [Page](https://www.stand-in.tech/) - [Code](https://github.com/WeChatCV/Stand-In)|
 | **Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning** | arXiv     | Oct 17 2025      | [Paper](https://arxiv.org/pdf/2510.14256) - [Page](https://ali-videoai.github.io/identity_page) - [Code](https://github.com/alibaba/identity-grpo)|
 
+#### Training-free
+| Title                                                        | Venue     | Date        | Links                                                        |
+| ------------------------------------------------------------ | --------- | ----------- | ------------------------------------------------------------ |
+| **BachVid: Training-Free Video Generation with Consistent Background and Character** | arXiv | Oct 24 2025 | [Paper](https://arxiv.org/pdf/2510.21696) – [Code](https://github.com/wolfball/BachVid) |
 
 ### 🎺 Audio-Driven Portrait Animation
 

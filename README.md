@@ -79,6 +79,7 @@ Markdown format:
 - [Open-Sora](https://github.com/hpcaitech/Open-Sora)
 - [Pyramid Flow](https://github.com/jy0205/Pyramid-Flow?tab=readme-ov-file)
 - [Latte](https://github.com/Vchitect/Latte)
+- [LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)
 #### 🌀 U-Net
 - [Stable Video Diffusion](https://github.com/Stability-AI/generative-models)
 - [AnimateDiff](https://github.com/guoyww/AnimateDiff)
@@ -166,6 +167,7 @@ Markdown format:
 | **DreamRunner: Fine-Grained Compositional Story-to-Video Generation with Retrieval-Augmented Motion Adaptation** | Arxiv | Mar 18 2025      | [Paper](https://arxiv.org/pdf/2411.16657) - [Project](https://zunwang1.github.io/DreamRunner) - [Code](https://github.com/wz0919/DreamRunner) |
 | **JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation** | arXiv        | Mar 31 2025      | [Paper](https://arxiv.org/abs/2503.23951) – [Project](https://fdchen24.github.io/JointTuner-Website/) |
 | **PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement** | arXiv        | Jun 9 2025       | [Paper](https://sjtuplayer.github.io/projects/PolyVivid/)|
+| **CoMo: Compositional Motion Customization for Text-to-Video Generation** | arXiv        | Oct 27 2025       | [Paper](https://arxiv.org/pdf/2510.23007) - [Page](https://como6.github.io)|
 
 
 ### ✂️ Personalized Video Editing Models
@@ -265,7 +267,8 @@ Markdown format:
 | **FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for Audio-Driven Portrait Animation** | arXiv  | Aug 15 2025 | [Paper](https://arxiv.org/pdf/2508.11255) - [Project](https://fantasyamap.github.io/fantasy-talking2/)|
 | **Kling-Avatar: Grounding Multimodal Instructions for Cascaded Long-Duration Avatar Animation Synthesis** | arXiv | Sep 11 2025 | [Paper](https://arxiv.org/pdf/2509.09595) - [Project](https://klingavatar.github.io/) |
 | **Input-Aware Sparse Attention for Real-Time Co-Speech Video Generation** | Siggrapha Asia | Oct 2 2025 | [Paper](https://arxiv.org/pdf/2510.02617) - [Project](https://beijia11.github.io/IASA/) - [Code](https://github.com/Beijia11/IASA)｜
-| **Paper2Video: Automatic Video Generation from Scientific Papers** | arxiv | Oct 6 2025 | [Paper](https://arxiv.org/abs/2510.05096) - [Project](https://showlab.github.io/Paper2Video/) - [Code](https://github.com/showlab/Paper2Video) |
+| **Paper2Video: Automatic Video Generation from Scientific Papers** | arXiv | Oct 6 2025 | [Paper](https://arxiv.org/abs/2510.05096) - [Project](https://showlab.github.io/Paper2Video/) - [Code](https://github.com/showlab/Paper2Video) |
+| **Lookahead Anchoring: Preserving Character Identity in Audio-Driven Human Animation** | arXiv | Oct 27 2025 | [Paper](https://arxiv.org/pdf/2510.23581) - [Project](https://lookahead-anchoring.github.io) - [Code](https://github.com/j0seo/lookahead-anchoring) |
 
 
 ### 🕺 Pose-Driven Human Animation

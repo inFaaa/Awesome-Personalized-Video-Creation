@@ -324,6 +324,7 @@ Markdown format:
 - [Runway Aleph](https://runwayml.com/research/introducing-runway-aleph)
 - [Sora 2](https://openai.com/index/sora-2/)
 - [GaGa](https://gaga.art/app)
+- [LTX 2](https://app.ltx.studio)
 
 
 ## 📈 Datasets and Benchmarks

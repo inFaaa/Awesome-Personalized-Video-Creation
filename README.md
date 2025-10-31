@@ -37,7 +37,7 @@ This repository is dedicated to collecting, organizing, and tracking recent adva
   - [🎨 Subject-Driven Video Generation Models](#-subject-driven-video-generation-models)
   - [🎥 Motion-Driven Video Generation Models](#-motion-driven-video-generation-models)
   - [✂️ Personalized Video Editing Models](#️-personalized-video-editing-models)
-  - [🔥 Style-Driven Video Generation Models](#-style-driven-video-generation-models)
+  - [🔥 Look-Driven Video Generation Models](#-style-driven-video-generation-models)
 - [🧑 Human-Domain Personalized Video Generation Models](#-human-domain-personalized-video-generation-models)
   - [🎨 Identity-Driven Video Generation Models](#-identity-driven-video-generation-models)
   - [🎺 Audio-Driven Portrait Animation](#-audio-driven-portrait-animation)

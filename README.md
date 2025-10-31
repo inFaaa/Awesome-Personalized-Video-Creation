@@ -110,8 +110,6 @@ Markdown format:
 - [Inpainting](https://github.com/geekyutao/Inpaint-Anything)
 
 
-
-
 ## 🌐 Open-Domain Personalized Video Generation Models
 
 ### 🎨 Subject-Driven Video Generation Models
@@ -197,7 +195,20 @@ Markdown format:
 | **InstructX: Towards Unified Visual Editing with MLLM Guidance** | arXiv | Oct 10 2025|[Paper](https://arxiv.org/pdf/2510.08485) |
 | **In-Context Learning with Unpaired Clips for Instruction-based Video Editing** | arXiv | Oct 16 2025| [Paper](https://arxiv.org/pdb/2510.14648) - [Code](https://github.com/leoisufa/ICVE?tab=readme-ov-file)|
 
-### 🔥 Style-Driven Video Generation Models
+### 🔥 Look-Driven Video Generation Models
+
+Look: The unified visual baseline of a piece—covering style, color, and lighting, texture/grade, and any VFX choices, to achieve a consistent on-screen feel.
+
+| Title                                                        | Venue        | Date        | Links                                                        |
+| ------------------------------------------------------------ | ------------ | ----------- | ------------------------------------------------------------ |
+| **VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context Learning** | arXiv | Oct 29 2025 | [Paper](https://arxiv.org/pdf/2510.25772) – [Project](https://libaolu312.github.io/VFXMaster/) – [Code](https://github.com/libaolu312/VFXMaster) |
+| **Video-As-Prompt: Unified Semantic Control for Video Generation** | arXiv | Oct 28 2025 | [Paper](https://arxiv.org/pdf/2510.20888) – [Project](https://bytedance.github.io/Video-As-Prompt/) – [Code](https://github.com/bytedance/Video-As-Prompt) |
+| **Omni-Effects: Unified and Spatially-Controllable Visual Effects Generation** | arXiv | Aug 11 2025 | [Paper](https://arxiv.org/abs/2508.07981) – [Project](https://amap-ml.github.io/Omni-Effects.github.io/) – [Code](https://github.com/AMAP-ML/Omni-Effects) |
+| **VFX Creator: Animated Visual Effect Generation with Controllable Diffusion Transformer** | arXiv | Feb 09 2025 | [Paper](https://arxiv.org/pdf/2502.05979) – [Project](https://vfx-creator0.github.io/?utm_source=futuretools.io&utm_medium=newspage)  |
+| **StyleMaster: Stylize Your Video with Artistic Generation and Translation** | CVPR 2025 | Dec 10 2024 | [Paper](https://arxiv.org/pdf/2412.07744) – [Project](https://zixuan-ye.github.io/stylemaster/) – [Code](https://github.com/KwaiVGI/StyleMaster) |
+
+
+
 
 <!-- ### 🔄 Unified Generation and Editing Models 
 

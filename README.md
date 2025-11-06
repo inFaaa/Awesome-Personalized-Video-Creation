@@ -255,6 +255,7 @@ Look: The unified visual baseline of a piece—covering style, color, and lighti
 | **Lynx: Towards High-Fidelity Personalized Video Generation**| arXiv | Seq 19 2025| [Paper](https://arxiv.org/pdf/2509.15496) - [Project](https://byteaigc.github.io/Lynx/)|
 | **Stand-In: A Lightweight and Plug-and-Play Identity Control for Video Generation** | arXiv     | Aug 12 2025      | [Paper](https://arxiv.org/pdf/2508.07901) - [Page](https://www.stand-in.tech/) - [Code](https://github.com/WeChatCV/Stand-In)|
 | **Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning** | arXiv     | Oct 17 2025      | [Paper](https://arxiv.org/pdf/2510.14256) - [Page](https://ali-videoai.github.io/identity_page) - [Code](https://github.com/alibaba/identity-grpo)|
+| **ID-Composer: Multi-Subject Video Synthesis with Hierarchical Identity Preservation** | arXiv     | Nov 1 2025      | [Paper](https://arxiv.org/abs/2511.00511) |
 
 #### Training-free
 | Title                                                        | Venue     | Date        | Links                                                        |

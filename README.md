@@ -88,6 +88,7 @@ Markdown format:
 #### 🌀 Autoregressive
 - [Video-GPT](https://github.com/zhuangshaobin/Video-GPT)
 - [MAGI-1](https://github.com/SandAI-org/MAGI-1)
+- [Cosmos](https://arxiv.org/pdf/2511.00062)
 
 
 ### 🎛️ Multi-Modal Control Signal Tokenization

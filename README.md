@@ -166,6 +166,7 @@ Markdown format:
 | **JointTuner: Appearance-Motion Adaptive Joint Training for Customized Video Generation** | arXiv        | Mar 31 2025      | [Paper](https://arxiv.org/abs/2503.23951) – [Project](https://fdchen24.github.io/JointTuner-Website/) |
 | **PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement** | arXiv        | Jun 9 2025       | [Paper](https://sjtuplayer.github.io/projects/PolyVivid/)|
 | **CoMo: Compositional Motion Customization for Text-to-Video Generation** | arXiv        | Oct 27 2025       | [Paper](https://arxiv.org/pdf/2510.23007) - [Page](https://como6.github.io)|
+| **MotionStream: Real-Time Video Generation with Interactive Motion Controls** | arXiv        | Nov 03 2025       | [Paper](https://arxiv.org/abs/2511.01266) - [Page](https://joonghyuk.com/motionstream-web/) - [https://github.com/alex4727/motionstream]|
 
 
 ### ✂️ Personalized Video Editing Models

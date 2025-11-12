@@ -283,6 +283,7 @@ Look: The unified visual baseline of a piece—covering style, color, and lighti
 | **Input-Aware Sparse Attention for Real-Time Co-Speech Video Generation** | Siggrapha Asia | Oct 2 2025 | [Paper](https://arxiv.org/pdf/2510.02617) - [Project](https://beijia11.github.io/IASA/) - [Code](https://github.com/Beijia11/IASA)｜
 | **Paper2Video: Automatic Video Generation from Scientific Papers** | arXiv | Oct 6 2025 | [Paper](https://arxiv.org/abs/2510.05096) - [Project](https://showlab.github.io/Paper2Video/) - [Code](https://github.com/showlab/Paper2Video) |
 | **Lookahead Anchoring: Preserving Character Identity in Audio-Driven Human Animation** | arXiv | Oct 27 2025 | [Paper](https://arxiv.org/pdf/2510.23581) - [Project](https://lookahead-anchoring.github.io) - [Code](https://github.com/j0seo/lookahead-anchoring) |
+| **Playmate2: Training-Free Multi-Character Audio-Driven Animation via Diffusion Transformer with Reward Feedback** | AAAI | Oct 14 2025 | [Paper](https://arxiv.org/abs/2510.12089) - [Project](https://playmate111.github.io/Playmate2/) - [Code](https://github.com/Playmate111/Playmate2) |
 
 
 ### 🕺 Pose-Driven Human Animation

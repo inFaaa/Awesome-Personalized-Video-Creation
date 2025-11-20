@@ -80,6 +80,7 @@ Markdown format:
 - [Pyramid Flow](https://github.com/jy0205/Pyramid-Flow?tab=readme-ov-file)
 - [Latte](https://github.com/Vchitect/Latte)
 - [LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)
+- [Kandinsky 5.0](https://github.com/kandinskylab/kandinsky-5)
 #### 🌀 U-Net
 - [Stable Video Diffusion](https://github.com/Stability-AI/generative-models)
 - [AnimateDiff](https://github.com/guoyww/AnimateDiff)
@@ -146,6 +147,7 @@ Markdown format:
 | **Tora2: Motion and Appearance Customized DiffusionTransformer for Multi-Entity Video Generation** | arXiv     | Jul 08 2025 | [Paper](https://arxiv.org/pdf/2507.05963) |
 | **BindWeave: Subject-Consistent Video Generation via Cross-Modal Integration** | arXiv     | Oct 1 2025      | [Paper](https://arxiv.org/abs/2510.00438) [Page](https://lzy-dot.github.io/BindWeave/) |
 | **Kaleido: Open-Sourced Multi-Subject Reference Video Generation Model** | arXiv  | Oct 21 2025      | [Paper](https://arxiv.org/abs/2510.18573) [Code](https://github.com/CriliasMiller/Kaleido) |
+| **First Frame Is the Place to Go for Video Content Customization** | arXiv  | Nov 19 2025      | [Paper](https://arxiv.org/pdf/2511.15700) [Code](https://github.com/zli12321/FFGO-Video-Customization) |
 
 
 

@@ -236,7 +236,7 @@ Look: The unified visual baseline of a piece—covering style, color, and lighti
 | Title                                                        | Venue     | Date        | Links                                                        |
 | ------------------------------------------------------------ | --------- | ----------- | ------------------------------------------------------------ |
 | **Magic-Me: Identity-Specific Video Customized Diffusion**   | arXiv     | Mar 20 2024 | [Paper](https://arxiv.org/pdf/2402.09368) – [Project](https://magic-me-webpage.github.io/) – [Code](https://github.com/Zhen-Dong/Magic-Me) |
-| **ID-Animator: Zero-Shot Identity-Preserving Human Video Generation** | arXiv     | Apr 23 2024 | [Paper](https://arxiv.org/abs/2404.15275) – [Project](https://id-animator.github.io) – [Code](https://github.com/PKU-Alignment/ID-Animator) |
+| **ID-Animator: Zero-Shot Identity-Preserving Human Video Generation** | arXiv     | Apr 23 2024 | [Paper](https://arxiv.org/abs/2404.15275) – [Project](https://id-animator.github.io) – [Code](https://github.com/ID-Animator/ID-Animator) |
 | **PersonalVideo: High ID-Fidelity Video Customization without Dynamic and Semantic Degradation** | ICCV 2025  | Mar 16 2025 | [Paper](https://arxiv.org/pdf/2411.17048) – [Project](https://personalvideo.github.io/) –[Code](https://github.com/EchoPluto/PersonalVideo) |
 | **MagicID: Hybrid Preference Optimization for ID-Consistent and Dynamic-Preserved Video Customization** | arXiv     | Mar 16 2025 | [Paper](https://arxiv.org/abs/2503.12689) – [Project](https://echopluto.github.io/MagicID-project/) –[Code](https://github.com/EchoPluto/MagicID) |
 

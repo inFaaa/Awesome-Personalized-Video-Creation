@@ -314,6 +314,7 @@ Look: The unified visual baseline of a piece—covering style, color, and lighti
 | **DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation** | arXiv | May 23 2025 | [Paper](https://arxiv.org/pdf/2505.18078)  – [Page](https://dancetog.github.io/) - [Code](https://github.com/yisuanwang/DanceTog) |
 | **StableAnimator++: Overcoming Pose Misalignment and Face Distortion for Human Image Animation** | arXiv | Jul 20 2025 | [Paper](https://arxiv.org/pdf/2507.15064)  – [Page](https://francis-rings.github.io/StableAnimator++/) |
 | **Wan-Animate: Unified Character Animation and Replacement with Holistic Replication** | arXiv | Seq 17 2025 | [Paper](https://arxiv.org/abs/2509.14055)  – [Page](https://humanaigc.github.io/wan-animate/) |
+| **SteadyDancer: Harmonized and Coherent Human Image Animation with First-Frame Preservation** | arXiv | Nov 24 2025 | [Paper](https://arxiv.org/pdf/2511.19320)  – [Page](https://mcg-nju.github.io/steadydancer-web/) - [Code](https://github.com/MCG-NJU/SteadyDancer) |
 
 
 

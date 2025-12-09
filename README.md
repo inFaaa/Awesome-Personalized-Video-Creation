@@ -170,6 +170,7 @@ Markdown format:
 | **PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement** | arXiv        | Jun 9 2025       | [Paper](https://sjtuplayer.github.io/projects/PolyVivid/)|
 | **CoMo: Compositional Motion Customization for Text-to-Video Generation** | arXiv        | Oct 27 2025       | [Paper](https://arxiv.org/pdf/2510.23007) - [Page](https://como6.github.io)|
 | **MotionStream: Real-Time Video Generation with Interactive Motion Controls** | arXiv        | Nov 03 2025       | [Paper](https://arxiv.org/abs/2511.01266) - [Page](https://joonghyuk.com/motionstream-web/) - [https://github.com/alex4727/motionstream]|
+| **MultiMotion: Multi Subject Video Motion Transfer via Video Diffusion Transformer** | arXiv        | Dec 08 2025       | [Paper](https://arxiv.org/pdf/2512.07500) |
 
 
 ### ✂️ Personalized Video Editing Models
@@ -224,7 +225,8 @@ Look: The unified visual baseline of a piece—covering style, color, and lighti
 | **HunyuanCustom: A Multimodal-Driven Architecture for Customized Video Generation** | arXiv        | May 8 2025  | [Paper](https://arxiv.org/pdf/2505.04512) – [Project](https://hunyuancustom.github.io/) – [Code](https://github.com/Tencent-Hunyuan/HunyuanCustom) |
 | **VACE: All-in-One Video Creation and Editing**              | arxiv        | Mar 10 2025 | [Code](https://github.com/ali-vilab/VACE) - [Project](https://ali-vilab.github.io/VACE-Page/) - [Paper](https://arxiv.org/abs/2503.07598) |
 | **OmniVCus: Feedforward Subject-driven Video Customization with Multimodal Control Conditions**              | arxiv        | Jun 29 2025 | [Code](https://github.com/caiyuanhao1998/Open-OmniVCus) - [Paper](https://arxiv.org/pdf/2506.23361) - [Project](https://caiyuanhao1998.github.io/project/OmniVCus/) |
-| **UniVideo: Unified Understanding, Generation, and Editing for Videos**              | arxiv        | Oct 9 2025 | [Code](https://github.com/KwaiVGI/UniVideo) - [Paper](https://arxiv.org/abs/2510.08377) - [Project](https://congwei1230.github.io/UniVideo/) | -->
+| **UniVideo: Unified Understanding, Generation, and Editing for Videos**              | arxiv        | Oct 9 2025 | [Code](https://github.com/KwaiVGI/UniVideo) - [Paper](https://arxiv.org/abs/2510.08377) - [Project](https://congwei1230.github.io/UniVideo/) |
+| **VDOT: Efficient Unified Video Creation via Optimal Transport Distillation**              | arxiv         |-->
 
 
 ## 🧑 Human-Domain Personalized Video Generation Models
@@ -260,11 +262,13 @@ Look: The unified visual baseline of a piece—covering style, color, and lighti
 | **Stand-In: A Lightweight and Plug-and-Play Identity Control for Video Generation** | arXiv     | Aug 12 2025      | [Paper](https://arxiv.org/pdf/2508.07901) - [Page](https://www.stand-in.tech/) - [Code](https://github.com/WeChatCV/Stand-In)|
 | **Identity-GRPO: Optimizing Multi-Human Identity-preserving Video Generation via Reinforcement Learning** | arXiv     | Oct 17 2025      | [Paper](https://arxiv.org/pdf/2510.14256) - [Page](https://ali-videoai.github.io/identity_page) - [Code](https://github.com/alibaba/identity-grpo)|
 | **ID-Composer: Multi-Subject Video Synthesis with Hierarchical Identity Preservation** | arXiv     | Nov 1 2025      | [Paper](https://arxiv.org/abs/2511.00511) |
+| **ContextAnyone: Context-Aware Diffusion for Character-Consistent Text-to-Video Generation** | arXiv | Dec 8 2025 | [Paper](https://arxiv.org/pdf/2512.07328) - [Github](https://github.com/ziyang1106/ContextAnyone)|
 
 #### Training-free
 | Title                                                        | Venue     | Date        | Links                                                        |
 | ------------------------------------------------------------ | --------- | ----------- | ------------------------------------------------------------ |
 | **BachVid: Training-Free Video Generation with Consistent Background and Character** | arXiv | Oct 24 2025 | [Paper](https://arxiv.org/pdf/2510.21696) – [Code](https://github.com/wolfball/BachVid) |
+｜**Scaling Zero-Shot Reference-to-Video Generation** ｜ arXiv | Dec 7 2025| [Paper](https://arxiv.org/pdf/2512.06905) - [Code](https://github.com/franciszzj/Saber) - [Project](https://franciszzj.github.io/Saber/)｜
 
 ### 🎺 Audio-Driven Portrait Animation
 
